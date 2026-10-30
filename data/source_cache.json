@@ -1,0 +1,674 @@
+{
+  "RFI中文": {
+    "items": [
+      {
+        "title": "白昼之夜「夜卡西」为台北点一曲夜晚旋律 首次与巴黎104艺术中心合作",
+        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261030-%E7%99%BD%E6%98%BC%E4%B9%8B%E5%A4%9C-%E5%A4%9C%E5%8D%A1%E8%A5%BF-%E4%B8%BA%E5%8F%B0%E5%8C%97%E7%82%B9%E4%B8%80%E6%9B%B2%E5%A4%9C%E6%99%9A%E6%97%8B%E5%BE%8B-%E9%A6%96%E6%AC%A1%E4%B8%8E%E5%B7%B4%E9%BB%8E104%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83%E5%90%88%E4%BD%9C",
+        "published_at": "2026-10-30T08:11:50+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "官民落差：京官赞港府勇推改革 灾民不满更忧新措施难敌推诿漏习",
+        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261030-%E5%AE%98%E6%B0%91%E8%90%BD%E5%B7%AE-%E4%BA%AC%E5%AE%98%E8%B5%9E%E6%B8%AF%E5%BA%9C%E5%8B%87%E6%8E%A8%E6%94%B9%E9%9D%A9-%E7%81%BE%E6%B0%91%E4%B8%8D%E6%BB%A1%E6%9B%B4%E5%BF%A7%E6%96%B0%E6%8E%AA%E6%96%BD%E9%9A%BE%E6%95%8C%E6%8E%A8%E8%AF%BF%E6%BC%8F%E4%B9%A0",
+        "published_at": "2026-10-30T08:05:36+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "港府再有项目夭折 「山顶光影汇」惹争议后叫停",
+        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261030-%E6%B8%AF%E5%BA%9C%E5%86%8D%E6%9C%89%E9%A1%B9%E7%9B%AE%E5%A4%AD%E6%8A%98-%E5%B1%B1%E9%A1%B6%E5%85%89%E5%BD%B1%E6%BB%99-%E6%83%B9%E4%BA%89%E8%AE%AE%E5%BE%8C%E5%8F%AB%E5%81%9C",
+        "published_at": "2026-10-30T07:34:14+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国中期选举：一个被削弱的选举进程",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261030-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E4%B8%80%E4%B8%AA%E8%A2%AB%E5%89%8A%E5%BC%B1%E7%9A%84%E9%80%89%E4%B8%BE%E8%BF%9B%E7%A8%8B",
+        "published_at": "2026-10-30T01:36:35+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国务院：乐见巴基斯坦撤回拒绝台湾民航公司飞越其空域的报导",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261029-%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2-%E4%B9%90%E8%A7%81%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%92%A4%E5%9B%9E%E6%8B%92%E7%BB%9D%E5%8F%B0%E6%B9%BE%E6%B0%91%E8%88%AA%E5%85%AC%E5%8F%B8%E9%A3%9E%E8%B6%8A%E5%85%B6%E7%A9%BA%E5%9F%9F%E7%9A%84%E6%8A%A5%E5%AF%BC",
+        "published_at": "2026-10-29T21:27:57+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "俄喷射无人机击中乌第聂伯罗火车站一月台至少13死5伤",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261029-%E4%BF%84%E5%96%B7%E5%B0%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%87%BB%E4%B8%AD%E4%B9%8C%E7%AC%AC%E8%81%82%E4%BC%AF%E7%BD%97%E7%81%AB%E8%BD%A6%E7%AB%99%E4%B8%80%E6%9C%88%E5%8F%B0%E8%87%B3%E5%B0%9113%E6%AD%BB5%E4%BC%A4",
+        "published_at": "2026-10-29T21:16:03+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "31日法将出动7万名警察和宪兵维护治安",
+        "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261029-31%E6%97%A5%E6%B3%95%E5%B0%86%E5%87%BA%E5%8A%A87%E4%B8%87%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%92%8C%E5%AE%AA%E5%85%B5%E7%BB%B4%E6%8A%A4%E6%B2%BB%E5%AE%89",
+        "published_at": "2026-10-29T20:47:25+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "12个欧盟国家将投放4260万桶石油 其中一半是柴油",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261029-12%E4%B8%AA%E6%AC%A7%E7%9B%9F%E5%9B%BD%E5%AE%B6%E5%B0%86%E6%8A%95%E6%94%BE4260%E4%B8%87%E6%A1%B6%E7%9F%B3%E6%B2%B9-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%8D%8A%E6%98%AF%E6%9F%B4%E6%B2%B9",
+        "published_at": "2026-10-29T20:41:23+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "民主党议员要求特朗普保留与AI的聊天记录",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261029-%E6%B0%91%E4%B8%BB%E5%85%9A%E8%AE%AE%E5%91%98%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%9D%E7%95%99%E4%B8%8Eai%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+        "published_at": "2026-10-29T20:36:54+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "姆巴佩或将被迫向中国支付数百万欧元！",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261029-%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E5%B0%86%E8%A2%AB%E8%BF%AB%E5%90%91%E4%B8%AD%E5%9B%BD%E6%94%AF%E4%BB%98%E6%95%B0%E7%99%BE%E4%B8%87%E6%AC%A7%E5%85%83",
+        "published_at": "2026-10-29T20:33:17+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法《鸟类呼唤》获得2026年小说大奖",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261029-%E6%B3%95-%E9%B8%9F%E7%B1%BB%E5%91%BC%E5%94%A4-%E8%8E%B7%E5%BE%972026%E5%B9%B4%E5%B0%8F%E8%AF%B4%E5%A4%A7%E5%A5%96",
+        "published_at": "2026-10-29T20:29:18+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "伊武装部队：四艘油轮穿过霍尔木兹时触雷起火",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261029-%E4%BC%8A%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F-%E5%9B%9B%E8%89%98%E6%B2%B9%E8%BD%AE%E7%A9%BF%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%97%B6%E8%A7%A6%E9%9B%B7%E8%B5%B7%E7%81%AB",
+        "published_at": "2026-10-29T20:25:11+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "人工智能：加拿大向Cohere投资16亿加元",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261029-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%90%91cohere%E6%8A%95%E8%B5%8416%E4%BA%BF%E5%8A%A0%E5%85%83",
+        "published_at": "2026-10-29T20:22:44+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "一架欧盟部队直升机在波斯尼亚坠毁 死伤多人",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261029-%E4%B8%80%E6%9E%B6%E6%AC%A7%E7%9B%9F%E9%83%A8%E9%98%9F%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%9C%A8%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9A%E5%9D%A0%E6%AF%81-%E6%AD%BB%E4%BC%A4%E5%A4%9A%E4%BA%BA",
+        "published_at": "2026-10-29T20:20:52+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "油价和物价困扰着美国选民",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261029-%E6%B2%B9%E4%BB%B7%E5%92%8C%E7%89%A9%E4%BB%B7%E5%9B%B0%E6%89%B0%E7%9D%80%E7%BE%8E%E5%9B%BD%E9%80%89%E6%B0%91",
+        "published_at": "2026-10-29T20:16:55+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "英影视演员斯图尔特离世 享年83岁",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261029-%E8%8B%B1%E5%BD%B1%E8%A7%86%E6%BC%94%E5%91%98%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%E7%A6%BB%E4%B8%96-%E4%BA%AB%E5%B9%B483%E5%B2%81",
+        "published_at": "2026-10-29T20:13:29+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "非洲 :马里社会的两桩重大事件",
+        "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261029-rfi%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E2%80%93-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E2%80%93%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E9%87%8C%E7%A4%BE%E4%BC%9A%E7%9A%84%E4%B8%A4%E6%A1%A9%E9%87%8D%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+        "published_at": "2026-10-29T20:07:37+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国联邦通信委员会禁止中国实验室为美国市场产品测试",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261029-%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%91%98%E4%BC%9A%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%BA%A7%E5%93%81%E6%B5%8B%E8%AF%95",
+        "published_at": "2026-10-29T19:52:44+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国将在日本建空对空导弹总装厂 宣布增加对菲军队现代化资助",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261029-%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BB%BA%E7%A9%BA%E5%AF%B9%E7%A9%BA%E5%AF%BC%E5%BC%B9%E6%80%BB%E8%A3%85%E5%8E%82-%E5%A2%9E%E5%8A%A0%E5%AF%B9%E8%8F%B2%E5%86%9B%E9%98%9F%E7%8E%B0%E4%BB%A3%E5%8C%96%E8%B5%84%E5%8A%A9",
+        "published_at": "2026-10-29T17:41:32+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国足协主席：姆巴佩无意侮辱或冒犯中国人民",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261029-%E6%B3%95%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD-%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%97%A0%E6%84%8F%E4%BE%AE%E8%BE%B1%E6%88%96%E5%86%92%E7%8A%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91",
+        "published_at": "2026-10-29T16:33:58+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  },
+  "BBC中文": {
+    "items": [
+      {
+        "title": "「我不希望它成为我的身份」：Hyrox失禁选手复出比赛前接受BBC专访",
+        "link": "https://www.bbc.com/zhongwen/articles/cmy932qe3wx3o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T05:40:19+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "为什么欧洲各国年轻人走上街头？背后的共同诉求和暴力隐忧",
+        "link": "https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T03:52:26+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中国施压下姆巴佩道歉，但许多人仍不知道他究竟说了什么",
+        "link": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T00:23:04+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "如何不刻意锻炼，也能增加活动量？",
+        "link": "https://www.bbc.com/zhongwen/articles/c3lylxpp7vjzo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T00:20:50+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "医疗",
+        "cached": false
+      },
+      {
+        "title": "巴西前总统博索纳罗之子败给卢拉后，为何飞往美国？",
+        "link": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T16:19:30+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  },
+  "中央社国际": {
+    "items": [
+      {
+        "title": "尼坦雅胡阵营失去国会多数 控大选遭窃取",
+        "link": "https://www.cna.com.tw/news/aopl/202610300178.aspx",
+        "published_at": "2026-10-30T07:37:38+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "TRM Labs：币安被骇63亿美元遭窃 北韩骇客涉嫌犯案",
+        "link": "https://www.cna.com.tw/news/aopl/202610300172.aspx",
+        "published_at": "2026-10-30T07:20:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "日本退税新制冲击买气？业界估年底前恐有适应期",
+        "link": "https://www.cna.com.tw/news/aopl/202610300165.aspx",
+        "published_at": "2026-10-30T07:02:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "野火波及文化遗产 印尼史前岩画与古墓受威胁",
+        "link": "https://www.cna.com.tw/news/aopl/202610300164.aspx",
+        "published_at": "2026-10-30T07:01:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "日本退税新制一定要逐件开箱？ 绿灯5秒可直接通关",
+        "link": "https://www.cna.com.tw/news/aopl/202610300160.aspx",
+        "published_at": "2026-10-30T06:54:59+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "日本退税新制11月上路 防堵逃税兼顾购物便利",
+        "link": "https://www.cna.com.tw/news/aopl/202610300159.aspx",
+        "published_at": "2026-10-30T06:53:57+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "4度测谎未过 美陆军中将泄乌伊机密遭革职",
+        "link": "https://www.cna.com.tw/news/aopl/202610300153.aspx",
+        "published_at": "2026-10-30T06:40:44+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "印尼野火酿严重霾害 9月估酿3560死",
+        "link": "https://www.cna.com.tw/news/aopl/202610300152.aspx",
+        "published_at": "2026-10-30T06:38:42+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "伊朗称4艘油轮荷莫兹海峡触雷起火 英证实船员获救火势灭",
+        "link": "https://www.cna.com.tw/news/aopl/202610300142.aspx",
+        "published_at": "2026-10-30T06:16:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "顾国安兼防诈骗 华府拟禁中国电信商直接取得美号码",
+        "link": "https://www.cna.com.tw/news/aopl/202610300137.aspx",
+        "published_at": "2026-10-30T06:00:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美司法部查加州非公民投票 期中选前施压升高",
+        "link": "https://www.cna.com.tw/news/aopl/202610300122.aspx",
+        "published_at": "2026-10-30T05:16:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧洲央行总裁拉加德坦言无法再保持中立 将提前卸任",
+        "link": "https://www.cna.com.tw/news/aopl/202610300118.aspx",
+        "published_at": "2026-10-30T04:56:26+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "华尔街日报：Anthropic上市有利台湾国安",
+        "link": "https://www.cna.com.tw/news/aopl/202610300105.aspx",
+        "published_at": "2026-10-30T04:33:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "路透：美军基地冷冻设备接连故障 五角大厦怀疑遭网攻",
+        "link": "https://www.cna.com.tw/news/aopl/202610300100.aspx",
+        "published_at": "2026-10-30T04:28:47+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "日本央行宣布通膨率达成2%目标 维持利率1.25%不变",
+        "link": "https://www.cna.com.tw/news/aopl/202610300099.aspx",
+        "published_at": "2026-10-30T04:27:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "川普施压动摇信心 美媒：乌军暂缓攻打俄炼油厂",
+        "link": "https://www.cna.com.tw/news/aopl/202610300092.aspx",
+        "published_at": "2026-10-30T04:06:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "币安疑似遭骇客攻击 25.4亿美元加密资产遭冻结",
+        "link": "https://www.cna.com.tw/news/aopl/202610300054.aspx",
+        "published_at": "2026-10-30T03:01:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "影像大师克拉耶伯义大利首办大型个展 探索科技自然关系",
+        "link": "https://www.cna.com.tw/news/aopl/202610300043.aspx",
+        "published_at": "2026-10-30T02:14:44+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "以色列大选官方结果出炉 尼坦雅胡阵营以53席领先未过半",
+        "link": "https://www.cna.com.tw/news/aopl/202610300036.aspx",
+        "published_at": "2026-10-30T01:34:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普取消周末造势活动 期中选举前改以电话连线助选",
+        "link": "https://www.cna.com.tw/news/aopl/202610300034.aspx",
+        "published_at": "2026-10-30T01:25:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  },
+  "中央社科技": {
+    "items": [
+      {
+        "title": "LINE布局订阅服务 通话录制功能开放免费试用至明年1月",
+        "link": "https://www.cna.com.tw/news/ait/202610300163.aspx",
+        "published_at": "2026-10-30T06:59:06+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "中国绿能出口创新高 一年减碳可抵巴西整年碳排",
+        "link": "https://www.cna.com.tw/news/ait/202610300131.aspx",
+        "published_at": "2026-10-30T05:41:57+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  },
+  "中央社财经": {
+    "items": [
+      {
+        "title": "新台币升1.4分 收32.478元",
+        "link": "https://www.cna.com.tw/news/afe/202610300184.aspx",
+        "published_at": "2026-10-30T08:04:51+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "房仲10月成交量能各有消长 房贷松绑带动看屋意愿",
+        "link": "https://www.cna.com.tw/news/afe/202610300180.aspx",
+        "published_at": "2026-10-30T07:49:42+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "华通大举扩产拚转型 明年AI与卫星营收占比过半",
+        "link": "https://www.cna.com.tw/news/afe/202610300177.aspx",
+        "published_at": "2026-10-30T07:34:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股挫跌1156点失守半年线 周线月线同步收黑",
+        "link": "https://www.cna.com.tw/news/afe/202610300173.aspx",
+        "published_at": "2026-10-30T07:26:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "TRM Labs：币安被骇63亿美元遭窃 北韩骇客涉嫌犯案",
+        "link": "https://www.cna.com.tw/news/aopl/202610300172.aspx",
+        "published_at": "2026-10-30T07:20:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美科技大厂财报不如预期 日经重挫逾2%",
+        "link": "https://www.cna.com.tw/news/afe/202610300169.aspx",
+        "published_at": "2026-10-30T07:14:19+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "三大法人卖超台股1398.44亿元",
+        "link": "https://www.cna.com.tw/news/afe/202610300166.aspx",
+        "published_at": "2026-10-30T07:05:12+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "新唐：BMC产品将新增CSP客户 明年成长可望加速",
+        "link": "https://www.cna.com.tw/news/afe/202610300155.aspx",
+        "published_at": "2026-10-30T06:43:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "11月电子期金融期齐跌",
+        "link": "https://www.cna.com.tw/news/afe/202610300141.aspx",
+        "published_at": "2026-10-30T06:10:18+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "11月台股期指跌1268点",
+        "link": "https://www.cna.com.tw/news/afe/202610300140.aspx",
+        "published_at": "2026-10-30T06:08:16+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股重挫1156.5点 破半年线守45000点",
+        "link": "https://www.cna.com.tw/news/afe/202610300139.aspx",
+        "published_at": "2026-10-30T06:01:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股大跌1156.5点",
+        "link": "https://www.cna.com.tw/news/afe/202610300135.aspx",
+        "published_at": "2026-10-30T05:57:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "114年全国研发经费续增突破1.1兆元 占GDP比率略降",
+        "link": "https://www.cna.com.tw/news/afe/202610300129.aspx",
+        "published_at": "2026-10-30T05:33:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "广达成立达颖智能 布局智慧医疗拚落地走向市场",
+        "link": "https://www.cna.com.tw/news/afe/202610300127.aspx",
+        "published_at": "2026-10-30T05:29:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "鸿海科技日登场 秀3款电动车设计布局轻型车级距",
+        "link": "https://www.cna.com.tw/news/afe/202610300113.aspx",
+        "published_at": "2026-10-30T04:49:16+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "经部：台湾服务业占GDP逾5成 AI应用普及率升至35%",
+        "link": "https://www.cna.com.tw/news/afe/202610300111.aspx",
+        "published_at": "2026-10-30T04:47:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "华尔街日报：Anthropic上市有利台湾国安",
+        "link": "https://www.cna.com.tw/news/aopl/202610300105.aspx",
+        "published_at": "2026-10-30T04:33:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "公平会：台湾App Store佣金降至26% 10/31生效",
+        "link": "https://www.cna.com.tw/news/afe/202610300104.aspx",
+        "published_at": "2026-10-30T04:32:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "日本央行宣布通膨率达成2%目标 维持利率1.25%不变",
+        "link": "https://www.cna.com.tw/news/aopl/202610300099.aspx",
+        "published_at": "2026-10-30T04:27:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "辉达鸿海合作AI模组化资料中心 东元列背板关键供应商",
+        "link": "https://www.cna.com.tw/news/afe/202610300095.aspx",
+        "published_at": "2026-10-30T04:13:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  },
+  "中央社健康": {
+    "items": [],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  },
+  "联合国健康": {
+    "items": [],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  },
+  "Bing中文国际": {
+    "items": [
+      {
+        "title": "“我不希望它成为我的身份”：Hyrox失禁选手复出比赛前接受BBC专访",
+        "link": "https://www.bbc.com/zhongwen/articles/cmy932qe3wx3o/simp",
+        "published_at": "2026-10-29T17:01:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "为什么欧洲各国年轻人走上街头？背后的共同诉求和暴力隐忧",
+        "link": "https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/simp",
+        "published_at": "2026-10-29T17:01:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "如何不刻意锻炼，也能增加活动量？",
+        "link": "https://www.bbc.com/zhongwen/articles/c3lylxpp7vjzo/simp",
+        "published_at": "2026-10-29T17:01:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "医疗",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  },
+  "DW中文": {
+    "items": [],
+    "last_success": "2026-10-30T08:37:08.070967+00:00"
+  }
+}
