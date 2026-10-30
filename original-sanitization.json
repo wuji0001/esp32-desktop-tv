@@ -1,0 +1,13 @@
+{
+  "model": "C3 SD2 V1.7",
+  "bytes": 4194304,
+  "sha256": "0709d4fb52239c2627e4d1561efcea7e7730ae88d45e145bddcb09131f6e4438",
+  "nvs_erased": true,
+  "ota_state_erased": true,
+  "crash_dump_erased": true,
+  "filesystem": "original web pages and factory landscape sample; personal/demo uploads excluded",
+  "bootloader_bytes_preserved": 13248,
+  "application_bytes_preserved": 2933728,
+  "local_wifi_pattern_scan": "passed",
+  "vendor_generic_factory_defaults": "unchanged to preserve original code and image integrity"
+}

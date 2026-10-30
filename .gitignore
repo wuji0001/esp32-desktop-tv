@@ -1,0 +1,12 @@
+.pio/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*private*
+esp32-original-flash.bin
+esp32-stock-tv-before-xiaozhi.bin
+credentials*
+public/
