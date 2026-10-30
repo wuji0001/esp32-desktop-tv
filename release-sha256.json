@@ -1,0 +1,7 @@
+{
+  "original-C3-SD2-V1.7-clean.bin": "0709d4fb52239c2627e4d1561efcea7e7730ae88d45e145bddcb09131f6e4438",
+  "original-firmware-package.zip": "cba4c647a935f8d9f79a4158e361b01b9dac025bfa98feb26d30fabffb67b395",
+  "custom-firmware-package.zip": "0342834e25b5e3fc18b13b42782ecfc10ee5f824008140b948580001c7af66d3",
+  "custom-firmware-sha256.json": "bc11ef381baaaa6c94298446568861c9b17e170a8ea7c8d5c424d2db558cdab8",
+  "original-sanitization.json": "7f99381fd92abf9283cef1967cb797437dbbef35bebe9a03be520a6976712cd6"
+}

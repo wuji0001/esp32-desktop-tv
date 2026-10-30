@@ -29,7 +29,7 @@ GitHub 的定时任务可能排队延迟，不能承诺严格实时。在公共�
 
 ## 自定义包与接线
 
-修改版的编译源码、许可证和烧录分段会以 `custom-firmware-package.zip` 提供；包内 README 说明烧录地址。不要将自定义 app 分段按原厂完整镜像地址烧录。
+修改版的编译源码、许可证和烧录分段以 `custom-firmware-package.zip` 提供；包内 README 说明烧录地址。不要将自定义 app 分段按原厂完整镜像地址烧录。
 
 本机已验证接线：SCLK=3、MOSI=5、DC=2、RST=6、CS=-1、背光=1 且低电平点亮，SPI 10MHz、ST7789_2_DRIVER。不同硬件型号须重新核对。
 
@@ -46,3 +46,9 @@ python publish_news.py
 如需临时局域网转发，可运行 `esp32_news_feed.py --bind <LAN_IP>`。正式独立运行使用 Pages 地址，不需要保留这个进程。
 
 原厂二进制的权利属于原作者；自定义固件的上游许可证、字体 SIL OFL 和作者说明保留在自定义源码包中。
+
+## 已完成验证
+
+2026-10-30：原厂发布镜像的应用校验和 SHA-256 验证通过，实际本地 Wi-Fi 凭据扫描通过；修改版编译和刷写校验通过。GitHub 首次 Actions 抓取与 Pages 部署成功，设备完成带证书校验的 HTTPS 取数；停止 Mac 局域网新闻服务后再次刷新成功，返回 10 条新闻。用户手动调整的网页配置保留。
+
+`original-firmware-package.zip` 为原厂脱敏完整包；`custom-firmware-package.zip` 为修改版源码与烧录分段包。整体文件校验见 `release-sha256.json`。

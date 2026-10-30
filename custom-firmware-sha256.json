@@ -1,0 +1,5 @@
+{
+  "firmware/bootloader.bin": "41c3e57e9942de98fddff1a8a0a2e72bc72b25c36e354e7b8130d116662d6451",
+  "firmware/firmware.bin": "4bf8e9ab272e168b422a9527b88263c594d40e12e422f3cdf16e5a470d4d26f6",
+  "firmware/partitions.bin": "77b8d82f76c54f77089c5058e55c03f80c4904cff04a857e4699c126c067ce85"
+}
