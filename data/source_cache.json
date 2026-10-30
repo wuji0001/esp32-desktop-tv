@@ -1,10 +1,46 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "美国中期选举：被问是不是吃不消了后，特朗普把取消的堪萨斯州和爱荷华州的活动又恢复了",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261030-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E8%A2%AB%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%83%E4%B8%8D%E6%B6%88%E4%BA%86%E5%90%8E%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E5%8F%96%E6%B6%88%E7%9A%84%E5%A0%AA%E8%90%A8%E6%96%AF%E5%B7%9E%E5%92%8C%E7%88%B1%E8%8D%B7%E5%8D%8E%E5%B7%9E%E7%9A%84%E6%B4%BB%E5%8A%A8%E5%8F%88%E6%81%A2%E5%A4%8D%E4%BA%86",
+        "published_at": "2026-10-30T22:45:44+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧盟与加拿大周五宣布建立联盟， 对付特朗普对美国和传统伙伴关系的破坏",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261030-%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%91%A8%E4%BA%94%E5%AE%A3%E5%B8%83%E5%BB%BA%E7%AB%8B%E8%81%94%E7%9B%9F%EF%BC%8C-%E5%AF%B9%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%A0%E7%BB%9F%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%B4%E5%9D%8F",
+        "published_at": "2026-10-30T22:36:28+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国经济“陷入停滞”，让预算形势更趋复杂",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E-%EF%BC%8C%E8%AE%A9%E9%A2%84%E7%AE%97%E5%BD%A2%E5%8A%BF%E6%9B%B4%E8%B6%8B%E5%A4%8D%E6%9D%82",
+        "published_at": "2026-10-30T22:30:42+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "法国正严阵以待，准备迎接第三波周末抗议活动",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E6%AD%A3%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85%EF%BC%8C%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E7%AC%AC%E4%B8%89%E6%B3%A2%E5%91%A8%E6%9C%AB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8",
+        "published_at": "2026-10-30T22:27:35+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "抗议高物价 意大利数十万学生、劳工上街示威",
         "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261030-%E6%8A%97%E8%AE%AE%E9%AB%98%E7%89%A9%E4%BB%B7-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%95%B0%E5%8D%81%E4%B8%87%E5%AD%A6%E7%94%9F-%E5%8A%B3%E5%B7%A5%E4%B8%8A%E8%A1%97%E7%A4%BA%E5%A8%81",
@@ -51,18 +87,55 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   },
   "中央社国际": {
-    "items": [],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "items": [
+      {
+        "title": "沙乌地联军称拦截无人机及飞弹 美下令撤离非紧急人员",
+        "link": "https://www.cna.com.tw/news/aopl/202610310004.aspx",
+        "published_at": "2026-10-30T20:19:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选举提前投票人数创新高 民主党选民占比领先",
+        "link": "https://www.cna.com.tw/news/aopl/202610310003.aspx",
+        "published_at": "2026-10-30T18:51:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "中东局势不确定引发供应疑虑 推升油价",
+        "link": "https://www.cna.com.tw/news/afe/202610310006.aspx",
+        "published_at": "2026-10-30T21:54:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "财报欠佳加深AI投资疑虑 科技股承压拖累美股收黑",
+        "link": "https://www.cna.com.tw/news/afe/202610310005.aspx",
+        "published_at": "2026-10-30T21:06:57+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "科技股卖压沉重 欧股多数收黑",
         "link": "https://www.cna.com.tw/news/afe/202610310002.aspx",
@@ -73,22 +146,22 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-10-30T19:58:00.336038+00:00"
+    "last_success": "2026-10-30T23:38:26.832883+00:00"
   }
 }
