@@ -1,594 +1,76 @@
 {
   "BBC中文": {
-    "items": [
-      {
-        "title": "蒋万安、沈伯洋台北市长选举辩论会交锋",
-        "link": "https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-31T13:20:00+00:00",
-        "source": "BBC",
-        "via": "BBC",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "装扮成哈利波特，公开质疑泰国王室——他如今面临34年监禁",
-        "link": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-31T07:55:00+00:00",
-        "source": "BBC",
-        "via": "BBC",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "朝鲜「精英」黑客组织是谁？为何成为币安63亿美元盗窃案的头号嫌疑者？",
-        "link": "https://www.bbc.com/zhongwen/articles/cqe8rpl8wjd0o/trad?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-31T07:02:07+00:00",
-        "source": "BBC",
-        "via": "BBC",
-        "category": "全球",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "items": [],
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   },
   "RFI中文": {
     "items": [
       {
-        "title": "中国10月制造业再跌到荣枯线下 四个月来第三次出现萎缩",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E4%B8%AD%E5%9B%BD10%E6%9C%88%E5%88%B6%E9%80%A0%E4%B8%9A%E5%86%8D%E8%B7%8C%E5%88%B0%E8%8D%A3%E6%9E%AF%E7%BA%BF%E4%B8%8B-%E5%9B%9B%E4%B8%AA%E6%9C%88%E6%9D%A5%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%87%BA%E7%8E%B0%E8%90%8E%E7%BC%A9",
-        "published_at": "2026-10-31T15:08:03+00:00",
+        "title": "退休11年 前中国中石化董事长傅成玉被查",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E9%80%80%E4%BC%9111%E5%B9%B4-%E5%89%8D%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%9F%B3%E5%8C%96%E8%91%A3%E4%BA%8B%E9%95%BF%E5%82%85%E6%88%90%E7%8E%89%E8%A2%AB%E6%9F%A5",
+        "published_at": "2026-10-31T18:27:40+00:00",
         "source": "RFI",
         "via": "RFI",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "朝中新鸭绿江大桥开通一周后朝鲜海关出现数百辆中国货车",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%9C%9D%E4%B8%AD%E6%96%B0%E9%B8%AD%E7%BB%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E5%BC%80%E9%80%9A%E4%B8%80%E5%91%A8%E5%90%8E%E6%9C%9D%E9%B2%9C%E6%B5%B7%E5%85%B3%E5%87%BA%E7%8E%B0%E6%95%B0%E7%99%BE%E8%BE%86%E4%B8%AD%E5%9B%BD%E8%B4%A7%E8%BD%A6",
-        "published_at": "2026-10-31T14:13:38+00:00",
+        "title": "糟糕的中期选举结果 可能促使特朗普对伊朗发动大规模攻击",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261031-%E7%B3%9F%E7%B3%95%E7%9A%84%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C-%E5%8F%AF%E8%83%BD%E4%BF%83%E4%BD%BF%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%BB%E5%87%BB",
+        "published_at": "2026-10-31T18:19:45+00:00",
         "source": "RFI",
         "via": "RFI",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "两名中国公民因对美国海军进行间谍活动被判两年半监禁加三年监外看管",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9B%A0%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%BF%9B%E8%A1%8C%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E8%A2%AB%E5%88%A4%E4%B8%A4%E5%B9%B4%E5%8D%8A%E7%9B%91%E7%A6%81%E5%8A%A0%E4%B8%89%E5%B9%B4%E7%9B%91%E5%A4%96%E7%9C%8B%E7%AE%A1",
-        "published_at": "2026-10-31T13:58:30+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "台北市长辩论：蒋万安猛攻批评对手 沈伯洋称辩论应为展现立场与讨论市政议题",
-        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261031-%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E8%BE%A9%E8%AE%BA-%E8%92%8B%E4%B8%87%E5%AE%89%E7%8C%9B%E6%94%BB%E6%89%B9%E8%AF%84%E5%AF%B9%E6%89%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A7%B0%E8%BE%A9%E8%AE%BA%E5%BA%94%E4%B8%BA%E5%B1%95%E7%8E%B0%E7%AB%8B%E5%9C%BA%E4%B8%8E%E8%AE%A8%E8%AE%BA%E5%B8%82%E6%94%BF%E8%AE%AE%E9%A2%98",
-        "published_at": "2026-10-31T10:37:58+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "日俄外长时隔五年会谈 日本要求释放日本记者",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%97%A5%E4%BF%84%E5%A4%96%E9%95%BF%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E4%BC%9A%E8%B0%88-%E6%97%A5%E6%9C%AC%E8%A6%81%E6%B1%82%E9%87%8A%E6%94%BE%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85",
-        "published_at": "2026-10-31T10:30:48+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "多家科技巨头向媒体承诺：将出台新方案，禁止抓取新闻内容用以训练AI模型",
-        "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261031-%E5%A4%9A%E5%AE%B6%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%90%91%E5%AA%92%E4%BD%93%E6%89%BF%E8%AF%BA-%E5%B0%86%E5%87%BA%E5%8F%B0%E6%96%B0%E6%96%B9%E6%A1%88%EF%BC%8C%E7%A6%81%E6%AD%A2%E6%8A%93%E5%8F%96%E6%96%B0%E9%97%BB%E5%86%85%E5%AE%B9%E7%94%A8%E4%BB%A5%E8%AE%AD%E7%BB%83ai%E6%A8%A1%E5%9E%8B",
-        "published_at": "2026-10-31T09:00:07+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美国以国安为由 计划禁止中国电信企业直接接入美国电话号码",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E7%BE%8E%E5%9B%BD%E4%BB%A5%E5%9B%BD%E5%AE%89%E4%B8%BA%E7%94%B1-%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E4%BC%81%E4%B8%9A%E7%9B%B4%E6%8E%A5%E6%8E%A5%E5%85%A5%E7%BE%8E%E5%9B%BD%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81",
-        "published_at": "2026-10-31T08:49:58+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "欧洲港口码头工人罢工，反对港口越来越军事化",
-        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261031-%E6%AC%A7%E6%B4%B2%E6%B8%AF%E5%8F%A3%E7%A0%81%E5%A4%B4%E5%B7%A5%E4%BA%BA%E7%BD%A2%E5%B7%A5%EF%BC%8C%E5%8F%8D%E5%AF%B9%E6%B8%AF%E5%8F%A3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%86%9B%E4%BA%8B%E5%8C%96",
-        "published_at": "2026-10-31T00:34:06+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美国中期选举：被问是不是吃不消了后，特朗普把取消的堪萨斯州和爱荷华州的活动又恢复了",
-        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261030-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E8%A2%AB%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%83%E4%B8%8D%E6%B6%88%E4%BA%86%E5%90%8E%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E5%8F%96%E6%B6%88%E7%9A%84%E5%A0%AA%E8%90%A8%E6%96%AF%E5%B7%9E%E5%92%8C%E7%88%B1%E8%8D%B7%E5%8D%8E%E5%B7%9E%E7%9A%84%E6%B4%BB%E5%8A%A8%E5%8F%88%E6%81%A2%E5%A4%8D%E4%BA%86",
-        "published_at": "2026-10-30T22:45:44+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "欧盟与加拿大周五宣布建立联盟， 对付特朗普对美国和传统伙伴关系的破坏",
-        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261030-%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%91%A8%E4%BA%94%E5%AE%A3%E5%B8%83%E5%BB%BA%E7%AB%8B%E8%81%94%E7%9B%9F%EF%BC%8C-%E5%AF%B9%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%A0%E7%BB%9F%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%B4%E5%9D%8F",
-        "published_at": "2026-10-30T22:36:28+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "法国经济“陷入停滞”，让预算形势更趋复杂",
-        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E-%EF%BC%8C%E8%AE%A9%E9%A2%84%E7%AE%97%E5%BD%A2%E5%8A%BF%E6%9B%B4%E8%B6%8B%E5%A4%8D%E6%9D%82",
-        "published_at": "2026-10-30T22:30:42+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "法国正严阵以待，准备迎接第三波周末抗议活动",
-        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E6%AD%A3%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85%EF%BC%8C%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E7%AC%AC%E4%B8%89%E6%B3%A2%E5%91%A8%E6%9C%AB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8",
-        "published_at": "2026-10-30T22:27:35+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "抗议高物价 意大利数十万学生、劳工上街示威",
-        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261030-%E6%8A%97%E8%AE%AE%E9%AB%98%E7%89%A9%E4%BB%B7-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%95%B0%E5%8D%81%E4%B8%87%E5%AD%A6%E7%94%9F-%E5%8A%B3%E5%B7%A5%E4%B8%8A%E8%A1%97%E7%A4%BA%E5%A8%81",
-        "published_at": "2026-10-30T19:01:21+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "经济与通胀问题笼罩期中选举",
-        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261030-%E7%BB%8F%E6%B5%8E%E4%B8%8E%E9%80%9A%E8%83%80%E9%97%AE%E9%A2%98%E7%AC%BC%E7%BD%A9%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE",
-        "published_at": "2026-10-30T17:56:50+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "中国在与菲律宾争议海域黄岩岛浅滩周边开展战备巡逻",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261030-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%BA%89%E8%AE%AE%E6%B5%B7%E5%9F%9F%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%85%E6%BB%A9%E5%91%A8%E8%BE%B9%E5%BC%80%E5%B1%95%E6%88%98%E5%A4%87%E5%B7%A1%E9%80%BB",
-        "published_at": "2026-10-30T17:46:38+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "G20外长会议卢比奥接待同行，因冲突蒙上阴影",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261030-g20%E5%A4%96%E9%95%BF%E4%BC%9A%E8%AE%AE%E5%8D%A2%E6%AF%94%E5%A5%A5%E6%8E%A5%E5%BE%85%E5%90%8C%E8%A1%8C%EF%BC%8C%E5%9B%A0%E5%86%B2%E7%AA%81%E8%92%99%E4%B8%8A%E9%98%B4%E5%BD%B1",
-        "published_at": "2026-10-30T17:00:21+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "路透：中共二十届五中全会创开除党籍和缺席人数之最",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261030-%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%88%9B%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%92%8C%E7%BC%BA%E5%B8%AD%E4%BA%BA%E6%95%B0%E4%B9%8B%E6%9C%80",
-        "published_at": "2026-10-30T16:17:51+00:00",
+        "title": "波兰宪法法院争夺白热化：防爆警察封锁法院 总统出访紧急折返",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261031-%E6%B3%A2%E5%85%B0%E5%AE%AA%E6%B3%95%E6%B3%95%E9%99%A2%E4%BA%89%E5%A4%BA%E7%99%BD%E7%83%AD%E5%8C%96-%E9%98%B2%E7%88%86%E8%AD%A6%E5%AF%9F%E5%B0%81%E9%94%81%E6%B3%95%E9%99%A2-%E6%80%BB%E7%BB%9F%E5%87%BA%E8%AE%BF%E7%B4%A7%E6%80%A5%E6%8A%98%E8%BF%94",
+        "published_at": "2026-10-31T17:52:07+00:00",
         "source": "RFI",
         "via": "RFI",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   },
   "DW中文": {
-    "items": [
-      {
-        "title": "欧洲外长拒与拉夫罗夫合影 美国主办G20外长会开局不顺",
-        "link": "https://www.dw.com/zh/欧洲外长拒与拉夫罗夫合影-美国主办g20外长会开局不顺/a-79815204?maca=chi-rss-chi-all-1127-rdf",
-        "published_at": "2026-10-31T11:56:00+00:00",
-        "source": "DW",
-        "via": "DW",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "加拿大总理接受DW专访：我们过度依赖美国",
-        "link": "https://www.dw.com/zh/加拿大总理接受dw专访：我们过度依赖美国/a-79815000?maca=chi-rss-chi-all-1127-rdf",
-        "published_at": "2026-10-31T10:13:00+00:00",
-        "source": "DW",
-        "via": "DW",
-        "category": "全球",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "items": [],
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "泰国民团忧2名维吾尔人遭遣返 吁尊重赴第三国意愿",
-        "link": "https://www.cna.com.tw/news/aopl/202610310201.aspx",
-        "published_at": "2026-10-31T14:04:21+00:00",
+        "title": "四方外长关切经济胁迫与产能过剩 暗批中国",
+        "link": "https://www.cna.com.tw/news/aopl/202611010002.aspx",
+        "published_at": "2026-10-31T17:00:51+00:00",
         "source": "中央社",
         "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "避免外交摩擦 日本安保战略拟不将中国列为威胁",
-        "link": "https://www.cna.com.tw/news/aopl/202610310200.aspx",
-        "published_at": "2026-10-31T14:02:19+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "伊朗最高领袖警告美国、以色列勿再发动新攻击",
-        "link": "https://www.cna.com.tw/news/aopl/202610310196.aspx",
-        "published_at": "2026-10-31T13:38:10+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "德国Z世代抗争全城戒备 柏林商家连夜封窗防暴",
-        "link": "https://www.cna.com.tw/news/aopl/202610310192.aspx",
-        "published_at": "2026-10-31T13:13:59+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "约旦北部边界不稳 军方称阻止14武装人员渗透入境",
-        "link": "https://www.cna.com.tw/news/aopl/202610310182.aspx",
-        "published_at": "2026-10-31T12:34:37+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "墓园不只寄哀思 菲律宾亡人节串起家族情感",
-        "link": "https://www.cna.com.tw/news/aopl/202610310178.aspx",
-        "published_at": "2026-10-31T12:01:28+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "波兰宪法法院动荡蔓延 驻中大使率先请辞引发跟进潮",
-        "link": "https://www.cna.com.tw/news/aopl/202610310172.aspx",
-        "published_at": "2026-10-31T11:11:14+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "北韩官媒：制裁无法否定平壤当局核武国家地位",
-        "link": "https://www.cna.com.tw/news/aopl/202610310166.aspx",
-        "published_at": "2026-10-31T10:31:00+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美国与伊朗战事若升级 埃及外长忧造成更大破坏",
-        "link": "https://www.cna.com.tw/news/aopl/202610310163.aspx",
-        "published_at": "2026-10-31T10:14:54+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "沙乌地处决2孟加拉籍人士 案情未明引司法透明争议",
-        "link": "https://www.cna.com.tw/news/aopl/202610310160.aspx",
-        "published_at": "2026-10-31T09:51:47+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "联合国COP17闭幕 各国承诺让自然保育目标重回正轨",
-        "link": "https://www.cna.com.tw/news/aopl/202610310151.aspx",
-        "published_at": "2026-10-31T09:26:23+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "北海道特急深夜撞熊出轨 乘客被迫车内过夜",
-        "link": "https://www.cna.com.tw/news/aopl/202610310128.aspx",
-        "published_at": "2026-10-31T08:10:34+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "标普全球调降Meta信评展望至负向 AI支出与现金流引发疑虑",
-        "link": "https://www.cna.com.tw/news/aopl/202610310125.aspx",
-        "published_at": "2026-10-31T07:57:27+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美批准售乌21亿美元爱国者飞弹 交货恐等到2030年代初期",
-        "link": "https://www.cna.com.tw/news/aopl/202610310118.aspx",
-        "published_at": "2026-10-31T07:21:12+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "小波索纳洛自称遭迫害 败选后逃离巴西赴美",
-        "link": "https://www.cna.com.tw/news/aopl/202610310109.aspx",
-        "published_at": "2026-10-31T06:35:52+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "阿拉斯加同名候选人风波 川普政府加速刑事调查",
-        "link": "https://www.cna.com.tw/news/aopl/202610310106.aspx",
-        "published_at": "2026-10-31T06:23:45+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "波兰总理总统斗法 宪法法院法官罢黜院长重点一次看",
-        "link": "https://www.cna.com.tw/news/aopl/202610310105.aspx",
-        "published_at": "2026-10-31T06:17:43+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美日韩外长强调台海和平稳定重要 卢比欧直指中国胁迫行为",
-        "link": "https://www.cna.com.tw/news/aopl/202610310097.aspx",
-        "published_at": "2026-10-31T05:47:26+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美媒：川普拟期中选举隔日再攻伊朗 盼结束战事",
-        "link": "https://www.cna.com.tw/news/aopl/202610310086.aspx",
-        "published_at": "2026-10-31T05:04:02+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "法国示威潮遇万圣节 7万警力严防暴动再掀",
-        "link": "https://www.cna.com.tw/news/aopl/202610310080.aspx",
-        "published_at": "2026-10-31T04:50:46+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
+        "category": "金融",
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   },
   "中央社财经": {
-    "items": [
-      {
-        "title": "今彩539第115264期开奖",
-        "link": "https://www.cna.com.tw/news/ahel/202610310184.aspx",
-        "published_at": "2026-10-31T12:43:41+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "中油：下周汽柴油价格不调整 累计吸收约318.6亿元",
-        "link": "https://www.cna.com.tw/news/ahel/202610310152.aspx",
-        "published_at": "2026-10-31T09:28:25+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "中油11月民生与工业天然气价冻涨 电业涨4%",
-        "link": "https://www.cna.com.tw/news/ahel/202610310129.aspx",
-        "published_at": "2026-10-31T08:20:36+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "标普全球调降Meta信评展望至负向 AI支出与现金流引发疑虑",
-        "link": "https://www.cna.com.tw/news/aopl/202610310125.aspx",
-        "published_at": "2026-10-31T07:57:27+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "鸿海：盼合作台厂参与机器人标准制定",
-        "link": "https://www.cna.com.tw/news/afe/202610310087.aspx",
-        "published_at": "2026-10-31T05:05:04+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "鸿海亚湾超算：营运AIDC 电力和供应链管理成关键",
-        "link": "https://www.cna.com.tw/news/afe/202610310076.aspx",
-        "published_at": "2026-10-31T04:26:37+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "美科技股重挫台积电ADR跌近6% 法人：台股下周开盘恐承压",
-        "link": "https://www.cna.com.tw/news/afe/202610310073.aspx",
-        "published_at": "2026-10-31T04:19:31+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "日对台直接投资近9亿美元 日工商会：台日产业优势互补",
-        "link": "https://www.cna.com.tw/news/afe/202610310065.aspx",
-        "published_at": "2026-10-31T03:41:13+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "从爱迪生电灯泡到AI晶片 百年康宁深耕台湾改写玻璃新定义【专访】",
-        "link": "https://www.cna.com.tw/news/afe/202610310032.aspx",
-        "published_at": "2026-10-31T02:19:02+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "桶装瓦斯冬季月需求估逾9万吨 中油：尽力供应市场",
-        "link": "https://www.cna.com.tw/news/afe/202610310021.aspx",
-        "published_at": "2026-10-31T01:03:37+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "鲁拉新任期改革受考验 巴西经济成长前景引关注",
-        "link": "https://www.cna.com.tw/news/aopl/202610310014.aspx",
-        "published_at": "2026-10-31T00:40:22+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "美科技股大幅下修 苹果超越辉达成全球最大企业",
-        "link": "https://www.cna.com.tw/news/afe/202610310011.aspx",
-        "published_at": "2026-10-31T00:16:15+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "英特尔股价暴跌3成蒸发4.57兆元 创半世纪最大跌幅",
-        "link": "https://www.cna.com.tw/news/afe/202610310009.aspx",
-        "published_at": "2026-10-30T23:32:10+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "中东局势不确定引发供应疑虑 推升油价",
-        "link": "https://www.cna.com.tw/news/afe/202610310006.aspx",
-        "published_at": "2026-10-30T21:54:00+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "财报欠佳加深AI投资疑虑 科技股承压拖累美股收黑",
-        "link": "https://www.cna.com.tw/news/afe/202610310005.aspx",
-        "published_at": "2026-10-30T21:06:57+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "科技股卖压沉重 欧股多数收黑",
-        "link": "https://www.cna.com.tw/news/afe/202610310002.aspx",
-        "published_at": "2026-10-30T17:30:47+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "items": [],
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   },
   "中央社科技": {
-    "items": [
-      {
-        "title": "中国首次载人登月计划 2030年前实现两太空人登陆月球",
-        "link": "https://www.cna.com.tw/news/acn/202610310180.aspx",
-        "published_at": "2026-10-31T12:14:32+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "科技",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "items": [],
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   },
   "Bing中文国际": {
-    "items": [
-      {
-        "title": "蒋万安、沈伯洋台北市长选举辩论会交锋",
-        "link": "https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/simp",
-        "published_at": "2026-10-31T06:20:00+00:00",
-        "source": "BBC",
-        "via": "Bing News",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "装扮成哈利波特，公开质疑泰国王室——他如今面临34年监禁",
-        "link": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/simp",
-        "published_at": "2026-10-31T00:55:00+00:00",
-        "source": "BBC",
-        "via": "Bing News",
-        "category": "全球",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-10-31T15:27:25.351171+00:00"
+    "items": [],
+    "last_success": "2026-10-31T19:14:03.477487+00:00"
   }
 }
