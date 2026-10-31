@@ -60,6 +60,33 @@ class FeedTests(unittest.TestCase):
         with patch.object(feed,'fetch_source',side_effect=fetch):feed.refresh()
         self.assertEqual(len(feed.cache['items']),1)
         self.assertTrue(feed.cache['items'][0]['cached'])
+    def test_new_headline_precedes_old_keyword_boost(self):
+        old=self.now-dt.timedelta(minutes=1)
+        for category, title in [('科技','人工智能旧新闻'), ('全球','突发地震旧新闻')]:
+            entries=[self.entry(title,category=category,published=old),self.entry('最新普通新闻',category=category)]
+            self.assertEqual(feed.select_items({category:entries})[0]['title'],'最新普通新闻')
+    def test_fresh_precedes_cached(self):
+        fallback=dict(self.entry('缓存标题'),cached=True)
+        fresh=self.entry('刚抓取标题',published=self.now-dt.timedelta(seconds=1))
+        self.assertEqual(feed.select_items({'科技':[fallback,fresh]})[0]['title'],'刚抓取标题')
+    def test_expired_outage_cache_is_pruned(self):
+        feed.source_cache['BBC中文']={'items':[self.entry()], 'last_success':(self.now-dt.timedelta(seconds=3601)).isoformat()}
+        with patch.object(feed,'fetch_source',side_effect=OSError('outage')):
+            feed.refresh()
+        self.assertEqual(feed.cache['items'],[])
+        self.assertEqual(feed.source_cache['BBC中文']['items'],[])
+    def test_expired_outage_publishes_empty_batch(self):
+        import tempfile
+        import publish_news
+        # publish_news imports the module by its normal name.
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory)
+            with patch.object(publish_news.feed,'fetch_source',side_effect=OSError('outage')):
+                publish_news.build(root/'public',root/'cache.json')
+            import json
+            document=json.loads((root/'public/news.json').read_text())
+            self.assertEqual(document['items'],[])
+            self.assertEqual(document['date'],self.now.astimezone(feed.LOCAL).date().isoformat())
     def test_utf8_truncation(self):
         line=feed.headline_line(self.entry('人工智能'*200))
         self.assertLessEqual(len(line.encode()),240)

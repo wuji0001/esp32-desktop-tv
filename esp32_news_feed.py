@@ -18,6 +18,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from opencc import OpenCC
 
 INTERVAL_SECONDS = 600
+CACHE_MAX_AGE_SECONDS = 3600
 UTC = dt.timezone.utc
 LOCAL = dt.timezone(dt.timedelta(hours=8))
 CATEGORIES = ('科技', '全球', '金融', '医疗')
@@ -126,14 +127,9 @@ def select_items(groups):
     now = dt.datetime.now(UTC)
     for category in CATEGORIES:
         entries = [x for x in groups.get(category, []) if is_today(x, now)]
-        entries.sort(key=lambda x: x['published_at'], reverse=True)
-        if category == '科技':
-            entries = [x for x in entries if AI.search(x['title'])] + [x for x in entries if not AI.search(x['title'])]
-        elif category == '全球':
-            # Prefer developing stories, always from the current Beijing date.
-            def developing(x):
-                return bool(BREAKING.search(x['title'])) and (now - dt.datetime.fromisoformat(x['published_at'])).total_seconds() < 86400
-            entries = [x for x in entries if developing(x)] + [x for x in entries if not developing(x)]
+        # A failed source must not displace newly fetched headlines. Within
+        # each group prefer publication time, without permanent keyword boosts.
+        entries.sort(key=lambda x: (bool(x.get('cached')), -dt.datetime.fromisoformat(x['published_at']).timestamp()))
         ranked[category] = entries
         # Reserve space for all categories before distributing spare slots.
         for item in entries[:2]:
@@ -172,9 +168,13 @@ def refresh():
                                     'last_success': now.isoformat(), 'error': None, 'today_count': len(items)}
             except Exception as exc:
                 previous = source_cache.get(key, {})
-                # One publisher failing does not stop the other categories.
+                # Keep a failed source only briefly; repeated failures must not
+                # reset its expiry or leave old entries in the repository cache.
+                last_success = published_time(previous.get('last_success'))
+                usable = last_success is not None and 0 <= (now - last_success).total_seconds() <= CACHE_MAX_AGE_SECONDS
                 items = [dict(x, cached=True) for x in previous.get('items', [])
-                         if is_today(x, now)]
+                         if usable and is_today(x, now)]
+                source_cache[key] = {'items': items, 'last_success': previous.get('last_success')}
                 states[key] = {'source': spec['source'], 'url': spec['url'],
                                     'last_success': previous.get('last_success'), 'error': str(exc), 'today_count': len(items)}
             for item in items:

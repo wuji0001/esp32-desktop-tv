@@ -19,8 +19,8 @@ def build(output, cache_path):
             pass
     feed.refresh()
     state = dict(feed.cache)
-    if state['error']:
-        raise RuntimeError(state['error'])
+    # Publish a dated empty batch when every source has expired, so devices
+    # can clear old headlines instead of keeping the last successful deployment.
     pool = state.pop('pool', state['items'])
     today = dt.datetime.now(feed.LOCAL).date().isoformat()
     ranked = {}
@@ -28,18 +28,22 @@ def build(output, cache_path):
         candidates = [x for x in pool if x['category'] == category and feed.is_today(x)]
         ranked[category] = feed.select_items({category: candidates})
     selected, seen = [], set()
-    # Interleave categories so low-memory clients can stop after their chosen limit.
-    for i in range(10):
-        for category in feed.CATEGORIES:
-            entries = ranked[category]
-            if i < len(entries):
-                item = entries[i]
-                key = (item['title'], item.get('via'))
-                if key not in seen:
-                    selected.append(item)
-                    seen.add(key)
-    # Preserve the Bing alternative even if a direct RSS duplicate was preferred.
-    for item in pool:
+    # Fresh sources first, then bounded outage fallback; retain category balance.
+    for cached in (False, True):
+        phase = {category: [x for x in ranked[category] if bool(x.get('cached')) == cached]
+                 for category in feed.CATEGORIES}
+        for i in range(10):
+            for category in feed.CATEGORIES:
+                entries = phase[category]
+                if i < len(entries):
+                    item = entries[i]
+                    key = (item['title'], item.get('via'))
+                    if key not in seen:
+                        selected.append(item)
+                        seen.add(key)
+    # Preserve Bing alternatives for devices configured to that source mode.
+    alternatives = sorted(pool, key=lambda x: (bool(x.get('cached')), -dt.datetime.fromisoformat(x['published_at']).timestamp()))
+    for item in alternatives:
         key = (item['title'], item.get('via'))
         if item.get('via') == 'Bing News' and feed.is_today(item) and key not in seen and len(selected) < 40:
             selected.append(item)
@@ -51,7 +55,7 @@ def build(output, cache_path):
                         'b': int(item.get('via') == 'Bing News'), 'p': item['source'],
                         'id': hashlib.sha256(item['title'].encode()).hexdigest()[:12]})
         details.append(item)
-    document = {'date': today, 'updated_at': state['updated_at'], 'items': compact}
+    document = {'date': today, 'updated_at': state['updated_at'], 'policy': 'fresh-first-v2', 'items': compact}
     raw = json.dumps(document, ensure_ascii=False, separators=(',', ':')).encode()
     if len(raw) > 16384:
         raise ValueError('Device JSON exceeds 16 KiB')
