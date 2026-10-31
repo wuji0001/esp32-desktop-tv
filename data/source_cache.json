@@ -1,10 +1,55 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "美国国务卿卢比奥与俄罗斯外长拉夫罗夫讨论了特朗普和普京下个月进行互动的可能",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%8D%A2%E6%AF%94%E5%A5%A5%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E8%AE%A8%E8%AE%BA%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%B8%AA%E6%9C%88%E8%BF%9B%E8%A1%8C%E4%BA%92%E5%8A%A8%E7%9A%84%E5%8F%AF%E8%83%BD",
+        "published_at": "2026-10-31T22:30:23+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中期选举前，美国承认20国集团外长会议在达成共识方面存在困难",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AE%A420%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%A4%96%E9%95%BF%E4%BC%9A%E8%AE%AE%E5%9C%A8%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86%E6%96%B9%E9%9D%A2%E5%AD%98%E5%9C%A8%E5%9B%B0%E9%9A%BE",
+        "published_at": "2026-10-31T22:25:14+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国32万人参与第三轮示威，抗议期间发生了冲突",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261031-%E6%B3%95%E5%9B%BD32%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%BD%AE%E7%A4%BA%E5%A8%81%EF%BC%8C%E6%8A%97%E8%AE%AE%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E5%86%B2%E7%AA%81",
+        "published_at": "2026-10-31T22:19:29+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "德国青年抗议活动 多个城市出现骚乱",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261031-%E5%BE%B7%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8-%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E9%AA%9A%E4%B9%B1",
+        "published_at": "2026-10-31T21:11:09+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "四方安全对话外长联合声明 未点名剑指中国经济政策",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E5%9B%9B%E6%96%B9%E5%AE%89%E5%85%A8%E5%AF%B9%E8%AF%9D%E5%A4%96%E9%95%BF%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E-%E6%9C%AA%E7%82%B9%E5%90%8D%E5%89%91%E6%8C%87%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96",
+        "published_at": "2026-10-31T20:04:29+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "退休11年 前中国中石化董事长傅成玉被查",
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E9%80%80%E4%BC%9111%E5%B9%B4-%E5%89%8D%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%9F%B3%E5%8C%96%E8%91%A3%E4%BA%8B%E9%95%BF%E5%82%85%E6%88%90%E7%8E%89%E8%A2%AB%E6%9F%A5",
@@ -33,14 +78,50 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "德国Z世代34城示威 法兰克福警方水砲驱散",
+        "link": "https://www.cna.com.tw/news/aopl/202611010006.aspx",
+        "published_at": "2026-10-31T21:09:04+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美使馆示警莫斯科恐发生攻击事件 俄采取行动因应",
+        "link": "https://www.cna.com.tw/news/aopl/202611010005.aspx",
+        "published_at": "2026-10-31T19:56:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国数十万人抗议生活成本 万圣节变装上街",
+        "link": "https://www.cna.com.tw/news/aopl/202611010004.aspx",
+        "published_at": "2026-10-31T19:06:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "俄乌局部人道停火 俄占城镇居民：靠吃草活命",
+        "link": "https://www.cna.com.tw/news/aopl/202611010003.aspx",
+        "published_at": "2026-10-31T18:24:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "四方外长关切经济胁迫与产能过剩 暗批中国",
         "link": "https://www.cna.com.tw/news/aopl/202611010002.aspx",
@@ -51,26 +132,26 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   },
   "中央社财经": {
     "items": [],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-10-31T19:14:03.477487+00:00"
+    "last_success": "2026-10-31T22:31:43.718339+00:00"
   }
 }
