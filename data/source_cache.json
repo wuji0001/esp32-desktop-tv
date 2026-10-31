@@ -29,10 +29,19 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "中国10月制造业再跌到荣枯线下 四个月来第三次出现萎缩",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E4%B8%AD%E5%9B%BD10%E6%9C%88%E5%88%B6%E9%80%A0%E4%B8%9A%E5%86%8D%E8%B7%8C%E5%88%B0%E8%8D%A3%E6%9E%AF%E7%BA%BF%E4%B8%8B-%E5%9B%9B%E4%B8%AA%E6%9C%88%E6%9D%A5%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%87%BA%E7%8E%B0%E8%90%8E%E7%BC%A9",
+        "published_at": "2026-10-31T15:08:03+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "朝中新鸭绿江大桥开通一周后朝鲜海关出现数百辆中国货车",
         "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%9C%9D%E4%B8%AD%E6%96%B0%E9%B8%AD%E7%BB%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E5%BC%80%E9%80%9A%E4%B8%80%E5%91%A8%E5%90%8E%E6%9C%9D%E9%B2%9C%E6%B5%B7%E5%85%B3%E5%87%BA%E7%8E%B0%E6%95%B0%E7%99%BE%E8%BE%86%E4%B8%AD%E5%9B%BD%E8%B4%A7%E8%BD%A6",
@@ -46,15 +55,6 @@
         "title": "两名中国公民因对美国海军进行间谍活动被判两年半监禁加三年监外看管",
         "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9B%A0%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%BF%9B%E8%A1%8C%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E8%A2%AB%E5%88%A4%E4%B8%A4%E5%B9%B4%E5%8D%8A%E7%9B%91%E7%A6%81%E5%8A%A0%E4%B8%89%E5%B9%B4%E7%9B%91%E5%A4%96%E7%9C%8B%E7%AE%A1",
         "published_at": "2026-10-31T13:58:30+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "“梅拉尼娅应获诺贝尔和平奖” ：赫尔松在72小时停火中暂获安宁",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%92%8C%E5%B9%B3%E8%AF%BA%E5%A5%96-%E8%B5%AB%E5%B0%94%E6%9D%BE%E5%9C%A872%E5%B0%8F%E6%97%B6%E5%81%9C%E7%81%AB%E4%B8%AD%E6%9A%82%E8%8E%B7%E5%AE%89%E5%AE%81",
-        "published_at": "2026-10-31T12:09:42+00:00",
         "source": "RFI",
         "via": "RFI",
         "category": "全球",
@@ -187,7 +187,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   },
   "DW中文": {
     "items": [
@@ -210,7 +210,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   },
   "中央社国际": {
     "items": [
@@ -395,7 +395,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   },
   "中央社财经": {
     "items": [
@@ -544,7 +544,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   },
   "中央社科技": {
     "items": [
@@ -558,15 +558,15 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   },
   "Bing中文国际": {
     "items": [
@@ -578,8 +578,17 @@
         "via": "Bing News",
         "category": "全球",
         "cached": false
+      },
+      {
+        "title": "装扮成哈利波特，公开质疑泰国王室——他如今面临34年监禁",
+        "link": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/simp",
+        "published_at": "2026-10-31T00:55:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
       }
     ],
-    "last_success": "2026-10-31T15:01:50.429039+00:00"
+    "last_success": "2026-10-31T15:27:25.351171+00:00"
   }
 }
