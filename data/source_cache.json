@@ -1,12 +1,57 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   },
   "RFI中文": {
     "items": [
       {
-        "title": "姆巴佩风波延续，央视停播皇家马德里比赛",
+        "title": "美国将助马达加斯加建厂炼稀土",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261101-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%8A%A9%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E5%BB%BA%E5%8E%82%E7%82%BC%E7%A8%80%E5%9C%9F",
+        "published_at": "2026-11-01T21:51:30+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中国共产党将审查官员的资产和网络活动, 为习近平延长执政期铺平道路",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261101-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%86%E5%AE%A1%E6%9F%A5%E5%AE%98%E5%91%98%E7%9A%84%E8%B5%84%E4%BA%A7%E5%92%8C%E7%BD%91%E7%BB%9C%E6%B4%BB%E5%8A%A8-%E4%B8%BA%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BB%B6%E9%95%BF%E6%89%A7%E6%94%BF%E6%9C%9F%E9%93%BA%E5%B9%B3%E9%81%93%E8%B7%AF",
+        "published_at": "2026-11-01T21:43:57+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国共和党人展开了最后冲刺，试图避免在美国中期选举中遭遇惨败",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261101-%E7%BE%8E%E5%9B%BD%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E5%B1%95%E5%BC%80%E4%BA%86%E6%9C%80%E5%90%8E%E5%86%B2%E5%88%BA%EF%BC%8C%E8%AF%95%E5%9B%BE%E9%81%BF%E5%85%8D%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E4%B8%AD%E9%81%AD%E9%81%87%E6%83%A8%E8%B4%A5",
+        "published_at": "2026-11-01T21:34:01+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "周一开始，封锁高中的行动在法国又要重新启动。",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261101-%E5%91%A8%E4%B8%80%E5%BC%80%E5%A7%8B%EF%BC%8C%E5%B0%81%E9%94%81%E9%AB%98%E4%B8%AD%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%9C%A8%E6%B3%95%E5%9B%BD%E5%8F%88%E8%A6%81%E9%87%8D%E6%96%B0%E5%90%AF%E5%8A%A8",
+        "published_at": "2026-11-01T21:23:18+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "达喀尔2026青奥会难忘的开幕式",
+        "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261101-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%BE%BE%E5%96%80%E5%B0%942026%E9%9D%92%E5%A5%A5%E4%BC%9A%E9%9A%BE%E5%BF%98%E7%9A%84%E5%BC%80%E5%B9%95%E5%BC%8F",
+        "published_at": "2026-11-01T21:05:59+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "姆巴佩风波延续 央视停播皇家马德里比赛",
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261101-%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%A3%8E%E6%B3%A2%E5%BB%B6%E7%BB%AD%EF%BC%8C%E5%A4%AE%E8%A7%86%E6%9A%82%E5%81%9C%E8%BD%AC%E6%92%AD%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C%E6%AF%94%E8%B5%9B",
         "published_at": "2026-11-01T18:57:03+00:00",
         "source": "RFI",
@@ -51,34 +96,71 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   },
   "中央社国际": {
-    "items": [],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "items": [
+      {
+        "title": "以色列选务首长：违规疑云调查不会影响选举结果",
+        "link": "https://www.cna.com.tw/news/aopl/202611020007.aspx",
+        "published_at": "2026-11-01T22:28:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "佛州小飞机坠毁 机上9人全数罹难",
+        "link": "https://www.cna.com.tw/news/aopl/202611020006.aspx",
+        "published_at": "2026-11-01T21:54:57+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "阿拉斯加州参议员选战撞名风波 川普政府提起诉讼遭驳回",
+        "link": "https://www.cna.com.tw/news/aopl/202611020005.aspx",
+        "published_at": "2026-11-01T21:19:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "保加利亚总统决选出口民调：代理总统约托娃胜出",
+        "link": "https://www.cna.com.tw/news/aopl/202611020004.aspx",
+        "published_at": "2026-11-01T20:23:51+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   },
   "中央社财经": {
     "items": [],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-01T19:10:49.414877+00:00"
+    "last_success": "2026-11-01T22:50:17.178365+00:00"
   }
 }
