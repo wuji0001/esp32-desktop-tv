@@ -2,6 +2,15 @@
   "BBC中文": {
     "items": [
       {
+        "title": "「我们从地狱回来」——在俄罗斯占领城市撤离的乌克兰人说",
+        "link": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T04:24:47+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "「我与鬼魂同住」：走进吸引人们捡便宜的日本「闹鬼」住宅",
         "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-01T00:03:15+00:00",
@@ -11,7 +20,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
   },
   "RFI中文": {
     "items": [
@@ -88,14 +97,122 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "确保能源谷物运输 国际推动黑海局部停火",
+        "link": "https://www.cna.com.tw/news/aopl/202611010060.aspx",
+        "published_at": "2026-11-01T04:53:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "暴雨袭加拉巴戈斯群岛 至少1死、数千家庭流离失所",
+        "link": "https://www.cna.com.tw/news/aopl/202611010058.aspx",
+        "published_at": "2026-11-01T04:50:04+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "玻利维亚旱灾洪患齐发 政府宣布进入紧急状态",
+        "link": "https://www.cna.com.tw/news/aopl/202611010045.aspx",
+        "published_at": "2026-11-01T04:12:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中国女主管与黄仁勋关系密切疑为北京间谍 川普：会仔细了解",
+        "link": "https://www.cna.com.tw/news/aopl/202611010041.aspx",
+        "published_at": "2026-11-01T03:47:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "北韩试射集束炸弹弹头 称可摧毁12至13公顷目标",
+        "link": "https://www.cna.com.tw/news/aopl/202611010036.aspx",
+        "published_at": "2026-11-01T03:19:17+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "批巴西大选是耻辱 川普：小波索纳洛可无限期留美",
+        "link": "https://www.cna.com.tw/news/aopl/202611010032.aspx",
+        "published_at": "2026-11-01T03:10:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选举前最后周末 阿拉斯加州、加州选票争议升温",
+        "link": "https://www.cna.com.tw/news/aopl/202611010024.aspx",
+        "published_at": "2026-11-01T02:11:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美学者：参议院为川普防线 众院若大幅失守恐加深共和党分歧",
+        "link": "https://www.cna.com.tw/news/aopl/202611010021.aspx",
+        "published_at": "2026-11-01T01:52:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "波兰宪政危机升温 总理图斯克控反对派企图破坏民主法治",
+        "link": "https://www.cna.com.tw/news/aopl/202611010019.aspx",
+        "published_at": "2026-11-01T01:35:39+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国万圣夜再示威 Z世代主张对巨富课税救财政",
+        "link": "https://www.cna.com.tw/news/aopl/202611010018.aspx",
+        "published_at": "2026-11-01T01:29:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普政府万圣节宣传惹议 暴力影片嘲讽遭拘移民",
+        "link": "https://www.cna.com.tw/news/aopl/202611010017.aspx",
+        "published_at": "2026-11-01T01:24:34+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "为爱落脚北越深山 台越夫妻打造喀斯特文化聚落翻转地方",
+        "link": "https://www.cna.com.tw/news/aopl/202611010011.aspx",
+        "published_at": "2026-10-31T23:56:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "卢比欧G20会晤俄外长 讨论美俄领导人APEC互动可能性",
         "link": "https://www.cna.com.tw/news/aopl/202611010010.aspx",
@@ -167,21 +284,75 @@
         "via": "中央社",
         "category": "全球",
         "cached": false
-      },
+      }
+    ],
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
+  },
+  "中央社财经": {
+    "items": [
       {
-        "title": "四方外长关切经济胁迫与产能过剩 暗批中国",
-        "link": "https://www.cna.com.tw/news/aopl/202611010002.aspx",
-        "published_at": "2026-10-31T17:00:51+00:00",
+        "title": "金融三业前3季获利破1.27兆缔新猷 持续推高全年纪录",
+        "link": "https://www.cna.com.tw/news/afe/202611010080.aspx",
+        "published_at": "2026-11-01T07:01:55+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
-      }
-    ],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
-  },
-  "中央社财经": {
-    "items": [
+      },
+      {
+        "title": "币安追回遭窃资产95% 宣布分阶段恢复提款",
+        "link": "https://www.cna.com.tw/news/aopl/202611010077.aspx",
+        "published_at": "2026-11-01T06:24:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "AI变现疑虑引爆科技股卖压 法人：台股45000点保卫战",
+        "link": "https://www.cna.com.tw/news/afe/202611010042.aspx",
+        "published_at": "2026-11-01T03:48:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "统一发票5-6月千万奖4张未领 兑领期限11/5",
+        "link": "https://www.cna.com.tw/news/ahel/202611010033.aspx",
+        "published_at": "2026-11-01T03:12:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "AI通膨席卷手机市场 业者：价格压力恐烧至2028年",
+        "link": "https://www.cna.com.tw/news/afe/202611010029.aspx",
+        "published_at": "2026-11-01T02:43:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台积电0050今年各增百万持有人 正2、主动式ETF崛起",
+        "link": "https://www.cna.com.tw/news/afe/202611010025.aspx",
+        "published_at": "2026-11-01T02:14:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "家办顾问业务开放落地全台 国银抢滩AI新富与传产传承商机",
+        "link": "https://www.cna.com.tw/news/afe/202611010020.aspx",
+        "published_at": "2026-11-01T01:40:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "币安逾60亿美元资产遭窃 FBI指北韩所为",
         "link": "https://www.cna.com.tw/news/aopl/202611010008.aspx",
@@ -192,22 +363,31 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
   },
   "Bing中文国际": {
     "items": [
+      {
+        "title": "币安63亿美元黑客盗窃案 我们所知多少",
+        "link": "https://www.bbc.com/zhongwen/watch/c98rz2p7gx7lo/simp",
+        "published_at": "2026-10-31T17:00:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "“我与鬼魂同住”：走进吸引人们捡便宜的日本“闹鬼”住宅",
         "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/simp",
@@ -218,6 +398,6 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-01T01:25:36.371715+00:00"
+    "last_success": "2026-11-01T07:50:02.359572+00:00"
   }
 }
