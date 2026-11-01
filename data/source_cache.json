@@ -1,7 +1,17 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "items": [
+      {
+        "title": "「我与鬼魂同住」：走进吸引人们捡便宜的日本「闹鬼」住宅",
+        "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T00:03:15+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   },
   "RFI中文": {
     "items": [
@@ -78,14 +88,50 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "卢比欧G20会晤俄外长 讨论美俄领导人APEC互动可能性",
+        "link": "https://www.cna.com.tw/news/aopl/202611010010.aspx",
+        "published_at": "2026-10-31T23:51:18+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "G20外长会议关键安全议题未达共识 聚焦讨论全球经济挑战",
+        "link": "https://www.cna.com.tw/news/aopl/202611010009.aspx",
+        "published_at": "2026-10-31T23:32:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "币安逾60亿美元资产遭窃 FBI指北韩所为",
+        "link": "https://www.cna.com.tw/news/aopl/202611010008.aspx",
+        "published_at": "2026-10-31T22:34:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选后是否再攻伊朗 卢比欧：川普尚未决定",
+        "link": "https://www.cna.com.tw/news/aopl/202611010007.aspx",
+        "published_at": "2026-10-31T22:08:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "德国Z世代34城示威 法兰克福警方水砲驱散",
         "link": "https://www.cna.com.tw/news/aopl/202611010006.aspx",
@@ -105,7 +151,7 @@
         "cached": false
       },
       {
-        "title": "法国数十万人抗议生活成本 万圣节变装上街",
+        "title": "法国数十万人抗议生活成本 万圣节变装上街[影]",
         "link": "https://www.cna.com.tw/news/aopl/202611010004.aspx",
         "published_at": "2026-10-31T19:06:58+00:00",
         "source": "中央社",
@@ -132,26 +178,46 @@
         "cached": false
       }
     ],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   },
   "中央社财经": {
-    "items": [],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "items": [
+      {
+        "title": "币安逾60亿美元资产遭窃 FBI指北韩所为",
+        "link": "https://www.cna.com.tw/news/aopl/202611010008.aspx",
+        "published_at": "2026-10-31T22:34:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-10-31T22:31:43.718339+00:00"
+    "items": [
+      {
+        "title": "“我与鬼魂同住”：走进吸引人们捡便宜的日本“闹鬼”住宅",
+        "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/simp",
+        "published_at": "2026-10-31T17:00:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-01T01:25:36.371715+00:00"
   }
 }
