@@ -1,7 +1,26 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "items": [
+      {
+        "title": "人工智能泡沫将爆破？这群「新云端」公司正加剧市场担忧",
+        "link": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-02T00:17:42+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "不得要求房客清洁——Airbnb的新守则如何引发分歧",
+        "link": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-02T00:17:38+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   },
   "RFI中文": {
     "items": [
@@ -96,14 +115,50 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "川普领军共和党力挽狂澜 民主党期中选举声势看涨",
+        "link": "https://www.cna.com.tw/news/aopl/202611020011.aspx",
+        "published_at": "2026-11-01T23:57:12+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选举将至 川普再抛胜选发放5000美元",
+        "link": "https://www.cna.com.tw/news/aopl/202611020010.aspx",
+        "published_at": "2026-11-01T23:55:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "乌克兰空军：空袭警报系统遭敌对势力干扰",
+        "link": "https://www.cna.com.tw/news/aopl/202611020009.aspx",
+        "published_at": "2026-11-01T23:49:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "埃及希腊协商 世界遗产圣凯萨琳修道院产权争议现转机",
+        "link": "https://www.cna.com.tw/news/aopl/202611020008.aspx",
+        "published_at": "2026-11-01T23:32:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "以色列选务首长：违规疑云调查不会影响选举结果",
         "link": "https://www.cna.com.tw/news/aopl/202611020007.aspx",
@@ -141,26 +196,91 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   },
   "中央社财经": {
-    "items": [],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "items": [
+      {
+        "title": "台积电跌60元 台股早盘挫812点失守45000点",
+        "link": "https://www.cna.com.tw/news/afe/202611020018.aspx",
+        "published_at": "2026-11-02T01:15:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股开盘跌177.30点",
+        "link": "https://www.cna.com.tw/news/afe/202611020017.aspx",
+        "published_at": "2026-11-02T01:06:26+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "新台币开盘贬2.2分 为32.5元",
+        "link": "https://www.cna.com.tw/news/afe/202611020016.aspx",
+        "published_at": "2026-11-02T01:04:23+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股10月底开户数1482.7万人续创高 月增6.4万人",
+        "link": "https://www.cna.com.tw/news/afe/202611020015.aspx",
+        "published_at": "2026-11-02T00:53:21+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "法人看台股短线难逃卖压 静待国际股市回稳",
+        "link": "https://www.cna.com.tw/news/afe/202611020013.aspx",
+        "published_at": "2026-11-02T00:25:16+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-01T22:50:17.178365+00:00"
+    "items": [
+      {
+        "title": "人工智能泡沫将爆破？这群“新云端”公司正加剧市场担忧",
+        "link": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/simp",
+        "published_at": "2026-11-01T16:01:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "不得要求房客清洁——Airbnb的新守则如何引发分歧",
+        "link": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/simp",
+        "published_at": "2026-11-01T16:01:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-02T01:56:55.384464+00:00"
   }
 }
