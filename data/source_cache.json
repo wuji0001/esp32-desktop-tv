@@ -1,10 +1,128 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "items": [
+      {
+        "title": "美国中期选举结果对中国和世界各国意味着什么？",
+        "link": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T21:02:11+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "共和党在美国中期选举中惨败的五大原因",
+        "link": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T20:20:47+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "伊朗嘲讽特朗普在德州实现了政权更迭",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261104-%E4%BC%8A%E6%9C%97%E5%98%B2%E8%AE%BD%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%BE%B7%E5%B7%9E%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%94%BF%E6%9D%83%E6%9B%B4%E8%BF%AD",
+        "published_at": "2026-11-04T21:45:31+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧洲将向芯片初创企业投资5.25亿欧元，追赶美国与中国",
+        "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261104-%E6%AC%A7%E6%B4%B2%E5%B0%86%E5%90%91%E8%8A%AF%E7%89%87%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%845-25%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C%E8%BF%BD%E8%B5%B6%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD",
+        "published_at": "2026-11-04T21:42:01+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "法国一家银行遭遇网络攻击，涉案金额约1亿欧元",
+        "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261104-%E6%B3%95%E5%9B%BD%E4%B8%80%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%81%AD%E9%81%87%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E7%BA%A61%E4%BA%BF%E6%AC%A7%E5%85%83",
+        "published_at": "2026-11-04T20:52:03+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "德国《商报》：反对特朗普主义的人民起义",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%BE%B7%E5%9B%BD-%E5%95%86%E6%8A%A5-%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E6%B0%91%E8%B5%B7%E4%B9%89",
+        "published_at": "2026-11-04T20:49:34+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧盟议员要求评估比亚迪的国安风险，比亚迪承诺无法从中国远程访问车辆内部数据",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%AC%A7%E7%9B%9F%E8%AE%AE%E5%91%98%E8%A6%81%E6%B1%82%E8%AF%84%E4%BC%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%9B%BD%E5%AE%89%E9%A3%8E%E9%99%A9%EF%BC%8C%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%BF%E8%AF%BA%E6%97%A0%E6%B3%95%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E8%BD%A6%E8%BE%86%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE",
+        "published_at": "2026-11-04T19:55:01+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国周四将继续举行罢工及示威活动，当局部署约7万名警力",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%B3%95%E5%9B%BD%E5%91%A8%E5%9B%9B%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%B8%BE%E8%A1%8C%E7%BD%A2%E5%B7%A5%E5%8F%8A%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8%EF%BC%8C%E5%BD%93%E5%B1%80%E9%83%A8%E7%BD%B2%E7%BA%A67%E4%B8%87%E5%90%8D%E8%AD%A6%E5%8A%9B",
+        "published_at": "2026-11-04T19:15:29+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国期中选举结果综述：民主党大反攻 多个传统红州转蓝",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E7%BE%8E%E5%9B%BD%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E7%BB%BC%E8%BF%B0-%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%A7%E5%8F%8D%E6%94%BB-%E5%A4%9A%E4%B8%AA%E4%BC%A0%E7%BB%9F%E7%BA%A2%E5%B7%9E%E8%BD%AC%E8%93%9D",
+        "published_at": "2026-11-04T18:46:21+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国多家血库遭网络攻击，但因阻止及时血浆未受损",
+        "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261104-%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%AE%B6%E8%A1%80%E5%BA%93%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E4%BD%86%E5%9B%A0%E9%98%BB%E6%AD%A2%E5%8F%8A%E6%97%B6%E8%A1%80%E6%B5%86%E6%9C%AA%E5%8F%97%E6%8D%9F",
+        "published_at": "2026-11-04T18:33:54+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "多国领导人对共和党惨败表示如释重负，俄罗斯希望特朗普继续维持现有政策",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%AF%B9%E5%85%B1%E5%92%8C%E5%85%9A%E6%83%A8%E8%B4%A5%E8%A1%A8%E7%A4%BA%E5%A6%82%E9%87%8A%E9%87%8D%E8%B4%9F%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%8C%E6%9C%9B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%A7%E7%BB%AD%E7%BB%B4%E6%8C%81%E7%8E%B0%E6%9C%89%E6%94%BF%E7%AD%96",
+        "published_at": "2026-11-04T18:23:41+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "王毅与菲外长通话促加强对少数政客约束 菲防长：若针对的是我，我只听总统的",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E7%8E%8B%E6%AF%85%E4%B8%8E%E8%8F%B2%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D%E4%BF%83%E5%8A%A0%E5%BC%BA%E5%AF%B9%E5%B0%91%E6%95%B0%E6%94%BF%E5%AE%A2%E7%BA%A6%E6%9D%9F-%E8%8F%B2%E9%98%B2%E9%95%BF-%E8%8B%A5%E9%92%88%E5%AF%B9%E7%9A%84%E6%98%AF%E6%88%91%EF%BC%8C%E6%88%91%E5%8F%AA%E5%90%AC%E6%80%BB%E7%BB%9F%E7%9A%84",
+        "published_at": "2026-11-04T17:12:14+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "荷兰安世半导体起诉闻泰科技及其创始人 要求赔偿损失",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261104-%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%B7%E8%AF%89%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E5%8F%8A%E5%85%B6%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%A6%81%E6%B1%82%E8%B5%94%E5%81%BF%E6%8D%9F%E5%A4%B1",
+        "published_at": "2026-11-04T16:26:28+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
       {
         "title": "希音将斥资5亿欧元扩大波兰欧洲物流枢纽，应对欧盟新收费规则",
         "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261104-%E5%B8%8C%E9%9F%B3%E5%B0%86%E6%96%A5%E8%B5%845%E4%BA%BF%E6%AC%A7%E5%85%83%E6%89%A9%E5%A4%A7%E6%B3%A2%E5%85%B0%E6%AC%A7%E6%B4%B2%E7%89%A9%E6%B5%81%E6%9E%A2%E7%BA%BD%EF%BC%8C%E5%BA%94%E5%AF%B9%E6%AC%A7%E7%9B%9F%E6%96%B0%E6%94%B6%E8%B4%B9%E8%A7%84%E5%88%99",
@@ -15,34 +133,126 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   },
   "中央社国际": {
-    "items": [],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "items": [
+      {
+        "title": "北韩试射先进防空飞弹 东部部队演练火力打击",
+        "link": "https://www.cna.com.tw/news/aopl/202611050012.aspx",
+        "published_at": "2026-11-04T21:38:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "民主党强生当选德州检察长 曾为「七龙珠Z」配乐",
+        "link": "https://www.cna.com.tw/news/aopl/202611050011.aspx",
+        "published_at": "2026-11-04T21:22:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "民主党下一个欧巴马 奥索夫连任参议员问鼎白宫机率增",
+        "link": "https://www.cna.com.tw/news/aopl/202611050010.aspx",
+        "published_at": "2026-11-04T20:24:22+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "民主党将重掌国会 川普：若发起弹劾将自取灭亡",
+        "link": "https://www.cna.com.tw/news/aopl/202611050009.aspx",
+        "published_at": "2026-11-04T19:25:19+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普坦言美伊战争拖累选情 但排除开除战争部长",
+        "link": "https://www.cna.com.tw/news/aopl/202611050008.aspx",
+        "published_at": "2026-11-04T18:56:17+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选举共和党大败 范斯：美伊战争是失利原因",
+        "link": "https://www.cna.com.tw/news/aopl/202611050006.aspx",
+        "published_at": "2026-11-04T18:23:12+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选举共和党输掉众院 议长强生不角逐少数党领袖",
+        "link": "https://www.cna.com.tw/news/aopl/202611050005.aspx",
+        "published_at": "2026-11-04T17:59:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选举共和党惨败 白宫发文强调川普「仍是你们的总统」",
+        "link": "https://www.cna.com.tw/news/aopl/202611050004.aspx",
+        "published_at": "2026-11-04T17:24:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "深红州密西西比参议员选情胶著 开票97%两候选人仅差28票",
+        "link": "https://www.cna.com.tw/news/aopl/202611050002.aspx",
+        "published_at": "2026-11-04T17:00:02+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   },
   "中央社财经": {
-    "items": [],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "items": [
+      {
+        "title": "市场消化美期中选举结果 欧股收盘劲扬",
+        "link": "https://www.cna.com.tw/news/afe/202611050007.aspx",
+        "published_at": "2026-11-04T18:32:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-04T16:36:32.041623+00:00"
+    "last_success": "2026-11-04T22:03:40.129995+00:00"
   }
 }
