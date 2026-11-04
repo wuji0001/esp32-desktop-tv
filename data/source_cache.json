@@ -1,10 +1,92 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-11-03T21:56:07.425037+00:00"
+    "items": [
+      {
+        "title": "有望成为首位穆斯林美国参议员，42岁的赛义德是谁？",
+        "link": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T00:32:57+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "印尼有毒烟霾正令邻国陷入政治难题",
+        "link": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T00:23:42+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "APEC峰会前，美智库解析「技术民族主义」下的中俄军工合作细节与限度",
+        "link": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T00:23:34+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "2026年美国中期选举实时更新结果",
+        "link": "https://www.bbc.com/zhongwen/articles/c5rmyrm0n8k8o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T00:07:39+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "欧洲各国政府正竞相加强海军力量， “欧洲海军防务展”在巴黎附近开幕",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261103-%E6%B4%B2%E5%90%84%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%AD%A3%E7%AB%9E%E7%9B%B8%E5%8A%A0%E5%BC%BA%E6%B5%B7%E5%86%9B%E5%8A%9B%E9%87%8F%EF%BC%8C-%E6%AC%A7%E6%B4%B2%E6%B5%B7%E5%86%9B%E9%98%B2%E5%8A%A1%E5%B1%95-%E5%9C%A8%E5%B7%B4%E9%BB%8E%E9%99%84%E8%BF%91%E5%BC%80%E5%B9%95",
+        "published_at": "2026-11-03T22:47:37+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "十多个欧洲国家遭遇新一轮疑似网络攻击，超市冰柜是目标",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261103-%E5%8D%81%E5%A4%9A%E4%B8%AA%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B6%E9%81%AD%E9%81%87%E6%96%B0%E4%B8%80%E8%BD%AE%E7%96%91%E4%BC%BC%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E8%B6%85%E5%B8%82%E5%86%B0%E6%9F%9C%E6%98%AF%E7%9B%AE%E6%A0%87",
+        "published_at": "2026-11-03T22:43:05+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "选举后， 以色列 “变革阵营”的各领导人加快行动步伐让内塔尼亚胡下台",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261103-%E9%80%89%E4%B8%BE%E5%90%8E%EF%BC%8C-%E4%BB%A5%E8%89%B2%E5%88%97-%E5%8F%98%E9%9D%A9%E9%98%B5%E8%90%A5-%E7%9A%84%E5%90%84%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8A%A0%E5%BF%AB%E8%A1%8C%E5%8A%A8%E6%AD%A5%E4%BC%90%E8%AE%A9%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E4%B8%8B%E5%8F%B0",
+        "published_at": "2026-11-03T22:41:10+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普：将停止向以色列提供每年38亿美元的安全援助",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261103-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%86%E5%81%9C%E6%AD%A2%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%8F%90%E4%BE%9B%E6%AF%8F%E5%B9%B438%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%AE%89%E5%85%A8%E6%8F%B4%E5%8A%A9",
+        "published_at": "2026-11-03T22:32:55+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国民众周二参加中期选举，这次选举被看作是针对特朗普的全民公投",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261103-%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%91%A8%E4%BA%8C%E5%8F%82%E5%8A%A0%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E8%BF%99%E6%AC%A1%E9%80%89%E4%B8%BE%E8%A2%AB%E7%9C%8B%E4%BD%9C%E6%98%AF%E9%92%88%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95",
+        "published_at": "2026-11-03T22:27:04+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "欧洲航空安全拉警报 多国航班接获炸弹威胁",
         "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261103-%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81%E6%89%B0%E4%B9%B1%E6%AC%A7%E6%B4%B2%E8%88%AA%E7%A9%BA-%E5%A4%9A%E5%9B%BD%E5%90%AF%E5%8A%A8%E6%9C%80%E9%AB%98%E5%AE%89%E5%85%A8%E7%A8%8B%E5%BA%8F",
@@ -42,14 +124,41 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-03T21:56:07.425037+00:00"
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-03T21:56:07.425037+00:00"
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "印太区域对话促科技人文合作 盼带动台湾与印度跨域交流",
+        "link": "https://www.cna.com.tw/news/aipl/202611040019.aspx",
+        "published_at": "2026-11-03T23:42:47+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美俄乌和平谈判在即 泽伦斯基访德吁欧洲承担更大责任",
+        "link": "https://www.cna.com.tw/news/aopl/202611040017.aspx",
+        "published_at": "2026-11-03T23:31:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美2024与2026选前寄百封白粉信 奥克拉荷马男子遭起诉",
+        "link": "https://www.cna.com.tw/news/aopl/202611040015.aspx",
+        "published_at": "2026-11-03T22:35:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "美国选民走进投票所 决定川普未来两年能否顺利施政",
         "link": "https://www.cna.com.tw/news/aopl/202611040013.aspx",
@@ -123,10 +232,73 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-03T21:56:07.425037+00:00"
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "台积电上涨25元 台股早盘扬升逾400点",
+        "link": "https://www.cna.com.tw/news/afe/202611040037.aspx",
+        "published_at": "2026-11-04T01:13:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "新台币开盘贬3分 为32.79元",
+        "link": "https://www.cna.com.tw/news/afe/202611040032.aspx",
+        "published_at": "2026-11-04T01:04:17+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股开盘涨141.91点",
+        "link": "https://www.cna.com.tw/news/afe/202611040031.aspx",
+        "published_at": "2026-11-04T01:04:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "传美限制对中晶片设备出口 SK海力士纽约投资计划受阻",
+        "link": "https://www.cna.com.tw/news/aopl/202611040024.aspx",
+        "published_at": "2026-11-04T00:24:59+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台指期夜盘上扬 法人：台股可望回稳",
+        "link": "https://www.cna.com.tw/news/afe/202611040022.aspx",
+        "published_at": "2026-11-04T00:23:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "超微与美超微业绩佳 盘后交易同步走高",
+        "link": "https://www.cna.com.tw/news/afe/202611040016.aspx",
+        "published_at": "2026-11-03T23:11:40+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "投资人关注美国期中选举 美股多收红道琼独憔悴",
+        "link": "https://www.cna.com.tw/news/afe/202611040014.aspx",
+        "published_at": "2026-11-03T22:06:32+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "美伊僵局有望结束 国际油价下跌",
         "link": "https://www.cna.com.tw/news/afe/202611040012.aspx",
@@ -146,22 +318,22 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-03T21:56:07.425037+00:00"
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-03T21:56:07.425037+00:00"
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-03T21:56:07.425037+00:00"
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-03T21:56:07.425037+00:00"
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-03T16:30:32.233529+00:00"
+    "last_success": "2026-11-04T01:53:34.096180+00:00"
   }
 }
