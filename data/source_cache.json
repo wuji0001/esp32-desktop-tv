@@ -11,10 +11,55 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "美国对古巴实施新一轮制裁，制裁名单新增两家中国电子公司",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%AE%9E%E6%96%BD%E6%96%B0%E4%B8%80%E8%BD%AE%E5%88%B6%E8%A3%81%EF%BC%8C%E5%88%B6%E8%A3%81%E5%90%8D%E5%8D%95%E6%96%B0%E5%A2%9E%E4%B8%A4%E5%AE%B6%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E5%85%AC%E5%8F%B8",
+        "published_at": "2026-11-05T22:46:37+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "数十万法国人周四在全国各地示威游行，要求提高购买力",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261105-%E6%95%B0%E5%8D%81%E4%B8%87%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%91%A8%E5%9B%9B%E5%9C%A8%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C%EF%BC%8C%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E8%B4%AD%E4%B9%B0%E5%8A%9B",
+        "published_at": "2026-11-05T22:32:53+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普力挺国防部长赫格塞斯 众议院最快下周表决弹劾",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261105-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8C%BA%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF-%E4%BC%97%E8%AE%AE%E9%99%A2%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%E5%BC%B9%E5%8A%BE",
+        "published_at": "2026-11-05T19:59:30+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中期选举后美国两党最新出台哪些政策？",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261105-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E6%9C%80%E6%96%B0%E5%87%BA%E5%8F%B0%E5%93%AA%E4%BA%9B%E6%94%BF%E7%AD%96",
+        "published_at": "2026-11-05T19:52:03+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "20多架欧洲航班本周相继遭受匿名炸弹威胁",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261105-20%E5%A4%9A%E6%9E%B6%E6%AC%A7%E6%B4%B2%E8%88%AA%E7%8F%AD%E6%9C%AC%E5%91%A8%E7%9B%B8%E7%BB%A7%E9%81%AD%E5%8F%97%E5%8C%BF%E5%90%8D%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81",
+        "published_at": "2026-11-05T18:49:37+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "特朗普中期选举政治挫败让中国短期获益，但长期受损？",
         "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%94%BF%E6%B2%BB%E6%8C%AB%E8%B4%A5%E8%AE%A9%E4%B8%AD%E5%9B%BD%E7%9F%AD%E6%9C%9F%E8%8E%B7%E7%9B%8A%EF%BC%8C%E4%BD%86%E9%95%BF%E6%9C%9F%E5%8F%97%E6%8D%9F",
@@ -34,34 +79,126 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   },
   "中央社国际": {
-    "items": [],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "items": [
+      {
+        "title": "洛杉矶市长巴斯连任失利 拉曼将成美国第2大城首长",
+        "link": "https://www.cna.com.tw/news/aopl/202611060012.aspx",
+        "published_at": "2026-11-05T21:17:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "加州州长纽松宣布 全州548名死刑犯减刑为终身监禁",
+        "link": "https://www.cna.com.tw/news/aopl/202611060010.aspx",
+        "published_at": "2026-11-05T20:46:32+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴纽警方证实查扣砲弹 中国使馆称只是造型酒瓶遭打脸",
+        "link": "https://www.cna.com.tw/news/aopl/202611060009.aspx",
+        "published_at": "2026-11-05T19:50:29+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "假炸弹威胁再袭欧洲多地 至少27架航班受干扰",
+        "link": "https://www.cna.com.tw/news/aopl/202611060008.aspx",
+        "published_at": "2026-11-05T19:25:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭总统潘尼亚卷银行风暴请辞 副总统阿里亚纳接任",
+        "link": "https://www.cna.com.tw/news/aopl/202611060007.aspx",
+        "published_at": "2026-11-05T18:55:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "避开美国出口管制 中国AI新创月之暗面转向欧洲租辉达晶片算力",
+        "link": "https://www.cna.com.tw/news/aopl/202611060006.aspx",
+        "published_at": "2026-11-05T18:05:21+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "金融风暴波及300万人 巴拉圭总统潘尼亚宣布辞职",
+        "link": "https://www.cna.com.tw/news/aopl/202611060004.aspx",
+        "published_at": "2026-11-05T17:13:16+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   },
   "中央社财经": {
-    "items": [],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "items": [
+      {
+        "title": "美期中选举引发AI投资疑虑 美股收盘重挫",
+        "link": "https://www.cna.com.tw/news/afe/202611060013.aspx",
+        "published_at": "2026-11-05T21:23:39+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "油轮遇袭引供应疑虑 国际油价大涨",
+        "link": "https://www.cna.com.tw/news/afe/202611060011.aspx",
+        "published_at": "2026-11-05T21:01:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "欧股多收黑 美期中选举结果一度激励盘中创高",
+        "link": "https://www.cna.com.tw/news/afe/202611060005.aspx",
+        "published_at": "2026-11-05T17:40:18+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-05T17:40:06.456858+00:00"
+    "last_success": "2026-11-05T22:53:38.538382+00:00"
   }
 }
