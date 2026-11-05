@@ -2,6 +2,51 @@
   "BBC中文": {
     "items": [
       {
+        "title": "前央视节目主讲人程万军在台寻求庇护未果 被送返泰国",
+        "link": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T08:26:48+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄之锋勾结罪国安案：重判10年，料出狱已届40岁",
+        "link": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T07:43:09+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "他们在等西西弗斯：黄之锋身后，那些写信和探监的前战友",
+        "link": "https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T05:03:14+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "民主党重掌美国国会：能做什么、不能做什么？",
+        "link": "https://www.bbc.com/zhongwen/articles/cm8xzky58xw7o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T03:51:08+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "「这是一场灾难」：中期选举惨败，共和党内怒火指向特朗普",
+        "link": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T02:36:32+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "美国中期选举结果对中国和世界各国意味着什么？",
         "link": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-04T21:02:11+00:00",
@@ -20,10 +65,46 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "加拿大宣布中国副总理何立峰下周访加 料推动经贸合作落地",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%A3%E5%B8%83%E4%B8%AD%E5%9B%BD%E5%89%AF%E6%80%BB%E7%90%86%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%B8%8B%E5%91%A8%E8%AE%BF%E5%8A%A0-%E6%96%99%E6%8E%A8%E5%8A%A8%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E8%90%BD%E5%9C%B0",
+        "published_at": "2026-11-05T09:25:02+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "马兴瑞涉嫌受贿案提起公诉 被指以职权为他人谋利等",
+        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261105-%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E5%8F%97%E8%B4%BF%E6%A1%88%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89-%E8%A2%AB%E6%8C%87%E4%BB%A5%E8%81%8C%E6%9D%83%E4%B8%BA%E4%BB%96%E4%BA%BA%E8%B0%8B%E5%88%A9%E7%AD%89",
+        "published_at": "2026-11-05T08:54:25+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄之锋闻判刑皱眉 两人权组织责港府手法残酷 感愤慨",
+        "link": "https://www.rfi.fr/cn/%E4%BA%BA%E6%9D%83/20261105-%E9%BB%84%E4%B9%8B%E9%94%8B%E9%97%BB%E5%88%A4%E5%88%91%E7%9A%B1%E7%9C%89-%E4%B8%A4%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87%E8%B4%A3%E6%B8%AF%E5%BA%9C%E6%89%8B%E6%B3%95%E6%AE%8B%E9%85%B7-%E6%84%9F%E6%84%A4%E6%85%A8",
+        "published_at": "2026-11-05T08:41:21+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄之锋被控串谋勾结外国势力 法官裁定属「罪行重大」 重判10年料服刑至40岁",
+        "link": "https://www.rfi.fr/cn/%E4%BA%BA%E6%9D%83/20261105-%E9%BB%84%E4%B9%8B%E9%94%8B%E8%A2%AB%E6%8E%A7%E4%B8%B2%E8%B0%8B%E5%8B%BE%E7%BB%93%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B-%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E5%B1%9E-%E7%BD%AA%E8%A1%8C%E9%87%8D%E5%A4%A7-%E9%87%8D%E5%88%A410%E5%B9%B4%E6%96%99%E6%9C%8D%E5%88%91%E8%87%B340%E5%B2%81",
+        "published_at": "2026-11-05T08:34:53+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "法新社：惨败后特朗普却表现得若无其事，仿佛什么都没有发生",
         "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%B3%95%E6%96%B0%E7%A4%BE-%E6%83%A8%E8%B4%A5%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%B4%E8%A1%A8%E7%8E%B0%E5%BE%97%E8%8B%A5%E6%97%A0%E5%85%B6%E4%BA%8B%EF%BC%8C%E4%BB%BF%E4%BD%9B%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E6%9C%89%E5%8F%91%E7%94%9F",
@@ -142,216 +223,426 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   },
   "DW中文": {
-    "items": [],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "items": [
+      {
+        "title": "黄之锋「勾结外国势力罪」判刑10年 出狱时或已40岁",
+        "link": "https://www.dw.com/zh/黃之鋒「勾結外國勢力罪」判刑10年-出獄時或已40歲/a-79859899?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-05T05:26:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "迈阿密附近直升机坠海湾 酿1死2重伤",
-        "link": "https://www.cna.com.tw/news/aopl/202611050022.aspx",
-        "published_at": "2026-11-05T00:22:54+00:00",
+        "title": "美共和党期中惨败2028大选洗牌 副总统范斯首当其冲",
+        "link": "https://www.cna.com.tw/news/aopl/202611050172.aspx",
+        "published_at": "2026-11-05T07:07:23+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "教宗访阿根廷升级空防 军方获授权可击落敌意航空器",
-        "link": "https://www.cna.com.tw/news/aopl/202611050021.aspx",
-        "published_at": "2026-11-05T00:09:52+00:00",
+        "title": "裴洛西接班人出炉 威善高成旧金山首位男同志联邦众议员",
+        "link": "https://www.cna.com.tw/news/aopl/202611050154.aspx",
+        "published_at": "2026-11-05T06:28:44+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美期中选举民主党掌国会 欧洲议会代表团盼重启对话",
-        "link": "https://www.cna.com.tw/news/aopl/202611050020.aspx",
-        "published_at": "2026-11-04T23:55:50+00:00",
+        "title": "曾率旧金山交响乐团访台 指挥大师布隆斯泰特逝世",
+        "link": "https://www.cna.com.tw/news/aopl/202611050149.aspx",
+        "published_at": "2026-11-05T06:23:33+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "共和党铁票仓德州32年大翻盘 民主党横扫州级公职",
-        "link": "https://www.cna.com.tw/news/aopl/202611050019.aspx",
-        "published_at": "2026-11-04T23:49:47+00:00",
+        "title": "美加州西好莱坞市通过条例 为多重伴侣关系提供法律保障",
+        "link": "https://www.cna.com.tw/news/aopl/202611050145.aspx",
+        "published_at": "2026-11-05T06:15:24+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美民主党掌控国会 川普区域政策受限引拉美关注",
-        "link": "https://www.cna.com.tw/news/aopl/202611050018.aspx",
-        "published_at": "2026-11-04T23:41:45+00:00",
+        "title": "金融时报：中国阻软银收购ABB机器人业务",
+        "link": "https://www.cna.com.tw/news/aopl/202611050143.aspx",
+        "published_at": "2026-11-05T06:06:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "华府公投赞成禁产销鹅鸭肝酱 业者可能提告",
+        "link": "https://www.cna.com.tw/news/aopl/202611050130.aspx",
+        "published_at": "2026-11-05T05:32:50+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "油价飙涨拖累共和党败选 川普坚称对伊朗开战是正确决定",
-        "link": "https://www.cna.com.tw/news/aopl/202611050017.aspx",
-        "published_at": "2026-11-04T23:40:43+00:00",
+        "title": "GMO遭骇致歉记者会惹议 会长熊谷含泪谈理念、当众训斥下属",
+        "link": "https://www.cna.com.tw/news/aopl/202611050125.aspx",
+        "published_at": "2026-11-05T05:22:39+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美众院民主党领袖杰福瑞斯 表态角逐众议院议长",
-        "link": "https://www.cna.com.tw/news/aopl/202611050016.aspx",
-        "published_at": "2026-11-04T23:34:41+00:00",
+        "title": "德国巴伐利亚副邦长陈尸柏林饭店 警调查死因",
+        "link": "https://www.cna.com.tw/news/aopl/202611050117.aspx",
+        "published_at": "2026-11-05T05:03:22+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美众院民主党团：无人提弹劾总统 新会期聚焦民生法案",
-        "link": "https://www.cna.com.tw/news/aopl/202611050015.aspx",
-        "published_at": "2026-11-04T23:16:38+00:00",
+        "title": "韩国强化荷莫兹海峡安全部署 强调不介入伊朗战争",
+        "link": "https://www.cna.com.tw/news/aopl/202611050111.aspx",
+        "published_at": "2026-11-05T04:57:09+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "北韩试射先进防空飞弹 东部部队演练火力打击",
-        "link": "https://www.cna.com.tw/news/aopl/202611050012.aspx",
-        "published_at": "2026-11-04T21:38:28+00:00",
+        "title": "韩国金融业爆资安危机 近期37家遭骇、47万笔资料外泄",
+        "link": "https://www.cna.com.tw/news/aopl/202611050098.aspx",
+        "published_at": "2026-11-05T04:05:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台湾漫游录泰文版发行 郑佩佩克服多语翻译挑战",
+        "link": "https://www.cna.com.tw/news/aopl/202611050095.aspx",
+        "published_at": "2026-11-05T04:03:34+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "民主党强生当选德州检察长 曾为「七龙珠Z」配乐",
-        "link": "https://www.cna.com.tw/news/aopl/202611050011.aspx",
-        "published_at": "2026-11-04T21:22:25+00:00",
+        "title": "加州拟向富豪课征5%财富税 公投反对票逾55%恐遭否决",
+        "link": "https://www.cna.com.tw/news/aopl/202611050094.aspx",
+        "published_at": "2026-11-05T04:01:32+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "民主党下一个欧巴马 奥索夫连任参议员问鼎白宫机率增",
-        "link": "https://www.cna.com.tw/news/aopl/202611050010.aspx",
-        "published_at": "2026-11-04T20:24:22+00:00",
+        "title": "梅兰妮亚促停火获授勋 俄袭乌援助站酿40死59失联",
+        "link": "https://www.cna.com.tw/news/aopl/202611050090.aspx",
+        "published_at": "2026-11-05T03:49:23+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "民主党将重掌国会 川普：若发起弹劾将自取灭亡",
-        "link": "https://www.cna.com.tw/news/aopl/202611050009.aspx",
-        "published_at": "2026-11-04T19:25:19+00:00",
+        "title": "美陆战队员冲绳训练丧生 事故原因待查",
+        "link": "https://www.cna.com.tw/news/aopl/202611050066.aspx",
+        "published_at": "2026-11-05T03:17:32+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "川普坦言美伊战争拖累选情 但排除开除战争部长",
-        "link": "https://www.cna.com.tw/news/aopl/202611050008.aspx",
-        "published_at": "2026-11-04T18:56:17+00:00",
+        "title": "科技巨头加强成本控管 Google推自愿离职、苹果缩减AI预算",
+        "link": "https://www.cna.com.tw/news/aopl/202611050052.aspx",
+        "published_at": "2026-11-05T02:42:02+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美期中选举共和党大败 范斯：美伊战争是失利原因",
-        "link": "https://www.cna.com.tw/news/aopl/202611050006.aspx",
-        "published_at": "2026-11-04T18:23:12+00:00",
+        "title": "美伊战争物价狂飙 BBC揭共和党期中选举惨败5原因",
+        "link": "https://www.cna.com.tw/news/aopl/202611050049.aspx",
+        "published_at": "2026-11-05T02:36:55+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美期中选举共和党输掉众院 议长强生不角逐少数党领袖",
-        "link": "https://www.cna.com.tw/news/aopl/202611050005.aspx",
-        "published_at": "2026-11-04T17:59:09+00:00",
+        "title": "民主党重掌美参众两院 期中选举四大重点一次看",
+        "link": "https://www.cna.com.tw/news/aopl/202611050044.aspx",
+        "published_at": "2026-11-05T02:23:44+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美期中选举共和党惨败 白宫发文强调川普「仍是你们的总统」",
-        "link": "https://www.cna.com.tw/news/aopl/202611050004.aspx",
-        "published_at": "2026-11-04T17:24:07+00:00",
+        "title": "5名维吾尔人面临遣返风险 泰国官员：由司法决定",
+        "link": "https://www.cna.com.tw/news/aopl/202611050043.aspx",
+        "published_at": "2026-11-05T02:16:42+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "深红州密西西比参议员选情胶著 开票97%两候选人仅差28票",
-        "link": "https://www.cna.com.tw/news/aopl/202611050002.aspx",
-        "published_at": "2026-11-04T17:00:02+00:00",
+        "title": "美媒：共和党败选究责 战争部长赫格塞斯最快下周可能面临弹劾",
+        "link": "https://www.cna.com.tw/news/aopl/202611050039.aspx",
+        "published_at": "2026-11-05T02:00:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选举女性政治势力崛起 民主党女性众议员破百",
+        "link": "https://www.cna.com.tw/news/aopl/202611050036.aspx",
+        "published_at": "2026-11-05T01:55:26+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   },
   "中央社财经": {
     "items": [
       {
-        "title": "市场押注美伊冲突加快结束 国际油价大跌",
-        "link": "https://www.cna.com.tw/news/afe/202611050014.aspx",
-        "published_at": "2026-11-04T21:59:33+00:00",
+        "title": "台塑新智能现增130亿元拚扩产 台塑四宝加码投资",
+        "link": "https://www.cna.com.tw/news/afe/202611050193.aspx",
+        "published_at": "2026-11-05T07:59:08+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "美期中选举后不确定性缓解 美股收红道琼大涨3%",
-        "link": "https://www.cna.com.tw/news/afe/202611050013.aspx",
-        "published_at": "2026-11-04T21:53:30+00:00",
+        "title": "丰田上修全年获利预测 中国市场遭夹击销量跌25%",
+        "link": "https://www.cna.com.tw/news/afe/202611050189.aspx",
+        "published_at": "2026-11-05T07:51:59+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "市场消化美期中选举结果 欧股收盘劲扬",
-        "link": "https://www.cna.com.tw/news/afe/202611050007.aspx",
-        "published_at": "2026-11-04T18:32:14+00:00",
+        "title": "文晔前3季每股纯益20.99元 估第4季营运恢复强劲季增",
+        "link": "https://www.cna.com.tw/news/afe/202611050182.aspx",
+        "published_at": "2026-11-05T07:29:44+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "AI类股持续面临卖压 日经泻逾千点韩股重挫5%以上",
+        "link": "https://www.cna.com.tw/news/afe/202611050179.aspx",
+        "published_at": "2026-11-05T07:21:38+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "上银10月营收写新猷 受惠AI半导体设备应用拉货",
+        "link": "https://www.cna.com.tw/news/afe/202611050177.aspx",
+        "published_at": "2026-11-05T07:18:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "三大法人卖超台股1234亿 外资砍逾千亿",
+        "link": "https://www.cna.com.tw/news/afe/202611050174.aspx",
+        "published_at": "2026-11-05T07:10:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "OpenAI企业客户撑起过半营收 总裁曝2027年有望IPO",
+        "link": "https://www.cna.com.tw/news/afe/202611050168.aspx",
+        "published_at": "2026-11-05T06:58:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股续挫1374点掼破42000点 写历年第13大收盘跌点",
+        "link": "https://www.cna.com.tw/news/afe/202611050166.aspx",
+        "published_at": "2026-11-05T06:53:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "经部A+计划通过3案 钰祥获补助1.15亿攻半导体关键滤材",
+        "link": "https://www.cna.com.tw/news/afe/202611050160.aspx",
+        "published_at": "2026-11-05T06:42:57+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "国科会成立太空基金拟引进民间投资 吴诚文盼明年完成",
+        "link": "https://www.cna.com.tw/news/afe/202611050158.aspx",
+        "published_at": "2026-11-05T06:40:53+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "研华张家豪2027年接任执行长 刘克振转任专职董事长",
+        "link": "https://www.cna.com.tw/news/afe/202611050156.aspx",
+        "published_at": "2026-11-05T06:36:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "群光10月营收月减9.1%连4降 稳定获利为首要原则",
+        "link": "https://www.cna.com.tw/news/afe/202611050150.aspx",
+        "published_at": "2026-11-05T06:26:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "金融时报：中国阻软银收购ABB机器人业务",
+        "link": "https://www.cna.com.tw/news/aopl/202611050143.aspx",
+        "published_at": "2026-11-05T06:06:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "11月电子期跌 金融期涨",
+        "link": "https://www.cna.com.tw/news/afe/202611050140.aspx",
+        "published_at": "2026-11-05T05:59:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股再挫1374点 失守42000点整数关卡",
+        "link": "https://www.cna.com.tw/news/afe/202611050139.aspx",
+        "published_at": "2026-11-05T05:56:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "11月台股期指跌1288点",
+        "link": "https://www.cna.com.tw/news/afe/202611050138.aspx",
+        "published_at": "2026-11-05T05:55:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股跌1374.19点",
+        "link": "https://www.cna.com.tw/news/afe/202611050135.aspx",
+        "published_at": "2026-11-05T05:45:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美民主党大胜引发AI监管疑虑 科技股重挫、油价续跌",
+        "link": "https://www.cna.com.tw/news/afe/202611050134.aspx",
+        "published_at": "2026-11-05T05:42:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "SOGO周年庆首日拚12.5亿元 台股大跌影响有限",
+        "link": "https://www.cna.com.tw/news/afe/202611050132.aspx",
+        "published_at": "2026-11-05T05:40:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "永丰银遭骇 金管会：未影响客户信心无资金异常状况",
+        "link": "https://www.cna.com.tw/news/afe/202611050126.aspx",
+        "published_at": "2026-11-05T05:24:41+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   },
   "中央社科技": {
-    "items": [],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "items": [
+      {
+        "title": "NASA雨燕天文台坠入大气层 22年太空任务烈焰中谢幕",
+        "link": "https://www.cna.com.tw/news/ait/202611050122.aspx",
+        "published_at": "2026-11-05T05:20:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-05T02:17:46.159195+00:00"
+    "items": [
+      {
+        "title": "前央视节目主讲人程万军在台寻求庇护未果 被送返泰国",
+        "link": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/simp",
+        "published_at": "2026-11-05T00:26:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-05T09:40:18.549248+00:00"
   }
 }
