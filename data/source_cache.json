@@ -1,10 +1,118 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "中国解放军四少将被终止全国人大代表资格",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261106-%E4%B8%AD%E5%9B%BD%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%9B%E5%B0%91%E5%B0%86%E8%A2%AB%E7%BB%88%E6%AD%A2%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC",
+        "published_at": "2026-11-06T22:21:34+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "教宗良十四世开启12天南美访问",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261106-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%BC%80%E5%90%AF12%E5%A4%A9%E5%8D%97%E7%BE%8E%E8%AE%BF%E9%97%AE",
+        "published_at": "2026-11-06T21:14:14+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "对巴拉圭佩尼亚总统弹劾审判开始",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261106-%E5%AF%B9%E5%B7%B4%E6%8B%89%E5%9C%AD%E4%BD%A9%E5%B0%BC%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%BC%B9%E5%8A%BE%E5%AE%A1%E5%88%A4%E5%BC%80%E5%A7%8B",
+        "published_at": "2026-11-06T21:09:55+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法新社谴责警方暴力对待其记者",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261106-%E6%B3%95%E6%96%B0%E7%A4%BE%E8%B0%B4%E8%B4%A3%E8%AD%A6%E6%96%B9%E6%9A%B4%E5%8A%9B%E5%AF%B9%E5%BE%85%E5%85%B6%E8%AE%B0%E8%80%85",
+        "published_at": "2026-11-06T21:08:07+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普兴建凯旋门计划受阻 白宫表示乐观",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261106-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B4%E5%BB%BA%E5%87%AF%E6%97%8B%E9%97%A8%E8%AE%A1%E5%88%92%E5%8F%97%E9%98%BB-%E7%99%BD%E5%AE%AB%E8%A1%A8%E7%A4%BA%E4%B9%90%E8%A7%82",
+        "published_at": "2026-11-06T21:06:02+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美中期选举：密西西比州还未有明确结果",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261106-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E5%AF%86%E8%A5%BF%E8%A5%BF%E6%AF%94%E5%B7%9E%E8%BF%98%E6%9C%AA%E6%9C%89%E6%98%8E%E7%A1%AE%E7%BB%93%E6%9E%9C",
+        "published_at": "2026-11-06T21:00:12+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "皇马与中国之间的紧张关系能否缓和？",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261106-%E7%9A%87%E9%A9%AC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%B9%8B%E9%97%B4%E7%9A%84%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%E8%83%BD%E5%90%A6%E7%BC%93%E5%92%8C",
+        "published_at": "2026-11-06T20:56:30+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧盟对澳门前民主派议员定罪表示“遗憾”",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261106-%E6%AC%A7%E7%9B%9F%E5%AF%B9%E6%BE%B3%E9%97%A8%E5%89%8D%E6%B0%91%E4%B8%BB%E6%B4%BE%E8%AE%AE%E5%91%98%E5%AE%9A%E7%BD%AA%E8%A1%A8%E7%A4%BA-%E9%81%97%E6%86%BE",
+        "published_at": "2026-11-06T20:54:22+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "华盛顿呼吁北京当局尊重双方贸易协定条款",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261106-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%91%BC%E5%90%81%E5%8C%97%E4%BA%AC%E5%BD%93%E5%B1%80%E5%B0%8A%E9%87%8D%E5%8F%8C%E6%96%B9%E8%B4%B8%E6%98%93%E5%8D%8F%E5%AE%9A%E6%9D%A1%E6%AC%BE",
+        "published_at": "2026-11-06T20:52:36+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "印度首都新政：为50万个贫民窟家庭提供永久住房的计划",
+        "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261106-%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%96%B0%E6%94%BF-%E4%B8%BA50%E4%B8%87%E4%B8%AA%E8%B4%AB%E6%B0%91%E7%AA%9F%E5%AE%B6%E5%BA%AD%E6%8F%90%E4%BE%9B%E6%B0%B8%E4%B9%85%E4%BD%8F%E6%88%BF%E7%9A%84%E8%AE%A1%E5%88%92",
+        "published_at": "2026-11-06T20:30:20+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国一辆校车开至马路对面 两名学生死亡 3人重伤",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261106-%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E6%A0%A1%E8%BD%A6%E5%BC%80%E8%87%B3%E9%A9%AC%E8%B7%AF%E5%AF%B9%E9%9D%A2-%E4%B8%A4%E5%90%8D%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1-3%E4%BA%BA%E9%87%8D%E4%BC%A4",
+        "published_at": "2026-11-06T18:17:16+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美媒：民主党人讨论众议院中国特设委员会的未来",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261106-%E7%BE%8E%E5%AA%92-%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E8%AE%A8%E8%AE%BA%E4%BC%97%E8%AE%AE%E9%99%A2%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%AE%BE%E5%A7%94%E5%91%98%E4%BC%9A%E7%9A%84%E6%9C%AA%E6%9D%A5",
+        "published_at": "2026-11-06T18:08:12+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "欧盟对特定PET树脂化学品启动保障措施调查",
         "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261106-%E6%AC%A7%E7%9B%9F%E5%AF%B9%E7%89%B9%E5%AE%9Apet%E6%A0%91%E8%84%82%E5%8C%96%E5%AD%A6%E5%93%81%E5%90%AF%E5%8A%A8%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD%E8%B0%83%E6%9F%A5",
@@ -15,34 +123,91 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   },
   "中央社国际": {
-    "items": [],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "items": [
+      {
+        "title": "共和党期中选举落败 米勒调任白宫幕僚长",
+        "link": "https://www.cna.com.tw/news/aopl/202611070007.aspx",
+        "published_at": "2026-11-06T21:06:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   },
   "中央社财经": {
-    "items": [],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "items": [
+      {
+        "title": "传微软逐步终止租用甲骨文AI算力 重新评估云端合作",
+        "link": "https://www.cna.com.tw/news/ait/202611070005.aspx",
+        "published_at": "2026-11-06T20:25:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "科技股反弹仍难挽跌势 欧股三大指数收黑",
+        "link": "https://www.cna.com.tw/news/afe/202611070004.aspx",
+        "published_at": "2026-11-06T18:27:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "传台积电进军3D DRAM 应辉达要求规划制造、评估建厂",
+        "link": "https://www.cna.com.tw/news/ait/202611070002.aspx",
+        "published_at": "2026-11-06T17:22:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   },
   "中央社科技": {
-    "items": [],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "items": [
+      {
+        "title": "传微软逐步终止租用甲骨文AI算力 重新评估云端合作",
+        "link": "https://www.cna.com.tw/news/ait/202611070005.aspx",
+        "published_at": "2026-11-06T20:25:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "传台积电进军3D DRAM 应辉达要求规划制造、评估建厂",
+        "link": "https://www.cna.com.tw/news/ait/202611070002.aspx",
+        "published_at": "2026-11-06T17:22:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-06T17:41:33.295565+00:00"
+    "last_success": "2026-11-06T22:24:40.451358+00:00"
   }
 }
