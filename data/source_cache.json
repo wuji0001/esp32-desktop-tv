@@ -2,6 +2,15 @@
   "BBC中文": {
     "items": [
       {
+        "title": "从蔡康永、《VIVANT》到姆巴佩：北京为何区别处理「辱华」事件？",
+        "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T00:21:23+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "黄之锋勾结罪国安案：重判10年，料出狱已届40岁",
         "link": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-05T16:26:38+00:00",
@@ -11,10 +20,28 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "加州州长宣布为548名死刑犯减刑",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%AE%A3%E5%B8%83%E4%B8%BA548%E5%90%8D%E6%AD%BB%E5%88%91%E7%8A%AF%E5%87%8F%E5%88%91",
+        "published_at": "2026-11-05T23:17:51+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭银行倒闭引发政治危机，总统培尼亚宣布辞职",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%93%B6%E8%A1%8C%E5%80%92%E9%97%AD%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA%EF%BC%8C%E6%80%BB%E7%BB%9F%E5%9F%B9%E5%B0%BC%E4%BA%9A%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
+        "published_at": "2026-11-05T23:09:30+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "美国对古巴实施新一轮制裁，制裁名单新增两家中国电子公司",
         "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%AE%9E%E6%96%BD%E6%96%B0%E4%B8%80%E8%BD%AE%E5%88%B6%E8%A3%81%EF%BC%8C%E5%88%B6%E8%A3%81%E5%90%8D%E5%8D%95%E6%96%B0%E5%A2%9E%E4%B8%A4%E5%AE%B6%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E5%85%AC%E5%8F%B8",
@@ -79,14 +106,167 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "卢比欧否认辞职传闻 拒谈是否2028选总统",
+        "link": "https://www.cna.com.tw/news/aopl/202611060055.aspx",
+        "published_at": "2026-11-06T02:20:16+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美民主党横扫国会 刘云平将接党团主席创亚裔纪录",
+        "link": "https://www.cna.com.tw/news/aopl/202611060048.aspx",
+        "published_at": "2026-11-06T02:00:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "国力与地方经济两难 美期中选举选多州见反AI趋向",
+        "link": "https://www.cna.com.tw/news/aopl/202611060044.aspx",
+        "published_at": "2026-11-06T01:44:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "教廷高层与中国主教罕见公开对话 各自读稿表述立场",
+        "link": "https://www.cna.com.tw/news/aopl/202611060042.aspx",
+        "published_at": "2026-11-06T01:31:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭总统请辞 银行倒闭引爆政治危机始末一次看",
+        "link": "https://www.cna.com.tw/news/aopl/202611060040.aspx",
+        "published_at": "2026-11-06T01:25:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "梅兰妮亚邀俄乌官员聚白宫 吁人道优先于战争",
+        "link": "https://www.cna.com.tw/news/aopl/202611060035.aspx",
+        "published_at": "2026-11-06T01:11:32+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "洛杉矶变天现任市长巴斯连任失利 行政效率成攻击焦点",
+        "link": "https://www.cna.com.tw/news/aopl/202611060032.aspx",
+        "published_at": "2026-11-06T00:57:26+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "Google续投AI基建 砸170亿美元怀俄明建资料中心",
+        "link": "https://www.cna.com.tw/news/aopl/202611060031.aspx",
+        "published_at": "2026-11-06T00:51:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "AI交易遭遇逆风 那指创「解放日」以来最大单日跌幅",
+        "link": "https://www.cna.com.tw/news/aopl/202611060027.aspx",
+        "published_at": "2026-11-06T00:39:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美媒指与中国情报人员关系密切 议员要求黄仁勋向国会简报",
+        "link": "https://www.cna.com.tw/news/aopl/202611060026.aspx",
+        "published_at": "2026-11-06T00:33:13+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法银行遭网攻失窃1亿欧元 主流机构遇骇欧洲首见",
+        "link": "https://www.cna.com.tw/news/aopl/202611060025.aspx",
+        "published_at": "2026-11-06T00:26:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "分析：民主党重掌国会 可能施压川普解冻对台军售",
+        "link": "https://www.cna.com.tw/news/aopl/202611060021.aspx",
+        "published_at": "2026-11-05T23:42:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国60万人示威要加薪 怒指黄背心运动8年后生活没变好",
+        "link": "https://www.cna.com.tw/news/aopl/202611060019.aspx",
+        "published_at": "2026-11-05T23:08:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普称俄乌战争将很快结束 协议可能涉及整个欧洲",
+        "link": "https://www.cna.com.tw/news/aopl/202611060018.aspx",
+        "published_at": "2026-11-05T23:07:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄之锋续遭判刑10年 英美谴责香港国安法打压民主",
+        "link": "https://www.cna.com.tw/news/aopl/202611060017.aspx",
+        "published_at": "2026-11-05T22:55:51+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "辉达成窃贼目标 逾3.7亿元硬体与货车在南加州离奇消失",
+        "link": "https://www.cna.com.tw/news/aopl/202611060015.aspx",
+        "published_at": "2026-11-05T22:38:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "印度裔活跃美国政坛 连夺美前两大城市长大位",
+        "link": "https://www.cna.com.tw/news/aopl/202611060014.aspx",
+        "published_at": "2026-11-05T21:58:42+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "洛杉矶市长巴斯连任失利 拉曼将成美国第2大城首长",
         "link": "https://www.cna.com.tw/news/aopl/202611060012.aspx",
@@ -113,50 +293,86 @@
         "via": "中央社",
         "category": "全球",
         "cached": false
-      },
-      {
-        "title": "假炸弹威胁再袭欧洲多地 至少27架航班受干扰",
-        "link": "https://www.cna.com.tw/news/aopl/202611060008.aspx",
-        "published_at": "2026-11-05T19:25:27+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "巴拉圭总统潘尼亚卷银行风暴请辞 副总统阿里亚纳接任",
-        "link": "https://www.cna.com.tw/news/aopl/202611060007.aspx",
-        "published_at": "2026-11-05T18:55:24+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "避开美国出口管制 中国AI新创月之暗面转向欧洲租辉达晶片算力",
-        "link": "https://www.cna.com.tw/news/aopl/202611060006.aspx",
-        "published_at": "2026-11-05T18:05:21+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "科技",
-        "cached": false
-      },
-      {
-        "title": "金融风暴波及300万人 巴拉圭总统潘尼亚宣布辞职",
-        "link": "https://www.cna.com.tw/news/aopl/202611060004.aspx",
-        "published_at": "2026-11-05T17:13:16+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
       }
     ],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   },
   "中央社财经": {
     "items": [
       {
-        "title": "美期中选举引发AI投资疑虑 美股收盘重挫",
+        "title": "台积电跌停 台股早盘崩跌3737点创盘中最大跌点失守年线",
+        "link": "https://www.cna.com.tw/news/afe/202611060037.aspx",
+        "published_at": "2026-11-06T01:13:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "新台币开盘贬4.4分 早盘重贬逾1.6角见33元",
+        "link": "https://www.cna.com.tw/news/afe/202611060036.aspx",
+        "published_at": "2026-11-06T01:12:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股开盘跌2658.96点",
+        "link": "https://www.cna.com.tw/news/afe/202611060034.aspx",
+        "published_at": "2026-11-06T01:05:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "日股日经指数重挫逾5% 美股科技股暴跌引发市场震荡",
+        "link": "https://www.cna.com.tw/news/afe/202611060033.aspx",
+        "published_at": "2026-11-06T01:00:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "Google续投AI基建 砸170亿美元怀俄明建资料中心",
+        "link": "https://www.cna.com.tw/news/aopl/202611060031.aspx",
+        "published_at": "2026-11-06T00:51:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "AI交易遭遇逆风 那指创「解放日」以来最大单日跌幅",
+        "link": "https://www.cna.com.tw/news/aopl/202611060027.aspx",
+        "published_at": "2026-11-06T00:39:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美股挫台指期夜盘大跌2946点 法人：台股回测4万点支撑",
+        "link": "https://www.cna.com.tw/news/afe/202611060024.aspx",
+        "published_at": "2026-11-06T00:24:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美多州资料中心恐生变 华尔街抛售AI股、那斯达克进入修正",
+        "link": "https://www.cna.com.tw/news/afe/202611060016.aspx",
+        "published_at": "2026-11-05T22:50:47+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美期中选举引发AI投资疑虑 美股重挫费半下跌12.25%",
         "link": "https://www.cna.com.tw/news/afe/202611060013.aspx",
         "published_at": "2026-11-05T21:23:39+00:00",
         "source": "中央社",
@@ -183,22 +399,32 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-05T22:53:38.538382+00:00"
+    "items": [
+      {
+        "title": "从蔡康永、《VIVANT》到姆巴佩：北京为何区别处理“辱华”事件？",
+        "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/simp",
+        "published_at": "2026-11-05T16:00:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-06T02:59:31.942207+00:00"
   }
 }
