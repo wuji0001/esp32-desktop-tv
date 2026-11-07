@@ -1,674 +1,94 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-11-07T15:14:57.066283+00:00"
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   },
   "RFI中文": {
     "items": [
       {
-        "title": "黄仁勋之女黄敏珊“因家庭原因”突然取消访韩行程",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B9%8B%E5%A5%B3%E9%BB%84%E6%95%8F%E7%8F%8A-%E5%9B%A0%E5%AE%B6%E5%BA%AD%E5%8E%9F%E5%9B%A0-%E7%AA%81%E7%84%B6%E5%8F%96%E6%B6%88%E8%AE%BF%E9%9F%A9%E8%A1%8C%E7%A8%8B",
-        "published_at": "2026-11-07T14:29:29+00:00",
+        "title": "埃博拉:英国医生刚果(金)确诊",
+        "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8D%9A%E6%8B%89-%E8%8B%B1%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%88%9A%E6%9E%9C-%E9%87%91-%E7%A1%AE%E8%AF%8A",
+        "published_at": "2026-11-07T19:07:52+00:00",
         "source": "RFI",
         "via": "RFI",
-        "category": "全球",
+        "category": "医疗",
         "cached": false
       },
       {
-        "title": "联合国人权办对港澳重刑判罚表担忧 外交部驻澳门公署：坚决反对",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8A%9E%E5%AF%B9%E6%B8%AF%E6%BE%B3%E9%87%8D%E5%88%91%E5%88%A4%E7%BD%9A%E8%A1%A8%E6%8B%85%E5%BF%A7-%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%BB%E6%BE%B3%E9%97%A8%E5%85%AC%E7%BD%B2-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
-        "published_at": "2026-11-07T13:40:14+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "在华因间谍罪获刑的安斯泰来日籍员工12月将刑满出狱 预计立即遣返",
-        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E5%9C%A8%E5%8D%8E%E5%9B%A0%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%8E%B7%E5%88%91%E7%9A%84%E5%AE%89%E6%96%AF%E6%B3%B0%E6%9D%A5%E6%97%A5%E7%B1%8D%E5%91%98%E5%B7%A512%E6%9C%88%E5%B0%86%E5%88%91%E6%BB%A1%E5%87%BA%E7%8B%B1-%E9%A2%84%E8%AE%A1%E5%B0%86%E7%AB%8B%E5%8D%B3%E9%81%A3%E8%BF%94%E5%9B%9E",
-        "published_at": "2026-11-07T12:09:43+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "软银和ABB考虑剥离交易中国部分以挽救机器人协议",
-        "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261107-%E8%BD%AF%E9%93%B6%E5%92%8Cabb%E8%80%83%E8%99%91%E5%89%A5%E7%A6%BB%E4%BA%A4%E6%98%93%E4%B8%AD%E5%9B%BD%E9%83%A8%E5%88%86%E4%BB%A5%E6%8C%BD%E6%95%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8F%E8%AE%AE",
-        "published_at": "2026-11-07T10:15:18+00:00",
+        "title": "纽时揭中国两家芯片商获美批准处理英伟达芯片“形同空壳”",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E7%BA%BD%E6%97%B6%E6%8F%AD%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%AE%B6%E8%8A%AF%E7%89%87%E5%95%86%E8%8E%B7%E7%BE%8E%E6%89%B9%E5%87%86%E5%A4%84%E7%90%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%BD%A2%E5%90%8C%E7%A9%BA%E5%A3%B3",
+        "published_at": "2026-11-07T17:49:57+00:00",
         "source": "RFI",
         "via": "RFI",
         "category": "科技",
         "cached": false
       },
       {
-        "title": "台湾关闭驻巴新代表处 并指责中国打压",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E5%8F%B0%E6%B9%BE%E5%85%B3%E9%97%AD%E9%A9%BB%E5%B7%B4%E6%96%B0%E4%BB%A3%E8%A1%A8%E5%A4%84-%E5%B9%B6%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E6%89%93%E5%8E%8B",
-        "published_at": "2026-11-07T09:27:38+00:00",
+        "title": "波兰第二大城克拉科夫发生枪击案 至少6死10伤",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%A2%E5%85%B0%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%9F%8E%E5%85%8B%E6%8B%89%E7%A7%91%E5%A4%AB%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88-%E8%87%B3%E5%B0%916%E6%AD%BB10%E4%BC%A4",
+        "published_at": "2026-11-07T17:32:08+00:00",
         "source": "RFI",
         "via": "RFI",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美情报备忘录指与黄仁勋有过恋爱关系的中国女商人是国安部间谍",
-        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E7%BE%8E%E6%83%85%E6%8A%A5%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%87%E4%B8%8E%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9C%89%E8%BF%87%E6%81%8B%E7%88%B1%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%95%86%E4%BA%BA%E6%98%AF%E5%9B%BD%E5%AE%89%E9%83%A8%E9%97%B4%E8%B0%8D",
-        "published_at": "2026-11-07T08:55:39+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "中国强势对应高市“台湾有事”发言一周年 APEC日中首脑难以举行会谈",
-        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E4%B8%AD%E5%9B%BD%E5%BC%BA%E5%8A%BF%E5%AF%B9%E5%BA%94%E9%AB%98%E5%B8%82-%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B-%E5%8F%91%E8%A8%80%E4%B8%80%E5%91%A8%E5%B9%B4-apec%E6%97%A5%E4%B8%AD%E9%A6%96%E8%84%91%E9%9A%BE%E4%BB%A5%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
-        "published_at": "2026-11-07T08:23:31+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "中国首次邀请外籍航天员进入空间站：巴基斯坦宇航员将搭乘神舟二十四号飞船执行任务",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E9%82%80%E8%AF%B7%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%9B%E5%85%A5%E7%A9%BA%E9%97%B4%E7%AB%99-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AE%87%E8%88%AA%E5%91%98%E5%B0%86%E6%90%AD%E4%B9%98%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E9%A3%9E%E8%88%B9%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1",
-        "published_at": "2026-11-07T05:12:06+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "科技",
-        "cached": false
-      },
-      {
-        "title": "中国解放军四少将被终止全国人大代表资格",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261106-%E4%B8%AD%E5%9B%BD%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%9B%E5%B0%91%E5%B0%86%E8%A2%AB%E7%BB%88%E6%AD%A2%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC",
-        "published_at": "2026-11-06T22:21:34+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "教宗良十四世开启12天南美访问",
-        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261106-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%BC%80%E5%90%AF12%E5%A4%A9%E5%8D%97%E7%BE%8E%E8%AE%BF%E9%97%AE",
-        "published_at": "2026-11-06T21:14:14+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "对巴拉圭佩尼亚总统弹劾审判开始",
-        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261106-%E5%AF%B9%E5%B7%B4%E6%8B%89%E5%9C%AD%E4%BD%A9%E5%B0%BC%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%BC%B9%E5%8A%BE%E5%AE%A1%E5%88%A4%E5%BC%80%E5%A7%8B",
-        "published_at": "2026-11-06T21:09:55+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "法新社谴责警方暴力对待其记者",
-        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261106-%E6%B3%95%E6%96%B0%E7%A4%BE%E8%B0%B4%E8%B4%A3%E8%AD%A6%E6%96%B9%E6%9A%B4%E5%8A%9B%E5%AF%B9%E5%BE%85%E5%85%B6%E8%AE%B0%E8%80%85",
-        "published_at": "2026-11-06T21:08:07+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "特朗普兴建凯旋门计划受阻 白宫表示乐观",
-        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261106-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B4%E5%BB%BA%E5%87%AF%E6%97%8B%E9%97%A8%E8%AE%A1%E5%88%92%E5%8F%97%E9%98%BB-%E7%99%BD%E5%AE%AB%E8%A1%A8%E7%A4%BA%E4%B9%90%E8%A7%82",
-        "published_at": "2026-11-06T21:06:02+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美中期选举：密西西比州还未有明确结果",
-        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261106-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E5%AF%86%E8%A5%BF%E8%A5%BF%E6%AF%94%E5%B7%9E%E8%BF%98%E6%9C%AA%E6%9C%89%E6%98%8E%E7%A1%AE%E7%BB%93%E6%9E%9C",
-        "published_at": "2026-11-06T21:00:12+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "皇马与中国之间的紧张关系能否缓和？",
-        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261106-%E7%9A%87%E9%A9%AC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%B9%8B%E9%97%B4%E7%9A%84%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%E8%83%BD%E5%90%A6%E7%BC%93%E5%92%8C",
-        "published_at": "2026-11-06T20:56:30+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "欧盟对澳门前民主派议员定罪表示“遗憾”",
-        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261106-%E6%AC%A7%E7%9B%9F%E5%AF%B9%E6%BE%B3%E9%97%A8%E5%89%8D%E6%B0%91%E4%B8%BB%E6%B4%BE%E8%AE%AE%E5%91%98%E5%AE%9A%E7%BD%AA%E8%A1%A8%E7%A4%BA-%E9%81%97%E6%86%BE",
-        "published_at": "2026-11-06T20:54:22+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "华盛顿呼吁北京当局尊重双方贸易协定条款",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261106-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%91%BC%E5%90%81%E5%8C%97%E4%BA%AC%E5%BD%93%E5%B1%80%E5%B0%8A%E9%87%8D%E5%8F%8C%E6%96%B9%E8%B4%B8%E6%98%93%E5%8D%8F%E5%AE%9A%E6%9D%A1%E6%AC%BE",
-        "published_at": "2026-11-06T20:52:36+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "印度首都新政：为50万个贫民窟家庭提供永久住房的计划",
-        "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261106-%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%96%B0%E6%94%BF-%E4%B8%BA50%E4%B8%87%E4%B8%AA%E8%B4%AB%E6%B0%91%E7%AA%9F%E5%AE%B6%E5%BA%AD%E6%8F%90%E4%BE%9B%E6%B0%B8%E4%B9%85%E4%BD%8F%E6%88%BF%E7%9A%84%E8%AE%A1%E5%88%92",
-        "published_at": "2026-11-06T20:30:20+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "法国一辆校车开至马路对面 两名学生死亡 3人重伤",
-        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261106-%E6%B3%95%E5%9B%BD%E4%B8%80%E8%BE%86%E6%A0%A1%E8%BD%A6%E5%BC%80%E8%87%B3%E9%A9%AC%E8%B7%AF%E5%AF%B9%E9%9D%A2-%E4%B8%A4%E5%90%8D%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1-3%E4%BA%BA%E9%87%8D%E4%BC%A4",
-        "published_at": "2026-11-06T18:17:16+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美媒：民主党人讨论众议院中国特设委员会的未来",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261106-%E7%BE%8E%E5%AA%92-%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E8%AE%A8%E8%AE%BA%E4%BC%97%E8%AE%AE%E9%99%A2%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%AE%BE%E5%A7%94%E5%91%98%E4%BC%9A%E7%9A%84%E6%9C%AA%E6%9D%A5",
-        "published_at": "2026-11-06T18:08:12+00:00",
-        "source": "RFI",
-        "via": "RFI",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "欧盟对特定PET树脂化学品启动保障措施调查",
-        "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261106-%E6%AC%A7%E7%9B%9F%E5%AF%B9%E7%89%B9%E5%AE%9Apet%E6%A0%91%E8%84%82%E5%8C%96%E5%AD%A6%E5%93%81%E5%90%AF%E5%8A%A8%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD%E8%B0%83%E6%9F%A5",
-        "published_at": "2026-11-06T16:31:25+00:00",
+        "title": "法国检方调查针对航班的虚假炸弹威胁与外国势力潜在关联",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%95%E5%9B%BD%E6%A3%80%E6%96%B9%E8%B0%83%E6%9F%A5%E9%92%88%E5%AF%B9%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9A%84%E8%99%9A%E5%81%87%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B%E5%85%B3%E8%81%94",
+        "published_at": "2026-11-07T16:55:36+00:00",
         "source": "RFI",
         "via": "RFI",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-11-07T15:14:57.066283+00:00"
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   },
   "DW中文": {
-    "items": [
-      {
-        "title": "俄军导弹再袭基辅 乌总统和市长打嘴仗",
-        "link": "https://www.dw.com/zh/俄军导弹再袭基辅-乌总统和市长打嘴仗/a-79885814?maca=chi-rss-chi-all-1127-rdf",
-        "published_at": "2026-11-07T14:56:00+00:00",
-        "source": "DW",
-        "via": "DW",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长",
-        "link": "https://www.dw.com/zh/中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长/a-79884880?maca=chi-rss-chi-all-1127-rdf",
-        "published_at": "2026-11-07T12:37:00+00:00",
-        "source": "DW",
-        "via": "DW",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "反AI浪潮让黄仁勋祸不单行？股票暴跌 被国会传唤",
-        "link": "https://www.dw.com/zh/反ai浪潮让黄仁勋祸不单行？股票暴跌-被国会传唤/a-79884461?maca=chi-rss-chi-all-1127-rdf",
-        "published_at": "2026-11-07T12:07:00+00:00",
-        "source": "DW",
-        "via": "DW",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "深圳APEC前夕 美国催中国兑现稀土承诺",
-        "link": "https://www.dw.com/zh/深圳apec前夕-美国催中国兑现稀土承诺/a-79884476?maca=chi-rss-chi-all-1127-rdf",
-        "published_at": "2026-11-07T11:18:00+00:00",
-        "source": "DW",
-        "via": "DW",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "长平观察：西方背弃黄之锋，也在背弃自己",
-        "link": "https://www.dw.com/zh/长平观察：西方背弃黄之锋，也在背弃自己/a-79883719?maca=chi-rss-chi-all-1127-rdf",
-        "published_at": "2026-11-07T09:06:00+00:00",
-        "source": "DW",
-        "via": "DW",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "“天宫”将迎来首位外籍宇航员",
-        "link": "https://www.dw.com/zh/天宫-将迎来首位外籍宇航员/a-79883779?maca=chi-rss-chi-all-1127-rdf",
-        "published_at": "2026-11-07T09:06:00+00:00",
-        "source": "DW",
-        "via": "DW",
-        "category": "全球",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-11-07T15:14:57.066283+00:00"
+    "items": [],
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "路透：美军筹组特遣部队 限制伊朗陆路与里海运输",
-        "link": "https://www.cna.com.tw/news/aopl/202611070210.aspx",
-        "published_at": "2026-11-07T14:26:29+00:00",
+        "title": "日本中部规模5.7地震无海啸威胁 爱知县疑两人受伤",
+        "link": "https://www.cna.com.tw/news/aopl/202611080003.aspx",
+        "published_at": "2026-11-07T17:46:52+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "肯亚邪教教主下令绝食饿死190名孩童 遭判200年徒刑",
-        "link": "https://www.cna.com.tw/news/aopl/202611070202.aspx",
-        "published_at": "2026-11-07T13:29:09+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "纽西兰大选初步开票结果 国家党、工党得票率难分轩轾",
-        "link": "https://www.cna.com.tw/news/aopl/202611070201.aspx",
-        "published_at": "2026-11-07T13:23:07+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "日药厂员工被控间谍罪遭判3年半 12月中旬出狱后料被遣返",
-        "link": "https://www.cna.com.tw/news/aopl/202611070195.aspx",
-        "published_at": "2026-11-07T13:03:54+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "捷克波希米亚天堂宝石争议未解 UNESCO撤地质公园认证",
-        "link": "https://www.cna.com.tw/news/aopl/202611070187.aspx",
-        "published_at": "2026-11-07T12:33:36+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "碳化矽晶圆中国低价抢市 安森美取消655亿捷克扩厂",
-        "link": "https://www.cna.com.tw/news/aopl/202611070185.aspx",
-        "published_at": "2026-11-07T12:09:31+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "日男癌症得知余命当天捡到巨款 挥霍近372万元遭判6个月",
-        "link": "https://www.cna.com.tw/news/aopl/202611070184.aspx",
-        "published_at": "2026-11-07T11:46:29+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "医疗",
-        "cached": false
-      },
-      {
-        "title": "德国有望迎首位女总统 巴伐利亚邦议长传获总理支持",
-        "link": "https://www.cna.com.tw/news/aopl/202611070175.aspx",
-        "published_at": "2026-11-07T11:33:09+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "曾录制饶舌专辑向川普致敬 共和党候选人当选联邦众议员",
-        "link": "https://www.cna.com.tw/news/aopl/202611070174.aspx",
-        "published_at": "2026-11-07T11:32:07+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "新加坡屠妖节寓意光明胜黑暗 小印度人潮展多元文化",
-        "link": "https://www.cna.com.tw/news/aopl/202611070173.aspx",
-        "published_at": "2026-11-07T11:25:05+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "叶门叛军：沙乌地空袭民宅酿11死 救护人员也遭攻击",
-        "link": "https://www.cna.com.tw/news/aopl/202611070164.aspx",
-        "published_at": "2026-11-07T10:38:47+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "德国逾40万劳工上街头 争取加薪及改善劳动条件",
-        "link": "https://www.cna.com.tw/news/aopl/202611070161.aspx",
-        "published_at": "2026-11-07T10:23:40+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "iPhone键盘自动完成功能设限制词 苹果灰名单曝光",
-        "link": "https://www.cna.com.tw/news/aopl/202611070157.aspx",
-        "published_at": "2026-11-07T10:03:31+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "白宫幕僚长威尔斯去职 英媒：川普因选举惨败怒斥她",
-        "link": "https://www.cna.com.tw/news/aopl/202611070156.aspx",
-        "published_at": "2026-11-07T10:00:29+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "法国工会学生再游行 黄背心运动号召民众集体抗命",
-        "link": "https://www.cna.com.tw/news/aopl/202611070154.aspx",
-        "published_at": "2026-11-07T09:51:22+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "台湾男子曼谷百货坠楼不治 驻处掌握身分协助家属",
-        "link": "https://www.cna.com.tw/news/aopl/202611070130.aspx",
-        "published_at": "2026-11-07T08:55:29+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "俄军夜袭基辅周边能源设施 毁损重要桥梁酿1死8伤",
-        "link": "https://www.cna.com.tw/news/aopl/202611070129.aspx",
-        "published_at": "2026-11-07T08:53:27+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "泰国知名百货传坠楼命案 40岁台男跌落重伤不治",
-        "link": "https://www.cna.com.tw/news/aopl/202611070128.aspx",
-        "published_at": "2026-11-07T08:41:24+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "英媒揭露美备忘录 指黄仁勋曾与遭控中国间谍女主管交往",
-        "link": "https://www.cna.com.tw/news/aopl/202611070119.aspx",
-        "published_at": "2026-11-07T08:17:05+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "俄临时管理日本烟草子公司资产 日媒：或为施压日本放宽制裁",
-        "link": "https://www.cna.com.tw/news/aopl/202611070118.aspx",
-        "published_at": "2026-11-07T08:15:02+00:00",
+        "title": "波兰枪击案酿6死15伤 男嫌遭警方开枪击中后送医",
+        "link": "https://www.cna.com.tw/news/aopl/202611080002.aspx",
+        "published_at": "2026-11-07T17:33:49+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-11-07T15:14:57.066283+00:00"
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   },
   "中央社财经": {
-    "items": [
-      {
-        "title": "今彩539第115270期 头奖5注中奖",
-        "link": "https://www.cna.com.tw/news/ahel/202611070206.aspx",
-        "published_at": "2026-11-07T14:03:20+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "义大利台湾青商会邀企业家座谈 促台义AI与经贸合作",
-        "link": "https://www.cna.com.tw/news/afe/202611070190.aspx",
-        "published_at": "2026-11-07T12:45:43+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "今彩539第115270期开奖",
-        "link": "https://www.cna.com.tw/news/ahel/202611070189.aspx",
-        "published_at": "2026-11-07T12:42:40+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "碳化矽晶圆中国低价抢市 安森美取消655亿捷克扩厂",
-        "link": "https://www.cna.com.tw/news/aopl/202611070185.aspx",
-        "published_at": "2026-11-07T12:09:31+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "中加财经对话将重启 北京宣布首次在加拿大发行人民币主权债券",
-        "link": "https://www.cna.com.tw/news/acn/202611070166.aspx",
-        "published_at": "2026-11-07T10:48:51+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "国家档案馆开馆周年参观破74万人次 档案月热闹登场",
-        "link": "https://www.cna.com.tw/news/afe/202611070125.aspx",
-        "published_at": "2026-11-07T08:34:18+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "传台积电布局3D DRAM 专家：应会以共同开发或验证为主",
-        "link": "https://www.cna.com.tw/news/afe/202611070109.aspx",
-        "published_at": "2026-11-07T07:49:43+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "华邦电今年业绩佳 员工奖金平均30个月",
-        "link": "https://www.cna.com.tw/news/afe/202611070096.aspx",
-        "published_at": "2026-11-07T07:23:15+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "美资料中心建置添变数 台股伺服器供应链耐震度受考验",
-        "link": "https://www.cna.com.tw/news/afe/202611070062.aspx",
-        "published_at": "2026-11-07T04:03:57+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "新台币逆势强弹现止贬曙光？专家：反转仍有长路",
-        "link": "https://www.cna.com.tw/news/afe/202611070039.aspx",
-        "published_at": "2026-11-07T02:43:07+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "外资资产达外汇存底近3倍 台股震荡掀资金潮考验央行稳汇",
-        "link": "https://www.cna.com.tw/news/afe/202611070037.aspx",
-        "published_at": "2026-11-07T02:32:03+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "辉达RTX Spark掀话题 分析师：普及仍需时间",
-        "link": "https://www.cna.com.tw/news/afe/202611070023.aspx",
-        "published_at": "2026-11-07T00:51:31+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "一台20万抢破头 辉达RTX Spark打破PC传统界线",
-        "link": "https://www.cna.com.tw/news/afe/202611070021.aspx",
-        "published_at": "2026-11-07T00:42:26+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "捷克央行升息1码至4% 防范通膨升温、经济成长放缓",
-        "link": "https://www.cna.com.tw/news/aopl/202611070016.aspx",
-        "published_at": "2026-11-07T00:17:15+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "巴拉圭银行倒闭风暴延烧 巴西媒体关注",
-        "link": "https://www.cna.com.tw/news/aopl/202611070014.aspx",
-        "published_at": "2026-11-06T23:55:10+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "美就业数据优于预期 华尔街科技股回弹",
-        "link": "https://www.cna.com.tw/news/afe/202611070009.aspx",
-        "published_at": "2026-11-06T22:22:56+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "市场衡量中东局势 油价震荡小涨",
-        "link": "https://www.cna.com.tw/news/afe/202611070008.aspx",
-        "published_at": "2026-11-06T21:29:53+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "传微软逐步终止租用甲骨文AI算力 重新评估云端合作",
-        "link": "https://www.cna.com.tw/news/ait/202611070005.aspx",
-        "published_at": "2026-11-06T20:25:45+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "科技股反弹仍难挽跌势 欧股三大指数收黑",
-        "link": "https://www.cna.com.tw/news/afe/202611070004.aspx",
-        "published_at": "2026-11-06T18:27:41+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "传台积电进军3D DRAM 应辉达要求规划制造、评估建厂",
-        "link": "https://www.cna.com.tw/news/ait/202611070002.aspx",
-        "published_at": "2026-11-06T17:22:36+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-11-07T15:14:57.066283+00:00"
+    "items": [],
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   },
   "中央社科技": {
-    "items": [
-      {
-        "title": "传微软逐步终止租用甲骨文AI算力 重新评估云端合作",
-        "link": "https://www.cna.com.tw/news/ait/202611070005.aspx",
-        "published_at": "2026-11-06T20:25:45+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "科技",
-        "cached": false
-      },
-      {
-        "title": "传台积电进军3D DRAM 应辉达要求规划制造、评估建厂",
-        "link": "https://www.cna.com.tw/news/ait/202611070002.aspx",
-        "published_at": "2026-11-06T17:22:36+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "科技",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-11-07T15:14:57.066283+00:00"
+    "items": [],
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   },
   "中央社健康": {
-    "items": [
-      {
-        "title": "卓荣泰：健保预算破兆元 具体落实健康台湾",
-        "link": "https://www.cna.com.tw/news/ahel/202611070104.aspx",
-        "published_at": "2026-11-07T07:38:32+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "医疗",
-        "cached": false
-      }
-    ],
-    "last_success": "2026-11-07T15:14:57.066283+00:00"
+    "items": [],
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-07T15:14:57.066283+00:00"
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-07T08:47:54.525547+00:00"
+    "last_success": "2026-11-07T19:28:02.012825+00:00"
   }
 }
