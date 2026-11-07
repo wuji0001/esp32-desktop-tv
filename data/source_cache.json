@@ -1,10 +1,109 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "非洲:塞内加尔一起集体卫生事件",
+        "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E4%B8%80%E8%B5%B7%E9%9B%86%E4%BD%93%E5%8D%AB%E7%94%9F%E4%BA%8B%E4%BB%B6",
+        "published_at": "2026-11-07T21:22:59+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美中期选举后乌克兰强调争取美国两党的支持",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BC%BA%E8%B0%83%E4%BA%89%E5%8F%96%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E7%9A%84%E6%94%AF%E6%8C%81",
+        "published_at": "2026-11-07T21:22:22+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "以总统选择艾森科特组建新政府",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261107-%E4%BB%A5%E6%80%BB%E7%BB%9F%E9%80%89%E6%8B%A9%E8%89%BE%E6%A3%AE%E7%A7%91%E7%89%B9%E7%BB%84%E5%BB%BA%E6%96%B0%E6%94%BF%E5%BA%9C",
+        "published_at": "2026-11-07T21:05:14+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法新社：叙利亚派兵助沙特打击也门叛军",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261107-%E6%B3%95%E6%96%B0%E7%A4%BE-%E5%8F%99%E5%88%A9%E4%BA%9A%E6%B4%BE%E5%85%B5%E5%8A%A9%E6%B2%99%E7%89%B9%E6%89%93%E5%87%BB%E4%B9%9F%E9%97%A8%E5%8F%9B%E5%86%9B",
+        "published_at": "2026-11-07T21:03:01+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "智利导演莱里奥 （Sebastián Lelio）离世",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261107-%E6%99%BA%E5%8A%9B%E5%AF%BC%E6%BC%94%E8%8E%B1%E9%87%8C%E5%A5%A5-sebasti%C3%A1n-lelio-%E7%A6%BB%E4%B8%96",
+        "published_at": "2026-11-07T20:58:45+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国政府发言人暂换新面孔",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261107-%E6%B3%95%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%8F%91%E8%A8%80%E4%BA%BA%E6%9A%82%E6%8D%A2%E6%96%B0%E9%9D%A2%E5%AD%94",
+        "published_at": "2026-11-07T20:55:32+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "印一架重型战略运输机创全球最高海拔降落纪录",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E5%8D%B0%E4%B8%80%E6%9E%B6%E9%87%8D%E5%9E%8B%E6%88%98%E7%95%A5%E8%BF%90%E8%BE%93%E6%9C%BA%E5%88%9B%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98%E6%B5%B7%E6%8B%94%E9%99%8D%E8%90%BD%E7%BA%AA%E5%BD%95",
+        "published_at": "2026-11-07T20:51:28+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中国进军欧洲摩托车市场",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%86%9B%E6%AC%A7%E6%B4%B2%E6%91%A9%E6%89%98%E8%BD%A6%E5%B8%82%E5%9C%BA",
+        "published_at": "2026-11-07T20:46:50+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧盟五国推动与英国达成电力协议",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%AC%A7%E7%9B%9F%E4%BA%94%E5%9B%BD%E6%8E%A8%E5%8A%A8%E4%B8%8E%E8%8B%B1%E5%9B%BD%E8%BE%BE%E6%88%90%E7%94%B5%E5%8A%9B%E5%8D%8F%E8%AE%AE",
+        "published_at": "2026-11-07T20:44:24+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "拖家带口 去中国实现“美国梦”",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3-%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0-%E7%BE%8E%E5%9B%BD%E6%A2%A6",
+        "published_at": "2026-11-07T20:41:29+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普公开邀请UFC总裁出任白宫新闻发言人",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261107-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%82%80%E8%AF%B7ufc%E6%80%BB%E8%A3%81%E5%87%BA%E4%BB%BB%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA",
+        "published_at": "2026-11-07T20:35:07+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "埃博拉:英国医生刚果(金)确诊",
         "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8D%9A%E6%8B%89-%E8%8B%B1%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%88%9A%E6%9E%9C-%E9%87%91-%E7%A1%AE%E8%AF%8A",
@@ -42,14 +141,50 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "以色列总统授权反对派领袖筹组政府 总理尼坦雅胡面临下台压力",
+        "link": "https://www.cna.com.tw/news/aopl/202611080008.aspx",
+        "published_at": "2026-11-07T21:52:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "白宫新闻秘书仍悬缺 川普邀综合格斗赛UFC总裁出任",
+        "link": "https://www.cna.com.tw/news/aopl/202611080007.aspx",
+        "published_at": "2026-11-07T21:10:04+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭检方对前总统提出刑事指控 声请预防性羁押",
+        "link": "https://www.cna.com.tw/news/aopl/202611080005.aspx",
+        "published_at": "2026-11-07T20:09:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "币安财务长将离职 支付平台Airwallex高层接任",
+        "link": "https://www.cna.com.tw/news/aopl/202611080004.aspx",
+        "published_at": "2026-11-07T19:19:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "日本中部规模5.7地震无海啸威胁 爱知县疑两人受伤",
         "link": "https://www.cna.com.tw/news/aopl/202611080003.aspx",
@@ -69,26 +204,36 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   },
   "中央社财经": {
-    "items": [],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "items": [
+      {
+        "title": "币安财务长将离职 支付平台Airwallex高层接任",
+        "link": "https://www.cna.com.tw/news/aopl/202611080004.aspx",
+        "published_at": "2026-11-07T19:19:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-07T19:28:02.012825+00:00"
+    "last_success": "2026-11-07T22:56:47.336269+00:00"
   }
 }
