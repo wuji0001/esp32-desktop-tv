@@ -1,7 +1,7 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   },
   "RFI中文": {
     "items": [
@@ -123,14 +123,95 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "涉持儿少性虐待影像 梅根父亲马克尔佛州被捕",
+        "link": "https://www.cna.com.tw/news/aopl/202611070022.aspx",
+        "published_at": "2026-11-07T00:51:29+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "纽时：黄姓女主管为中国国安部间谍 任务是搜集黄仁勋情报",
+        "link": "https://www.cna.com.tw/news/aopl/202611070020.aspx",
+        "published_at": "2026-11-07T00:29:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "捷克央行升息1码至4% 防范通膨升温、经济成长放缓",
+        "link": "https://www.cna.com.tw/news/aopl/202611070016.aspx",
+        "published_at": "2026-11-07T00:17:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭总统潘尼亚遭弹劾后居家监禁 副总统接任就职",
+        "link": "https://www.cna.com.tw/news/aopl/202611070015.aspx",
+        "published_at": "2026-11-07T00:15:13+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭银行倒闭风暴延烧 巴西媒体关注",
+        "link": "https://www.cna.com.tw/news/aopl/202611070014.aspx",
+        "published_at": "2026-11-06T23:55:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国青年示威借用红猪与鲁夫 在日本动漫找抗争共鸣",
+        "link": "https://www.cna.com.tw/news/aopl/202611070013.aspx",
+        "published_at": "2026-11-06T23:21:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭总统潘尼亚卷银行风暴请辞 参议院弹劾通过免职",
+        "link": "https://www.cna.com.tw/news/aopl/202611070012.aspx",
+        "published_at": "2026-11-06T23:16:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川习月中APEC会晤 美中官员行前通电磋商",
+        "link": "https://www.cna.com.tw/news/aopl/202611070011.aspx",
+        "published_at": "2026-11-06T23:10:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "稀土成美中贸易角力焦点 美喊话中国「全面且立即」履约",
+        "link": "https://www.cna.com.tw/news/aopl/202611070010.aspx",
+        "published_at": "2026-11-06T22:35:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "共和党期中选举落败 米勒调任白宫幕僚长",
         "link": "https://www.cna.com.tw/news/aopl/202611070007.aspx",
@@ -141,10 +222,64 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "辉达RTX Spark掀话题 分析师：普及仍需时间",
+        "link": "https://www.cna.com.tw/news/afe/202611070023.aspx",
+        "published_at": "2026-11-07T00:51:31+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "一台20万抢破头 辉达RTX Spark打破PC传统界线",
+        "link": "https://www.cna.com.tw/news/afe/202611070021.aspx",
+        "published_at": "2026-11-07T00:42:26+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "捷克央行升息1码至4% 防范通膨升温、经济成长放缓",
+        "link": "https://www.cna.com.tw/news/aopl/202611070016.aspx",
+        "published_at": "2026-11-07T00:17:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭银行倒闭风暴延烧 巴西媒体关注",
+        "link": "https://www.cna.com.tw/news/aopl/202611070014.aspx",
+        "published_at": "2026-11-06T23:55:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美就业数据优于预期 华尔街科技股回弹",
+        "link": "https://www.cna.com.tw/news/afe/202611070009.aspx",
+        "published_at": "2026-11-06T22:22:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "市场衡量中东局势 油价震荡小涨",
+        "link": "https://www.cna.com.tw/news/afe/202611070008.aspx",
+        "published_at": "2026-11-06T21:29:53+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "传微软逐步终止租用甲骨文AI算力 重新评估云端合作",
         "link": "https://www.cna.com.tw/news/ait/202611070005.aspx",
@@ -173,7 +308,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   },
   "中央社科技": {
     "items": [
@@ -196,18 +331,18 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-06T22:24:40.451358+00:00"
+    "last_success": "2026-11-07T02:08:05.604422+00:00"
   }
 }
