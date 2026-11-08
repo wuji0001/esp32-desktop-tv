@@ -2,6 +2,33 @@
   "BBC中文": {
     "items": [
       {
+        "title": "销量急挫，Labubu热潮正在退烧吗？",
+        "link": "https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-08T07:35:18+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "波兰克拉科夫「极右翼」枪击案致六人死亡",
+        "link": "https://www.bbc.com/zhongwen/watch/c8p3gvxdygvzo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-08T06:43:11+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "波兰克拉科夫「极右翼」枪击案致六人死亡 我们所知多少",
+        "link": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-08T06:29:12+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "法国血库冷藏设备遭骇客攻击 幕后黑手众说纷纭",
         "link": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-08T00:08:14+00:00",
@@ -11,7 +38,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-08T02:04:26.015851+00:00"
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   },
   "RFI中文": {
     "items": [
@@ -151,118 +178,271 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-08T02:04:26.015851+00:00"
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-08T02:04:26.015851+00:00"
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "纽西兰大选执政联盟暂获微幅过半 组阁仍待最终计票",
-        "link": "https://www.cna.com.tw/news/aopl/202611080015.aspx",
-        "published_at": "2026-11-08T01:30:27+00:00",
+        "title": "叶门叛军控沙乌地空袭酿33死后 朝利雅德射弹遭拦截",
+        "link": "https://www.cna.com.tw/news/aopl/202611080110.aspx",
+        "published_at": "2026-11-08T07:35:57+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "德国青年示威反映未来焦虑 学者：悲观助长政治极化",
-        "link": "https://www.cna.com.tw/news/aopl/202611080014.aspx",
-        "published_at": "2026-11-08T00:41:25+00:00",
+        "title": "RSF：中国施压泰国媒体 恐促自我审查冲击新闻自由",
+        "link": "https://www.cna.com.tw/news/aopl/202611080102.aspx",
+        "published_at": "2026-11-08T06:58:40+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "英王查尔斯三世可能访中？王室幕僚：会审慎考虑",
-        "link": "https://www.cna.com.tw/news/aopl/202611080012.aspx",
-        "published_at": "2026-11-08T00:22:20+00:00",
+        "title": "连洗澡做饭都成难题 印尼巴淡岛居民抗议AI资料中心抢民生用水",
+        "link": "https://www.cna.com.tw/news/aopl/202611080100.aspx",
+        "published_at": "2026-11-08T06:52:35+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "少数民族传统与观光潮交织 北越百年同文市集的变与不变",
-        "link": "https://www.cna.com.tw/news/aopl/202611080010.aspx",
-        "published_at": "2026-11-07T23:32:15+00:00",
+        "title": "埃及最古老修道院见证三宗教交会 面临观光与保存挑战",
+        "link": "https://www.cna.com.tw/news/aopl/202611080097.aspx",
+        "published_at": "2026-11-08T06:41:29+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "波兰枪击案24岁嫌犯疑著迷极右思想 家中另发现3具遗体可能为近亲",
-        "link": "https://www.cna.com.tw/news/aopl/202611080009.aspx",
-        "published_at": "2026-11-07T22:44:10+00:00",
+        "title": "教宗访乌拉圭治安最差社区 痛批毒品暴力危害儿童",
+        "link": "https://www.cna.com.tw/news/aopl/202611080095.aspx",
+        "published_at": "2026-11-08T06:34:24+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "以色列总统授权反对派领袖筹组政府 总理尼坦雅胡面临下台压力",
-        "link": "https://www.cna.com.tw/news/aopl/202611080008.aspx",
-        "published_at": "2026-11-07T21:52:07+00:00",
+        "title": "伊朗称2艘油轮在荷莫兹海峡触雷起火 多地传爆炸声",
+        "link": "https://www.cna.com.tw/news/aopl/202611080094.aspx",
+        "published_at": "2026-11-08T06:34:22+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "白宫新闻秘书仍悬缺 川普邀综合格斗赛UFC总裁出任",
-        "link": "https://www.cna.com.tw/news/aopl/202611080007.aspx",
-        "published_at": "2026-11-07T21:10:04+00:00",
+        "title": "以色列最大在野阵营获组阁权 各种走向一次看",
+        "link": "https://www.cna.com.tw/news/aopl/202611080085.aspx",
+        "published_at": "2026-11-08T06:08:03+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "巴拉圭检方对前总统提出刑事指控 声请预防性羁押",
-        "link": "https://www.cna.com.tw/news/aopl/202611080005.aspx",
-        "published_at": "2026-11-07T20:09:58+00:00",
+        "title": "数千移民涌入小岛收容超载 西班牙耶罗岛宣布紧急状态",
+        "link": "https://www.cna.com.tw/news/aopl/202611080080.aspx",
+        "published_at": "2026-11-08T05:42:52+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "币安财务长将离职 支付平台Airwallex高层接任",
-        "link": "https://www.cna.com.tw/news/aopl/202611080004.aspx",
-        "published_at": "2026-11-07T19:19:55+00:00",
+        "title": "日本爱知规模5.7地震 气象厅：与南海海槽地震关联低",
+        "link": "https://www.cna.com.tw/news/aopl/202611080074.aspx",
+        "published_at": "2026-11-08T05:12:36+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "日本中部规模5.7地震无海啸威胁 爱知县疑两人受伤",
-        "link": "https://www.cna.com.tw/news/aopl/202611080003.aspx",
-        "published_at": "2026-11-07T17:46:52+00:00",
+        "title": "日本中部规模5.7地震至少24伤 新干线一度停驶",
+        "link": "https://www.cna.com.tw/news/aopl/202611080071.aspx",
+        "published_at": "2026-11-08T05:05:30+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "波兰枪击案酿6死15伤 嫌遭警方开枪击中后送医",
-        "link": "https://www.cna.com.tw/news/aopl/202611080002.aspx",
-        "published_at": "2026-11-07T17:33:49+00:00",
+        "title": "华邮：民主党重掌国会 盟国不敢盼美国回归",
+        "link": "https://www.cna.com.tw/news/aopl/202611080069.aspx",
+        "published_at": "2026-11-08T04:58:25+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋长女因家庭因素取消访韩 多项合作行程喊卡",
+        "link": "https://www.cna.com.tw/news/aopl/202611080064.aspx",
+        "published_at": "2026-11-08T04:37:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "亚塞拜然头巾禁令引发争议 艾尔段访巴库缓和关系",
+        "link": "https://www.cna.com.tw/news/aopl/202611080060.aspx",
+        "published_at": "2026-11-08T04:20:06+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美期中选举年轻选民转向民主党 希望与不满交织",
+        "link": "https://www.cna.com.tw/news/aopl/202611080058.aspx",
+        "published_at": "2026-11-08T04:15:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "义大利外长称因挺乌遭亲俄骇客锁定 个资遭公布于暗网",
+        "link": "https://www.cna.com.tw/news/aopl/202611080055.aspx",
+        "published_at": "2026-11-08T04:07:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "加萨走廊豪雨成灾 数万顶帐篷泡在水中、灾民无处栖身",
+        "link": "https://www.cna.com.tw/news/aopl/202611080051.aspx",
+        "published_at": "2026-11-08T03:48:46+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "台湾面食、乳酪丝走向美国 加州消费者赞爽口无负担",
+        "link": "https://www.cna.com.tw/news/ahel/202611080048.aspx",
+        "published_at": "2026-11-08T03:33:39+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "分析：败选后换白宫幕僚长 川普恐走强硬对抗路线",
+        "link": "https://www.cna.com.tw/news/aopl/202611080027.aspx",
+        "published_at": "2026-11-08T02:40:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国调查欧洲航空公司炸弹威胁 不排除外国势力介入",
+        "link": "https://www.cna.com.tw/news/aopl/202611080025.aspx",
+        "published_at": "2026-11-08T02:24:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭前总统羁押候审 央行已支付1.6亿美元",
+        "link": "https://www.cna.com.tw/news/aopl/202611080022.aspx",
+        "published_at": "2026-11-08T02:15:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
         "cached": false
       }
     ],
-    "last_success": "2026-11-08T02:04:26.015851+00:00"
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "奇𬭎10月营收221亿元年增34% 连3个月创新高",
+        "link": "https://www.cna.com.tw/news/afe/202611080113.aspx",
+        "published_at": "2026-11-08T08:02:04+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "金控海外曝险33兆飙新高 新加坡再度进前10大曝险国",
+        "link": "https://www.cna.com.tw/news/afe/202611080101.aspx",
+        "published_at": "2026-11-08T06:53:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台塑石化：9日起汽柴油不涨价",
+        "link": "https://www.cna.com.tw/news/ahel/202611080082.aspx",
+        "published_at": "2026-11-08T05:53:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋长女因家庭因素取消访韩 多项合作行程喊卡",
+        "link": "https://www.cna.com.tw/news/aopl/202611080064.aspx",
+        "published_at": "2026-11-08T04:37:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "龚明鑫节目上为买股吵架？经济部澄清：诈骗内容",
+        "link": "https://www.cna.com.tw/news/afe/202611080041.aspx",
+        "published_at": "2026-11-08T03:05:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "国银金检揪7大类缺失 金管会盯人头户审查不实",
+        "link": "https://www.cna.com.tw/news/afe/202611080028.aspx",
+        "published_at": "2026-11-08T02:51:57+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股1个月以来急跌万点 法人：不宜贸然抢反弹",
+        "link": "https://www.cna.com.tw/news/afe/202611080026.aspx",
+        "published_at": "2026-11-08T02:35:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "儒鸿看好美国退税与期中选后2利多 今年营运战新高",
+        "link": "https://www.cna.com.tw/news/afe/202611080020.aspx",
+        "published_at": "2026-11-08T02:07:39+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "美国AI监管疑虑升高 投信：亚洲科技股面临估值压力",
         "link": "https://www.cna.com.tw/news/afe/202611080016.aspx",
@@ -282,22 +462,32 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-08T02:04:26.015851+00:00"
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-08T02:04:26.015851+00:00"
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-08T02:04:26.015851+00:00"
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-08T02:04:26.015851+00:00"
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "items": [
+      {
+        "title": "波兰克拉科夫“极右翼”枪击案致六人死亡 我们所知多少",
+        "link": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/simp",
+        "published_at": "2026-11-07T22:29:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-08T08:54:21.418813+00:00"
   }
 }
