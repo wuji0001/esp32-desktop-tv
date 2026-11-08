@@ -1,7 +1,17 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "items": [
+      {
+        "title": "法国血库冷藏设备遭骇客攻击 幕后黑手众说纷纭",
+        "link": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-08T00:08:14+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-08T02:04:26.015851+00:00"
   },
   "RFI中文": {
     "items": [
@@ -141,14 +151,59 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "last_success": "2026-11-08T02:04:26.015851+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "last_success": "2026-11-08T02:04:26.015851+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "纽西兰大选执政联盟暂获微幅过半 组阁仍待最终计票",
+        "link": "https://www.cna.com.tw/news/aopl/202611080015.aspx",
+        "published_at": "2026-11-08T01:30:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "德国青年示威反映未来焦虑 学者：悲观助长政治极化",
+        "link": "https://www.cna.com.tw/news/aopl/202611080014.aspx",
+        "published_at": "2026-11-08T00:41:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "英王查尔斯三世可能访中？王室幕僚：会审慎考虑",
+        "link": "https://www.cna.com.tw/news/aopl/202611080012.aspx",
+        "published_at": "2026-11-08T00:22:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "少数民族传统与观光潮交织 北越百年同文市集的变与不变",
+        "link": "https://www.cna.com.tw/news/aopl/202611080010.aspx",
+        "published_at": "2026-11-07T23:32:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "波兰枪击案24岁嫌犯疑著迷极右思想 家中另发现3具遗体可能为近亲",
+        "link": "https://www.cna.com.tw/news/aopl/202611080009.aspx",
+        "published_at": "2026-11-07T22:44:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "以色列总统授权反对派领袖筹组政府 总理尼坦雅胡面临下台压力",
         "link": "https://www.cna.com.tw/news/aopl/202611080008.aspx",
@@ -195,7 +250,7 @@
         "cached": false
       },
       {
-        "title": "波兰枪击案酿6死15伤 男嫌遭警方开枪击中后送医",
+        "title": "波兰枪击案酿6死15伤 嫌遭警方开枪击中后送医",
         "link": "https://www.cna.com.tw/news/aopl/202611080002.aspx",
         "published_at": "2026-11-07T17:33:49+00:00",
         "source": "中央社",
@@ -204,10 +259,19 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "last_success": "2026-11-08T02:04:26.015851+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "美国AI监管疑虑升高 投信：亚洲科技股面临估值压力",
+        "link": "https://www.cna.com.tw/news/afe/202611080016.aspx",
+        "published_at": "2026-11-08T01:36:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "币安财务长将离职 支付平台Airwallex高层接任",
         "link": "https://www.cna.com.tw/news/aopl/202611080004.aspx",
@@ -218,19 +282,19 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "last_success": "2026-11-08T02:04:26.015851+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "last_success": "2026-11-08T02:04:26.015851+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "last_success": "2026-11-08T02:04:26.015851+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-07T22:56:47.336269+00:00"
+    "last_success": "2026-11-08T02:04:26.015851+00:00"
   },
   "Bing中文国际": {
     "items": [],
