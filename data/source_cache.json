@@ -1,7 +1,26 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "items": [
+      {
+        "title": "Nvidia就黄仁勋与疑似中国间谍有婚外情展开调查",
+        "link": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T01:37:14+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中式微短剧浪潮席卷英国：为滑动时代而生的「碎片化」剧集",
+        "link": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T00:20:25+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   },
   "RFI中文": {
     "items": [
@@ -168,14 +187,122 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "扫荡无证移民惹议 川普受访时坦言执法可能太严厉",
+        "link": "https://www.cna.com.tw/news/aopl/202611090031.aspx",
+        "published_at": "2026-11-09T02:30:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋坦承出轨将遭调查 分析师：辉达股价承压",
+        "link": "https://www.cna.com.tw/news/aopl/202611090030.aspx",
+        "published_at": "2026-11-09T02:28:34+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "法国外长：欧洲国家将派员参与阿布达比俄乌问题会谈",
+        "link": "https://www.cna.com.tw/news/aopl/202611090026.aspx",
+        "published_at": "2026-11-09T01:51:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "伊拉克库德族自治区气田遇袭 发电天然气供应中断",
+        "link": "https://www.cna.com.tw/news/aopl/202611090025.aspx",
+        "published_at": "2026-11-09T01:45:22+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普下周赴中国出席APEC 盼会习近平普丁谈伊朗战事",
+        "link": "https://www.cna.com.tw/news/aopl/202611090024.aspx",
+        "published_at": "2026-11-09T01:36:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普证实美军特遣部队就位 切断陆路扩大封锁伊朗",
+        "link": "https://www.cna.com.tw/news/aopl/202611090016.aspx",
+        "published_at": "2026-11-09T00:58:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "忧美国加强监管 比特币、以太币跌至逾2个月新低",
+        "link": "https://www.cna.com.tw/news/aopl/202611090015.aspx",
+        "published_at": "2026-11-09T00:55:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普称辉达执行长黄仁勋「为人正直」 盼外界听取其说法",
+        "link": "https://www.cna.com.tw/news/aopl/202611090014.aspx",
+        "published_at": "2026-11-09T00:42:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋承认婚外情 轰动美国政坛及科技界",
+        "link": "https://www.cna.com.tw/news/aopl/202611090013.aspx",
+        "published_at": "2026-11-09T00:35:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋承认婚外情 辉达董事会声明相信未泄漏国安与公司机密",
+        "link": "https://www.cna.com.tw/news/aopl/202611090010.aspx",
+        "published_at": "2026-11-09T00:20:49+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋认与中国女间谍有染 美国会要求18日闭门简报",
+        "link": "https://www.cna.com.tw/news/aopl/202611090009.aspx",
+        "published_at": "2026-11-09T00:19:47+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "英王查尔斯三世传不排斥访中 英媒揭过往对北京态度",
+        "link": "https://www.cna.com.tw/news/aopl/202611090008.aspx",
+        "published_at": "2026-11-08T23:43:44+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "纽时：川普访北京前 卢比欧示警黄仁勋与中国间谍关系密切",
         "link": "https://www.cna.com.tw/news/aopl/202611090006.aspx",
@@ -222,26 +349,82 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   },
   "中央社财经": {
-    "items": [],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "items": [
+      {
+        "title": "台股早盘涨逾千点站回4万点 台积电等权值股劲扬",
+        "link": "https://www.cna.com.tw/news/afe/202611090020.aspx",
+        "published_at": "2026-11-09T01:16:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股开盘涨645.64点",
+        "link": "https://www.cna.com.tw/news/afe/202611090018.aspx",
+        "published_at": "2026-11-09T01:08:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "新台币开盘贬3.2分 为32.8元",
+        "link": "https://www.cna.com.tw/news/afe/202611090017.aspx",
+        "published_at": "2026-11-09T01:05:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "忧美国加强监管 比特币、以太币跌至逾2个月新低",
+        "link": "https://www.cna.com.tw/news/aopl/202611090015.aspx",
+        "published_at": "2026-11-09T00:55:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美科技股止跌国安基金进场 投顾：台股多空交战",
+        "link": "https://www.cna.com.tw/news/afe/202611090012.aspx",
+        "published_at": "2026-11-09T00:34:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   },
   "中央社科技": {
-    "items": [],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "items": [
+      {
+        "title": "川普称辉达执行长黄仁勋「为人正直」 盼外界听取其说法",
+        "link": "https://www.cna.com.tw/news/aopl/202611090014.aspx",
+        "published_at": "2026-11-09T00:42:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-08T23:38:38.190192+00:00"
+    "last_success": "2026-11-09T02:59:27.818848+00:00"
   }
 }
