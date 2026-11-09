@@ -2,9 +2,45 @@
   "BBC中文": {
     "items": [
       {
+        "title": "波兰克拉科夫「极右翼」枪击案致六人死亡 我们所知多少",
+        "link": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T10:08:05+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋婚外情掀起国安风暴：拆解五大看点",
+        "link": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T09:01:15+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "《巴黎协定》：为什么将全球升温控制在1.5摄氏度内如此重要？",
+        "link": "https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T08:54:59+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "Nvidia就黄仁勋与疑似中国间谍有婚外情展开调查",
         "link": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-09T01:37:14+00:00",
+        "published_at": "2026-11-09T07:45:23+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "《萨尔达传说：时之笛》重制版能否重现原作的魔力？",
+        "link": "https://www.bbc.com/zhongwen/articles/cm62yp24ypz0o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T05:51:58+00:00",
         "source": "BBC",
         "via": "BBC",
         "category": "全球",
@@ -20,10 +56,64 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "九合一大选将近中共频繁介选 立委担忧AI深伪影片影响台湾选情",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261109-%E4%B9%9D%E5%90%88%E4%B8%80%E5%A4%A7%E9%80%89%E5%B0%86%E8%BF%91%E4%B8%AD%E5%85%B1%E9%A2%91%E7%B9%81%E4%BB%8B%E9%80%89-%E7%AB%8B%E5%A7%94%E6%8B%85%E5%BF%A7ai%E6%B7%B1%E4%BC%AA%E5%BD%B1%E7%89%87%E5%BD%B1%E5%93%8D%E5%8F%B0%E6%B9%BE%E9%80%89%E6%83%85",
+        "published_at": "2026-11-09T09:24:47+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "日本国家安保战略将不提中国“威胁”只提“挑战”",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261109-%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E5%AE%89%E4%BF%9D%E6%88%98%E7%95%A5%E5%B0%86%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD-%E5%A8%81%E8%83%81-%E5%8F%AA%E6%8F%90-%E6%8C%91%E6%88%98",
+        "published_at": "2026-11-09T08:38:50+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中国太原市一栋约40层高楼发生火灾 已致14人死亡 20多人受伤",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E4%B8%AD%E5%9B%BD%E5%A4%AA%E5%8E%9F%E5%B8%82%E4%B8%80%E6%A0%8B%E7%BA%A640%E5%B1%82%E9%AB%98%E6%A5%BC%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE-%E5%B7%B2%E8%87%B414%E4%BA%BA%E6%AD%BB%E4%BA%A1-20%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4",
+        "published_at": "2026-11-09T08:37:43+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧洲思想文化长廊：希腊：欧洲文化永不磨灭的光辉：斯巴达的特性",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261109-%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A-%E5%B8%8C%E8%85%8A-%E6%AC%A7%E6%B4%B2%E6%96%87%E5%8C%96%E6%B0%B8%E4%B8%8D%E7%A3%A8%E7%81%AD%E7%9A%84%E5%85%89%E8%BE%89-%E6%96%AF%E5%B7%B4%E8%BE%BE%E7%9A%84%E7%89%B9%E6%80%A7",
+        "published_at": "2026-11-09T08:34:38+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "盛事之都？ 欧美艺人巡演多绕道香港 吸引力逊星洲 港官称展览业旺",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E7%9B%9B%E4%BA%8B%E4%B9%8B%E9%83%BD-%E6%AC%A7%E7%BE%8E%E8%89%BA%E4%BA%BA%E5%B7%A1%E6%BC%94%E5%A4%9A%E7%BB%95%E9%81%93%E9%A6%99%E6%B8%AF-%E5%90%B8%E5%BC%95%E5%8A%9B%E9%80%8A%E6%98%9F%E6%B4%B2-%E6%B8%AF%E5%AE%98%E7%A7%B0%E5%B1%95%E8%A7%88%E4%B8%9A%E6%97%BA",
+        "published_at": "2026-11-09T08:21:17+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中国登月计划目标:在美国之前实现达标 最早于2027年进行首次试飞并在2030前实现载人登月",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E4%B8%AD%E5%9B%BD%E7%99%BB%E6%9C%88%E8%AE%A1%E5%88%92%EF%BC%8C%E7%9B%AE%E6%A0%87-%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%B9%8B%E5%89%8D%E5%AE%9E%E7%8E%B0%E8%BE%BE%E6%A0%87%EF%BC%8C%E6%9C%80%E6%97%A9%E4%BA%8E2027%E5%B9%B4%E8%BF%9B%E8%A1%8C%E9%A6%96%E6%AC%A1%E8%AF%95%E9%A3%9E%EF%BC%8C%E5%B9%B6%E5%9C%A82030%E5%89%8D%E5%AE%9E%E7%8E%B0%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88",
+        "published_at": "2026-11-09T07:28:36+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "非洲:2026青奥会男子3人篮球赛",
         "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261108-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-2026%E9%9D%92%E5%A5%A5%E4%BC%9A3%E4%BA%BA%E7%AF%AE%E7%90%83%E8%B5%9B",
@@ -187,222 +277,430 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   },
   "DW中文": {
-    "items": [],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "items": [
+      {
+        "title": "德国历史上的11月9日",
+        "link": "https://www.dw.com/zh/德国历史上的11月9日/a-16365842?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-09T08:54:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "长平观察：黄仁勋的间谍疑云，不只是桃色新闻",
+        "link": "https://www.dw.com/zh/长平观察：黄仁勋的间谍疑云，不只是桃色新闻/a-79896037?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-09T08:47:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋坦承婚外情 与中国间谍关系面临质疑",
+        "link": "https://www.dw.com/zh/黃仁勳坦承婚外情-與中國間諜關係面臨質疑/a-79895340?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-09T05:16:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "扫荡无证移民惹议 川普受访时坦言执法可能太严厉",
-        "link": "https://www.cna.com.tw/news/aopl/202611090031.aspx",
-        "published_at": "2026-11-09T02:30:36+00:00",
+        "title": "黄仁勋婚外情面临辉达董事会调查 外媒推演5种结局",
+        "link": "https://www.cna.com.tw/news/aopl/202611090219.aspx",
+        "published_at": "2026-11-09T10:02:28+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "黄仁勋坦承出轨将遭调查 分析师：辉达股价承压",
-        "link": "https://www.cna.com.tw/news/aopl/202611090030.aspx",
-        "published_at": "2026-11-09T02:28:34+00:00",
+        "title": "自民党首度惩处前首相 石破茂弃权表决消费税减税案遭申诫",
+        "link": "https://www.cna.com.tw/news/aopl/202611090210.aspx",
+        "published_at": "2026-11-09T09:41:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "酷澎涉滥用餐饮外送市场主导地位 遭韩重罚2.2亿美元",
+        "link": "https://www.cna.com.tw/news/aopl/202611090208.aspx",
+        "published_at": "2026-11-09T09:35:04+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "COP31土耳其召开 联合国秘书长：世界进入极端气候时代",
+        "link": "https://www.cna.com.tw/news/aopl/202611090188.aspx",
+        "published_at": "2026-11-09T09:12:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "辉达与SK电信等韩企签MOU 未回应黄仁勋争议",
+        "link": "https://www.cna.com.tw/news/aopl/202611090184.aspx",
+        "published_at": "2026-11-09T09:02:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "对话还是对抗？菲律宾对中路线之争延烧民间",
+        "link": "https://www.cna.com.tw/news/aopl/202611090180.aspx",
+        "published_at": "2026-11-09T08:53:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "日本新版国安战略拟不称中国「威胁」 延续吓阻与对话路线",
+        "link": "https://www.cna.com.tw/news/aopl/202611090162.aspx",
+        "published_at": "2026-11-09T08:18:21+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "教宗访阿根廷 同台米雷伊吁经济应为人民服务",
+        "link": "https://www.cna.com.tw/news/aopl/202611090160.aspx",
+        "published_at": "2026-11-09T08:15:17+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "法国外长：欧洲国家将派员参与阿布达比俄乌问题会谈",
-        "link": "https://www.cna.com.tw/news/aopl/202611090026.aspx",
-        "published_at": "2026-11-09T01:51:24+00:00",
+        "title": "黄仁勋涉遭外国情报机构锁定公司启动调查 辉达盘后股价挫跌",
+        "link": "https://www.cna.com.tw/news/aopl/202611090152.aspx",
+        "published_at": "2026-11-09T07:57:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "波兰克拉科夫广场枪击案 警方称枪手不治身亡",
+        "link": "https://www.cna.com.tw/news/aopl/202611090149.aspx",
+        "published_at": "2026-11-09T07:51:54+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "伊拉克库德族自治区气田遇袭 发电天然气供应中断",
-        "link": "https://www.cna.com.tw/news/aopl/202611090025.aspx",
-        "published_at": "2026-11-09T01:45:22+00:00",
+        "title": "泰国强化关键基础设施资安 防类似欧洲骇客攻击事件",
+        "link": "https://www.cna.com.tw/news/aopl/202611090139.aspx",
+        "published_at": "2026-11-09T07:26:32+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "川普下周赴中国出席APEC 盼会习近平普丁谈伊朗战事",
-        "link": "https://www.cna.com.tw/news/aopl/202611090024.aspx",
-        "published_at": "2026-11-09T01:36:20+00:00",
+        "title": "中国籍男子在东京银座发干扰电波被捕 疑设假基地台发钓鱼简讯",
+        "link": "https://www.cna.com.tw/news/aopl/202611090133.aspx",
+        "published_at": "2026-11-09T07:06:19+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "川普证实美军特遣部队就位 切断陆路扩大封锁伊朗",
-        "link": "https://www.cna.com.tw/news/aopl/202611090016.aspx",
-        "published_at": "2026-11-09T00:58:03+00:00",
+        "title": "G7外长会议欧洲促美勿攻伊朗 公平解决俄乌问题",
+        "link": "https://www.cna.com.tw/news/aopl/202611090132.aspx",
+        "published_at": "2026-11-09T07:06:17+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "忧美国加强监管 比特币、以太币跌至逾2个月新低",
-        "link": "https://www.cna.com.tw/news/aopl/202611090015.aspx",
-        "published_at": "2026-11-09T00:55:00+00:00",
+        "title": "驻日美军涉杀人引爆怒火 冲绳县知事要求检讨日美地位协定",
+        "link": "https://www.cna.com.tw/news/aopl/202611090129.aspx",
+        "published_at": "2026-11-09T07:03:10+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "川普称辉达执行长黄仁勋「为人正直」 盼外界听取其说法",
-        "link": "https://www.cna.com.tw/news/aopl/202611090014.aspx",
-        "published_at": "2026-11-09T00:42:58+00:00",
+        "title": "邀UFC总裁出任白宫新闻秘书 川普澄清：只是开玩笑",
+        "link": "https://www.cna.com.tw/news/aopl/202611090120.aspx",
+        "published_at": "2026-11-09T06:49:51+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "黄仁勋承认婚外情 轰动美国政坛及科技界",
-        "link": "https://www.cna.com.tw/news/aopl/202611090013.aspx",
-        "published_at": "2026-11-09T00:35:56+00:00",
+        "title": "俄版星链「曙光」赶建 强化俄军无人机纵深打击力",
+        "link": "https://www.cna.com.tw/news/aopl/202611090105.aspx",
+        "published_at": "2026-11-09T06:15:19+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "黄仁勋承认婚外情 辉达董事会声明相信未泄漏国安与公司机密",
-        "link": "https://www.cna.com.tw/news/aopl/202611090010.aspx",
-        "published_at": "2026-11-09T00:20:49+00:00",
+        "title": "黄仁勋婚外情牵出国安疑虑 美议员吁暂停对中供晶片",
+        "link": "https://www.cna.com.tw/news/aopl/202611090090.aspx",
+        "published_at": "2026-11-09T05:32:44+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "黄仁勋认与中国女间谍有染 美国会要求18日闭门简报",
-        "link": "https://www.cna.com.tw/news/aopl/202611090009.aspx",
-        "published_at": "2026-11-09T00:19:47+00:00",
+        "title": "辉达H200晶片销中转折时间轴一览 黄仁勋游说为关键",
+        "link": "https://www.cna.com.tw/news/aopl/202611090088.aspx",
+        "published_at": "2026-11-09T05:20:39+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "英王查尔斯三世传不排斥访中 英媒揭过往对北京态度",
-        "link": "https://www.cna.com.tw/news/aopl/202611090008.aspx",
-        "published_at": "2026-11-08T23:43:44+00:00",
+        "title": "川普称AI风险可控 不排斥设立防护规范",
+        "link": "https://www.cna.com.tw/news/aopl/202611090086.aspx",
+        "published_at": "2026-11-09T05:14:35+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "纽时：川普访北京前 卢比欧示警黄仁勋与中国间谍关系密切",
-        "link": "https://www.cna.com.tw/news/aopl/202611090006.aspx",
-        "published_at": "2026-11-08T21:32:35+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "平时相见大不易 排灯节成印度人与亲友团圆重要时刻",
-        "link": "https://www.cna.com.tw/news/aopl/202611090005.aspx",
-        "published_at": "2026-11-08T19:57:31+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "期中选举大胜 民主党拟调查马斯克、米勒及美国大企业",
-        "link": "https://www.cna.com.tw/news/aopl/202611090004.aspx",
-        "published_at": "2026-11-08T19:38:29+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "川普：若谈判取得进展就不太可能下令攻击伊朗",
-        "link": "https://www.cna.com.tw/news/aopl/202611090003.aspx",
-        "published_at": "2026-11-08T18:45:26+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "埃及开罗以南火车追撞 数节车厢出轨至少7死112伤",
-        "link": "https://www.cna.com.tw/news/aopl/202611090002.aspx",
-        "published_at": "2026-11-08T18:29:24+00:00",
+        "title": "COP31土耳其登场 美伊战争油价冲击恐难有突破",
+        "link": "https://www.cna.com.tw/news/aopl/202611090080.aspx",
+        "published_at": "2026-11-09T04:48:22+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   },
   "中央社财经": {
     "items": [
       {
-        "title": "台股早盘涨逾千点站回4万点 台积电等权值股劲扬",
-        "link": "https://www.cna.com.tw/news/afe/202611090020.aspx",
-        "published_at": "2026-11-09T01:16:11+00:00",
+        "title": "外资卖超台股逾900亿元 调节联电、台积电",
+        "link": "https://www.cna.com.tw/news/afe/202611090237.aspx",
+        "published_at": "2026-11-09T10:46:07+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "台股开盘涨645.64点",
-        "link": "https://www.cna.com.tw/news/afe/202611090018.aspx",
-        "published_at": "2026-11-09T01:08:07+00:00",
+        "title": "财部：今年台湾出口规模将超越日本 世界排名「坐8望7」",
+        "link": "https://www.cna.com.tw/news/afe/202611090234.aspx",
+        "published_at": "2026-11-09T10:36:00+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "新台币开盘贬3.2分 为32.8元",
-        "link": "https://www.cna.com.tw/news/afe/202611090017.aspx",
-        "published_at": "2026-11-09T01:05:05+00:00",
+        "title": "证交所：耐特上市竞拍标单未达承销数量 10日不开标",
+        "link": "https://www.cna.com.tw/news/afe/202611090233.aspx",
+        "published_at": "2026-11-09T10:31:58+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "忧美国加强监管 比特币、以太币跌至逾2个月新低",
-        "link": "https://www.cna.com.tw/news/aopl/202611090015.aspx",
-        "published_at": "2026-11-09T00:55:00+00:00",
+        "title": "广达10月营收续创同期新高 仁宝年增逾4成",
+        "link": "https://www.cna.com.tw/news/afe/202611090231.aspx",
+        "published_at": "2026-11-09T10:29:54+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "美科技股止跌国安基金进场 投顾：台股多空交战",
-        "link": "https://www.cna.com.tw/news/afe/202611090012.aspx",
-        "published_at": "2026-11-09T00:34:54+00:00",
+        "title": "巨大前3季每股赚1.96元 本业获利持续改善",
+        "link": "https://www.cna.com.tw/news/afe/202611090230.aspx",
+        "published_at": "2026-11-09T10:21:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "跨县市办快闪特卖 国税局：应先向税籍所在地核备并开立发票",
+        "link": "https://www.cna.com.tw/news/afe/202611090226.aspx",
+        "published_at": "2026-11-09T10:13:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "菲律宾第3季经济成长2.1% 疫情以来最低值",
+        "link": "https://www.cna.com.tw/news/afe/202611090225.aspx",
+        "published_at": "2026-11-09T10:09:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "10月台股有交易户数629万户 3个月新高",
+        "link": "https://www.cna.com.tw/news/afe/202611090223.aspx",
+        "published_at": "2026-11-09T10:09:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股强弹难挡外资汇出 新台币爆量重贬逾1角收32.882元",
+        "link": "https://www.cna.com.tw/news/afe/202611090222.aspx",
+        "published_at": "2026-11-09T10:07:34+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋婚外情面临辉达董事会调查 外媒推演5种结局",
+        "link": "https://www.cna.com.tw/news/aopl/202611090219.aspx",
+        "published_at": "2026-11-09T10:02:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "财部：前10月对美出口占比31.7% 写近36年同期新高",
+        "link": "https://www.cna.com.tw/news/afe/202611090215.aspx",
+        "published_at": "2026-11-09T09:53:19+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "10月出口创纪录写5大亮点 连36红为史上最长成长周期",
+        "link": "https://www.cna.com.tw/news/afe/202611090213.aspx",
+        "published_at": "2026-11-09T09:48:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "正德前3季每股赚1.67元 11艘新船估2027年起交付",
+        "link": "https://www.cna.com.tw/news/afe/202611090209.aspx",
+        "published_at": "2026-11-09T09:38:06+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "酷澎涉滥用餐饮外送市场主导地位 遭韩重罚2.2亿美元",
+        "link": "https://www.cna.com.tw/news/aopl/202611090208.aspx",
+        "published_at": "2026-11-09T09:35:04+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "大武山看明年营运跳跃成长 加工蛋产能拚倍增",
+        "link": "https://www.cna.com.tw/news/afe/202611090203.aspx",
+        "published_at": "2026-11-09T09:25:53+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "基米前3季每股亏损0.84元 子公司明年启动兴柜计划",
+        "link": "https://www.cna.com.tw/news/afe/202611090190.aspx",
+        "published_at": "2026-11-09T09:18:26+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台达电10月营收746亿元年增3成 创历史新高",
+        "link": "https://www.cna.com.tw/news/afe/202611090189.aspx",
+        "published_at": "2026-11-09T09:15:22+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "威刚拟买回6000张库藏股 每股213.5元至532.2元",
+        "link": "https://www.cna.com.tw/news/afe/202611090187.aspx",
+        "published_at": "2026-11-09T09:11:17+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "辉达与SK电信等韩企签MOU 未回应黄仁勋争议",
+        "link": "https://www.cna.com.tw/news/aopl/202611090184.aspx",
+        "published_at": "2026-11-09T09:02:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "光宝科10月营收冲破200亿元 近10年新高",
+        "link": "https://www.cna.com.tw/news/afe/202611090179.aspx",
+        "published_at": "2026-11-09T08:51:58+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   },
   "中央社科技": {
     "items": [
+      {
+        "title": "Gemini中文版购物功能登台 对话式AI重塑网购行为",
+        "link": "https://www.cna.com.tw/news/ait/202611090093.aspx",
+        "published_at": "2026-11-09T05:38:51+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "赖总统：台湾朝自主发射卫星目标稳健前进",
+        "link": "https://www.cna.com.tw/news/ait/202611090066.aspx",
+        "published_at": "2026-11-09T04:07:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
       {
         "title": "川普称辉达执行长黄仁勋「为人正直」 盼外界听取其说法",
         "link": "https://www.cna.com.tw/news/aopl/202611090014.aspx",
@@ -413,18 +711,56 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   },
   "中央社健康": {
-    "items": [],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "items": [
+      {
+        "title": "为恭医院扩大AI智慧医疗应用 争取急重症黄金救援时间",
+        "link": "https://www.cna.com.tw/news/ahel/202611090125.aspx",
+        "published_at": "2026-11-09T06:58:02+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-09T02:59:27.818848+00:00"
+    "items": [
+      {
+        "title": "什么是《巴黎协定》？为什么将全球升温控制在1.5摄氏度内如此重要？",
+        "link": "https://www.bbc.com/zhongwen/articles/cmde8ende1exo/simp",
+        "published_at": "2026-11-09T00:55:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋婚外情掀起国安风暴：拆解五大看点",
+        "link": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/simp",
+        "published_at": "2026-11-09T00:39:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "Nvidia就黄仁勋与疑似中国间谍有婚外情展开调查",
+        "link": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/simp",
+        "published_at": "2026-11-08T17:38:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-09T11:19:16.016425+00:00"
   }
 }
