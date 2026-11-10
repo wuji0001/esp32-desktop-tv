@@ -2,6 +2,15 @@
   "BBC中文": {
     "items": [
       {
+        "title": "黄仁勋与疑似中国间谍婚外情风波：特朗普称FBI已介入调查",
+        "link": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T23:40:17+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "黄仁勋与疑似中国间谍婚外情：目前我们知道什么？",
         "link": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-09T17:25:50+00:00",
@@ -20,10 +29,73 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "塞浦路斯岛南北双方领导人同意再开放两个新的过境点",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261110-%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E5%B2%9B%E5%8D%97%E5%8C%97%E5%8F%8C%E6%96%B9%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%90%8C%E6%84%8F%E5%86%8D%E5%BC%80%E6%94%BE%E4%B8%A4%E4%B8%AA%E6%96%B0%E7%9A%84%E8%BF%87%E5%A2%83%E7%82%B9",
+        "published_at": "2026-11-10T00:10:42+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "陷入风暴的英伟达掌门人黄仁勋会倒下吗",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E9%99%B7%E5%85%A5%E9%A3%8E%E6%9A%B4%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8E%8C%E9%97%A8%E4%BA%BA%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BC%9A%E5%80%92%E4%B8%8B%E5%90%97",
+        "published_at": "2026-11-09T22:53:17+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "网路袭击法国境内超市冷藏设备是伊朗伊斯兰革命卫队干的， 法国外长发誓要制裁",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261109-%E7%BD%91%E8%B7%AF%E8%A2%AD%E5%87%BB%E6%B3%95%E5%9B%BD%E5%A2%83%E5%86%85%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E8%AE%BE%E5%A4%87%E6%98%AF%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%B9%B2%E7%9A%84%EF%BC%8C-%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF%E5%8F%91%E8%AA%93%E8%A6%81%E5%88%B6%E8%A3%81",
+        "published_at": "2026-11-09T22:33:43+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "乌克兰2027年面临700亿欧元资金缺口，德国总理要欧盟就明年支持乌克兰所需的资金达成共识",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261109-%E4%B9%8C%E5%85%8B%E5%85%B02027%E5%B9%B4%E9%9D%A2%E4%B8%B4700%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%84%E9%87%91%E7%BC%BA%E5%8F%A3%EF%BC%8C%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E8%A6%81%E6%AC%A7%E7%9B%9F%E5%B0%B1%E6%98%8E%E5%B9%B4%E6%94%AF%E6%8C%81%E4%B9%8C%E5%85%8B%E5%85%B0%E6%89%80%E9%9C%80%E7%9A%84%E8%B5%84%E9%87%91%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86",
+        "published_at": "2026-11-09T22:29:27+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "要依靠英伟达芯片的硅谷科技界力挺黄仁勋， 说他不可替代",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E8%A6%81%E4%BE%9D%E9%9D%A0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E7%9A%84%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%95%8C%E5%8A%9B%E6%8C%BA%E9%99%B7%E5%85%A5%E5%A9%9A%E5%A4%96%E6%81%8B%E5%92%8C%E7%96%91%E4%BC%BC%E9%97%B4%E8%B0%8D%E4%B8%91%E9%97%BB%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%8C-%E8%AF%B4%E4%BB%96%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3",
+        "published_at": "2026-11-09T22:23:33+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "特朗普称下周或与习近平、普京在中国举行三方会谈",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8B%E5%91%A8%E6%88%96%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3-%E6%99%AE%E4%BA%AC%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88",
+        "published_at": "2026-11-09T22:21:34+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普再次指责中期选举存在舞弊",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%8C%87%E8%B4%A3%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AD%98%E5%9C%A8%E8%88%9E%E5%BC%8A",
+        "published_at": "2026-11-09T22:15:46+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "非洲:南非公布2026市镇选举结果",
         "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261109-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%8D%97%E9%9D%9E%E5%85%AC%E5%B8%832026%E5%B8%82%E9%95%87%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C",
@@ -61,55 +133,280 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "男子驾车冲入白宫对面公园 遭特勤局逮捕",
-        "link": "https://www.cna.com.tw/news/aopl/202611100006.aspx",
-        "published_at": "2026-11-09T20:24:40+00:00",
+        "title": "澳洲因应AI代理程式入侵网站 将实施强制防护措施",
+        "link": "https://www.cna.com.tw/news/aopl/202611100055.aspx",
+        "published_at": "2026-11-10T03:01:34+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "拜登缩短回忆录宣传行程 称癌症病情拖慢步伐",
-        "link": "https://www.cna.com.tw/news/aopl/202611100005.aspx",
-        "published_at": "2026-11-09T19:19:37+00:00",
+        "title": "洛杉矶郊区城市公投禁建资料中心 逾8成选民支持",
+        "link": "https://www.cna.com.tw/news/aopl/202611100054.aspx",
+        "published_at": "2026-11-10T03:00:31+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "瘦瘦针可能增加罕见视神经病变风险 美FDA令药厂加警语",
+        "link": "https://www.cna.com.tw/news/aopl/202611100050.aspx",
+        "published_at": "2026-11-10T02:39:23+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴拉圭新总统促高官请辞 检方请美国卢森堡阿根廷追查资产",
+        "link": "https://www.cna.com.tw/news/aopl/202611100044.aspx",
+        "published_at": "2026-11-10T02:28:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "金融时报：黄乐曾兜售资料中心计划 称有办法拿到辉达GPU",
+        "link": "https://www.cna.com.tw/news/aopl/202611100043.aspx",
+        "published_at": "2026-11-10T02:28:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "法国控伊朗骇超市冰箱扬言制裁 检方还原网攻手法",
+        "link": "https://www.cna.com.tw/news/aopl/202611100039.aspx",
+        "published_at": "2026-11-10T02:05:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "台湾巴西扶轮社合作推动医疗援助 驻圣保罗处长获表彰",
+        "link": "https://www.cna.com.tw/news/ahel/202611100036.aspx",
+        "published_at": "2026-11-10T01:43:52+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "医疗",
         "cached": false
       },
       {
-        "title": "牵动全球AI命脉 黄仁勋爆婚外情调查凸显接班危机",
-        "link": "https://www.cna.com.tw/news/aopl/202611100004.aspx",
-        "published_at": "2026-11-09T19:17:34+00:00",
+        "title": "北韩官媒：试射新型高速鱼雷 预定2027年交付海军",
+        "link": "https://www.cna.com.tw/news/aopl/202611100032.aspx",
+        "published_at": "2026-11-10T01:24:43+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "川普质疑期中选举正当性 再度指控选举舞弊",
-        "link": "https://www.cna.com.tw/news/aopl/202611100002.aspx",
-        "published_at": "2026-11-09T17:25:28+00:00",
+        "title": "越南恐陷「9.95%悖论」经济迷思 数字亮眼民间无感",
+        "link": "https://www.cna.com.tw/news/aopl/202611100026.aspx",
+        "published_at": "2026-11-10T00:48:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "卡达沙乌地等国吁克制 川普称暂缓军事打击伊朗",
+        "link": "https://www.cna.com.tw/news/aopl/202611100025.aspx",
+        "published_at": "2026-11-10T00:41:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "期中选举失利共和党议员先开枪 美战争部长赫格塞斯遭提案弹劾",
+        "link": "https://www.cna.com.tw/news/aopl/202611100023.aspx",
+        "published_at": "2026-11-10T00:31:23+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "柏林围墙倒塌37周年 当年东德居民导览延续历史记忆",
+        "link": "https://www.cna.com.tw/news/aopl/202611100021.aspx",
+        "published_at": "2026-11-10T00:17:18+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美众议院民主党领袖要求辉达案完整简报 吁限制晶片销中",
+        "link": "https://www.cna.com.tw/news/aopl/202611100020.aspx",
+        "published_at": "2026-11-10T00:16:16+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "教宗良十四世阿根廷主持露天弥撒 吁重视家庭价值",
+        "link": "https://www.cna.com.tw/news/aopl/202611100019.aspx",
+        "published_at": "2026-11-10T00:15:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "辉达股东集体诉讼 控公司与黄仁勋隐瞒婚外情涉嫌误导投资人",
+        "link": "https://www.cna.com.tw/news/aopl/202611100017.aspx",
+        "published_at": "2026-11-10T00:09:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "超级圣婴冲击 巴西南部防洪北部旱情恐加剧",
+        "link": "https://www.cna.com.tw/news/aopl/202611100015.aspx",
+        "published_at": "2026-11-09T23:53:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "辉达逆势收跌4.27% 市场关注黄仁勋相关调查",
+        "link": "https://www.cna.com.tw/news/aopl/202611100014.aspx",
+        "published_at": "2026-11-09T23:42:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "义大利因应混合战 拚年底编制千人反骇客战队",
+        "link": "https://www.cna.com.tw/news/aopl/202611100013.aspx",
+        "published_at": "2026-11-09T23:34:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "纽时：辉达疑介入商务部调查Megaspeed晶片输中案",
+        "link": "https://www.cna.com.tw/news/aopl/202611100012.aspx",
+        "published_at": "2026-11-09T23:14:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普：黄仁勋不知婚外情对象涉共谍 FBI查明中",
+        "link": "https://www.cna.com.tw/news/aopl/202611100011.aspx",
+        "published_at": "2026-11-09T23:09:56+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "台股早盘续弹逾1200点站回42900点 电子类股强势",
+        "link": "https://www.cna.com.tw/news/afe/202611100029.aspx",
+        "published_at": "2026-11-10T01:11:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股开盘涨468.63点",
+        "link": "https://www.cna.com.tw/news/afe/202611100028.aspx",
+        "published_at": "2026-11-10T01:04:34+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "新台币开盘升4.2分 为32.84元",
+        "link": "https://www.cna.com.tw/news/afe/202611100027.aspx",
+        "published_at": "2026-11-10T01:02:32+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "数字亮眼民间无感 越南恐陷「9.95%悖论」经济迷思",
+        "link": "https://www.cna.com.tw/news/aopl/202611100026.aspx",
+        "published_at": "2026-11-10T00:48:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美科技股回神 法人：政策护航台股现技术面反弹迹象",
+        "link": "https://www.cna.com.tw/news/afe/202611100024.aspx",
+        "published_at": "2026-11-10T00:36:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "婚外情风波延烧 辉达、黄仁勋遭股东提集体诉讼",
+        "link": "https://www.cna.com.tw/news/aopl/202611100017.aspx",
+        "published_at": "2026-11-10T00:09:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美股走高辉达逆势收跌4.27% 市场关注黄仁勋相关调查",
+        "link": "https://www.cna.com.tw/news/aopl/202611100014.aspx",
+        "published_at": "2026-11-09T23:42:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "科技股历经暴跌后强弹 美股收盘齐扬",
+        "link": "https://www.cna.com.tw/news/afe/202611100009.aspx",
+        "published_at": "2026-11-09T21:49:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "中东战局现外交曙光 国际油价跌至8月来新低",
+        "link": "https://www.cna.com.tw/news/afe/202611100008.aspx",
+        "published_at": "2026-11-09T21:37:46+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "科技股跌深反弹 欧股收高",
         "link": "https://www.cna.com.tw/news/afe/202611100003.aspx",
@@ -120,22 +417,51 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   },
   "中央社科技": {
-    "items": [],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "items": [
+      {
+        "title": "中国研制电动飞机 分析：商业模式未必可行",
+        "link": "https://www.cna.com.tw/news/ait/202611100033.aspx",
+        "published_at": "2026-11-10T01:27:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋婚外情掀国安疑虑 美3项对中晶片法案有望过关",
+        "link": "https://www.cna.com.tw/news/ait/202611100031.aspx",
+        "published_at": "2026-11-10T01:22:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   },
   "中央社健康": {
-    "items": [],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "items": [
+      {
+        "title": "台湾巴西扶轮社合作推动医疗援助 驻圣保罗处长获表彰",
+        "link": "https://www.cna.com.tw/news/ahel/202611100036.aspx",
+        "published_at": "2026-11-10T01:43:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-09T21:30:41.891756+00:00"
+    "last_success": "2026-11-10T03:46:00.923073+00:00"
   }
 }
