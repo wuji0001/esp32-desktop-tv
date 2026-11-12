@@ -1,10 +1,83 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "items": [
+      {
+        "title": "中美能源大战，如何影响你的帐单？",
+        "link": "https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T01:45:18+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "黄仁勋再爆婚外情 华尔街日报称英伟达准备解除其首席执行官职务",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E7%88%86%E5%A9%9A%E5%A4%96%E6%83%85-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%87%86%E5%A4%87%E8%A7%A3%E9%99%A4%E5%85%B6%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%81%8C%E5%8A%A1",
+        "published_at": "2026-11-11T23:51:21+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "西班牙举行总罢工：马德里和巴塞罗那数万名抗议者要求保障住房权益",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261111-%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BE%E8%A1%8C%E6%80%BB%E7%BD%A2%E5%B7%A5-%E9%A9%AC%E5%BE%B7%E9%87%8C%E5%92%8C%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E6%95%B0%E4%B8%87%E5%90%8D%E6%8A%97%E8%AE%AE%E8%80%85%E8%A6%81%E6%B1%82%E4%BF%9D%E9%9A%9C%E4%BD%8F%E6%88%BF%E6%9D%83%E7%9B%8A",
+        "published_at": "2026-11-11T22:33:05+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "波兰独立日 从华沙街头传出的复杂信号",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E6%B3%A2%E5%85%B0%E7%8B%AC%E7%AB%8B%E6%97%A5-%E4%BB%8E%E5%8D%8E%E6%B2%99%E8%A1%97%E5%A4%B4%E4%BC%A0%E5%87%BA%E7%9A%84%E5%A4%8D%E6%9D%82%E4%BF%A1%E5%8F%B7",
+        "published_at": "2026-11-11T22:30:02+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "伊朗 : 美国用中东地区以外的军事基地袭击伊朗， 伊朗将打击这些基地",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261111-%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9B%BD%E7%94%A8%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E4%BB%A5%E5%A4%96%E7%9A%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%EF%BC%8C-%E4%BC%8A%E6%9C%97%E5%B0%86%E6%89%93%E5%87%BB%E8%BF%99%E4%BA%9B%E5%9F%BA%E5%9C%B0",
+        "published_at": "2026-11-11T21:46:37+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "德国军队禁止使用中国造无人机",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E5%BE%B7%E5%9B%BD%E5%86%9B%E9%98%9F%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E9%80%A0%E6%97%A0%E4%BA%BA%E6%9C%BA",
+        "published_at": "2026-11-11T21:44:27+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国特使将于周四分别会晤普京和泽连斯基",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E5%B0%86%E4%BA%8E%E5%91%A8%E5%9B%9B%E5%88%86%E5%88%AB%E4%BC%9A%E6%99%A4%E6%99%AE%E4%BA%AC%E5%92%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+        "published_at": "2026-11-11T21:42:35+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中国大学被美国列入黑名单 仍购买英伟达h200芯片",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95-%E4%BB%8D%E8%B4%AD%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E8%8A%AF%E7%89%87",
+        "published_at": "2026-11-11T21:36:46+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
       {
         "title": "古巴外长访华，王毅承诺中国“坚定支持”古巴反制裁",
         "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E5%8F%A4%E5%B7%B4%E5%A4%96%E9%95%BF%E8%AE%BF%E5%8D%8E%EF%BC%8C%E7%8E%8B%E6%AF%85%E6%89%BF%E8%AF%BA%E4%B8%AD%E5%9B%BD-%E5%9D%9A%E5%AE%9A%E6%94%AF%E6%8C%81-%E5%8F%A4%E5%B7%B4%E5%8F%8D%E5%88%B6%E8%A3%81",
@@ -60,14 +133,104 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "传辉达董事会拟撤换黄仁勋 婚外情疑云事件簿一览",
+        "link": "https://www.cna.com.tw/news/aopl/202611120031.aspx",
+        "published_at": "2026-11-12T00:47:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "民主党柯隆逆袭夺密西西比州参议员 创140多年首位非裔纪录",
+        "link": "https://www.cna.com.tw/news/aopl/202611120025.aspx",
+        "published_at": "2026-11-12T00:20:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "纽约3层楼建筑倒塌 至少1死12伤",
+        "link": "https://www.cna.com.tw/news/aopl/202611120024.aspx",
+        "published_at": "2026-11-12T00:18:18+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "纽约时报：黄仁勋遭爆与下属发展婚外情 辉达内部早有议论",
+        "link": "https://www.cna.com.tw/news/aopl/202611120021.aspx",
+        "published_at": "2026-11-12T00:00:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "传撤换黄仁勋兼爆第2段婚外情 辉达盘后股价重挫8%",
+        "link": "https://www.cna.com.tw/news/aopl/202611120020.aspx",
+        "published_at": "2026-11-11T23:58:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "义大利6000学校收恐吓信寄件网域来自台湾 代表处助查真相",
+        "link": "https://www.cna.com.tw/news/aopl/202611120019.aspx",
+        "published_at": "2026-11-11T23:57:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "瑞典达拉木马获欧盟地理标示保护 传统工艺延续数百年",
+        "link": "https://www.cna.com.tw/news/acul/202611120017.aspx",
+        "published_at": "2026-11-11T23:23:02+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "退伍军人节演说 川普称伊朗战争快结束、矢言取得全面胜利",
+        "link": "https://www.cna.com.tw/news/aopl/202611120016.aspx",
+        "published_at": "2026-11-11T23:07:59+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "以色列媒体：尼坦雅胡和川普为伊朗战争起争执 上演飙骂大赛",
+        "link": "https://www.cna.com.tw/news/aopl/202611120013.aspx",
+        "published_at": "2026-11-11T22:28:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "泽伦斯基：俄乌终战谈判2027年前有望迎来机会之窗",
+        "link": "https://www.cna.com.tw/news/aopl/202611120011.aspx",
+        "published_at": "2026-11-11T21:56:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "辉达客户涉转运晶片输中 传美财长质问商务部长为何不列管",
         "link": "https://www.cna.com.tw/news/aopl/202611120008.aspx",
@@ -114,10 +277,82 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "费半劲扬5% 投顾：观察台股是否延续反弹挑战45000点",
+        "link": "https://www.cna.com.tw/news/afe/202611120030.aspx",
+        "published_at": "2026-11-12T00:38:31+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "MSCI成分股调整 景硕入列标准指数、小型指数18进12出",
+        "link": "https://www.cna.com.tw/news/afe/202611120027.aspx",
+        "published_at": "2026-11-12T00:23:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "纽约时报：黄仁勋遭爆与下属发展婚外情 辉达内部早有议论",
+        "link": "https://www.cna.com.tw/news/aopl/202611120021.aspx",
+        "published_at": "2026-11-12T00:00:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "传撤换黄仁勋兼爆第2段婚外情 辉达盘后股价重挫8%",
+        "link": "https://www.cna.com.tw/news/aopl/202611120020.aspx",
+        "published_at": "2026-11-11T23:58:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "「AI界央行」辉达股价止跌回升 美股聚焦黄仁勋案发展",
+        "link": "https://www.cna.com.tw/news/afe/202611120018.aspx",
+        "published_at": "2026-11-11T23:40:04+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "华尔街日报：黄仁勋涉两起婚外情 辉达董事会拟撤换",
+        "link": "https://www.cna.com.tw/news/afe/202611120014.aspx",
+        "published_at": "2026-11-11T23:00:53+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "CoreWeave财报缓解AI疑虑 美股收高辉达止稳",
+        "link": "https://www.cna.com.tw/news/afe/202611120010.aspx",
+        "published_at": "2026-11-11T21:34:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "伊朗战争前景讯号分歧 国际油价上扬",
+        "link": "https://www.cna.com.tw/news/afe/202611120009.aspx",
+        "published_at": "2026-11-11T21:31:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "研调：Anthropic挂牌日散户买超可能破SpaceX纪录",
         "link": "https://www.cna.com.tw/news/aopl/202611120007.aspx",
@@ -146,22 +381,22 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-11T21:18:22.039006+00:00"
+    "last_success": "2026-11-12T02:20:22.637490+00:00"
   }
 }
