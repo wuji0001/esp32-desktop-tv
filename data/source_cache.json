@@ -1,10 +1,73 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "中国决定不争取主办2028年的联合国气候峰会",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261113-%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E4%B8%8D%E4%BA%89%E5%8F%96%E4%B8%BB%E5%8A%9E2028%E5%B9%B4%E7%9A%84%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A",
+        "published_at": "2026-11-13T23:10:23+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "土耳其和卡塔尔签署共同防御协议",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261113-%E5%9C%9F%E8%80%B3%E5%85%B6%E5%92%8C%E5%8D%A1%E5%A1%94%E5%B0%94%E7%AD%BE%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E5%BE%A1%E5%8D%8F%E8%AE%AE",
+        "published_at": "2026-11-13T22:49:32+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普、习近平和普京可能于下周四在深圳会晤",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261113-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E6%99%AE%E4%BA%AC%E5%8F%AF%E8%83%BD%E4%BA%8E%E4%B8%8B%E5%91%A8%E5%9B%9B%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4",
+        "published_at": "2026-11-13T22:42:27+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "英伟达丑闻正在撕破特朗普政府表面上的团结",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261113-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%91%E9%97%BB%E6%AD%A3%E5%9C%A8%E6%92%95%E7%A0%B4%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A1%A8%E9%9D%A2%E4%B8%8A%E7%9A%84%E5%9B%A2%E7%BB%93",
+        "published_at": "2026-11-13T21:56:25+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "欧洲将参加下一轮乌克兰问题谈判，欧洲代表将出自五个欧洲国家加欧盟",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261113-%E6%AC%A7%E6%B4%B2%E5%B0%86%E5%8F%82%E5%8A%A0%E4%B8%8B%E4%B8%80%E8%BD%AE%E4%B9%8C%E5%85%8B%E5%85%B0%E9%97%AE%E9%A2%98%E8%B0%88%E5%88%A4%EF%BC%8C%E6%AC%A7%E6%B4%B2%E4%BB%A3%E8%A1%A8%E5%B0%86%E5%87%BA%E8%87%AA%E4%BA%94%E4%B8%AA%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B6%E5%8A%A0%E6%AC%A7%E7%9B%9F",
+        "published_at": "2026-11-13T21:11:29+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "乌军对俄境内目标发动大规模无人机攻击",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261113-%E4%B9%8C%E5%86%9B%E5%AF%B9%E4%BF%84%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BB%E5%87%BB",
+        "published_at": "2026-11-13T20:02:57+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "因涉嫌挪用人工智能芯片 马来西亚调查Megaspeed旗下子公司",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261113-%E5%9B%A0%E6%B6%89%E5%AB%8C%E6%8C%AA%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%B0%83%E6%9F%A5megaspeed%E6%97%97%E4%B8%8B%E5%AD%90%E5%85%AC%E5%8F%B8",
+        "published_at": "2026-11-13T18:45:23+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
       {
         "title": "Anthropic IPO传拒中国投资者认购",
         "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261113-anthropic-ipo%E4%BC%A0%E6%8B%92%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E8%B4%AD",
@@ -42,18 +105,100 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   },
   "中央社国际": {
-    "items": [],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "items": [
+      {
+        "title": "传辉达接洽安谋执行长哈斯 董事会：正在遴选猎才公司",
+        "link": "https://www.cna.com.tw/news/aopl/202611140011.aspx",
+        "published_at": "2026-11-13T22:36:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川习APEC会晤前 美中举行首次贸易委员会会议",
+        "link": "https://www.cna.com.tw/news/aopl/202611140008.aspx",
+        "published_at": "2026-11-13T21:54:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "油轮撞击纽奥良港河轮约130名乘客受困 已展开救援行动",
+        "link": "https://www.cna.com.tw/news/aopl/202611140007.aspx",
+        "published_at": "2026-11-13T21:39:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美10月趸售通膨居高不下 市场押注联准会12月升息",
+        "link": "https://www.cna.com.tw/news/aopl/202611140005.aspx",
+        "published_at": "2026-11-13T20:34:22+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "传辉达接洽安谋执行长哈斯 董事会：正在遴选猎才公司",
+        "link": "https://www.cna.com.tw/news/aopl/202611140011.aspx",
+        "published_at": "2026-11-13T22:36:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "科技股卖压仍重 美股多数跌",
+        "link": "https://www.cna.com.tw/news/afe/202611140010.aspx",
+        "published_at": "2026-11-13T22:25:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "交易员研判美伊谈判进展 油价平盘附近震荡",
+        "link": "https://www.cna.com.tw/news/afe/202611140009.aspx",
+        "published_at": "2026-11-13T22:15:32+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美10月趸售通膨居高不下 市场押注联准会12月升息",
+        "link": "https://www.cna.com.tw/news/aopl/202611140005.aspx",
+        "published_at": "2026-11-13T20:34:22+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "金融时报：辉达寻找新掌门人 安谋执行长哈斯列接班名单",
+        "link": "https://www.cna.com.tw/news/ait/202611140004.aspx",
+        "published_at": "2026-11-13T19:15:18+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "黄仁勋卸任辉达执行长重创科技股 欧股涨跌互见",
         "link": "https://www.cna.com.tw/news/afe/202611140002.aspx",
@@ -64,22 +209,32 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   },
   "中央社科技": {
-    "items": [],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "items": [
+      {
+        "title": "金融时报：辉达寻找新掌门人 安谋执行长哈斯列接班名单",
+        "link": "https://www.cna.com.tw/news/ait/202611140004.aspx",
+        "published_at": "2026-11-13T19:15:18+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-13T18:42:20.962617+00:00"
+    "last_success": "2026-11-13T23:53:43.095431+00:00"
   }
 }
