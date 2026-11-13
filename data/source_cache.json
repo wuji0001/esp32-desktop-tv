@@ -2,6 +2,69 @@
   "BBC中文": {
     "items": [
       {
+        "title": "九合一前夕：台湾几乎年年选举，会引起「投票疲劳」吗？",
+        "link": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T10:39:06+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "「台湾干爹」光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？",
+        "link": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T09:51:11+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋辞职余波：中国舆论场上的「间谍」迷因、选举猜想与股价「黑天鹅」",
+        "link": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T09:39:38+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "BBC调查揭英国「全球人才签证」造假产业：中介助移民冒充艺术家及科技专才",
+        "link": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T08:27:53+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "微软系统全球瘫痪：Outlook、Teams、Copilot受影响",
+        "link": "https://www.bbc.com/zhongwen/articles/crvg2d7v05yno/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T07:32:18+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "深陷丑闻的黄仁勋辞职，AI芯片巨头Nvidia陷入动荡",
+        "link": "https://www.bbc.com/zhongwen/articles/cmn80j4vnj1jo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T04:33:40+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋辞职：这位AI远见者，如何栽在自己的错误决定上",
+        "link": "https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T04:20:11+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "从科技巨星到跌落神坛——黄仁勋如何深陷丑闻漩涡？",
         "link": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-12T16:14:41+00:00",
@@ -20,10 +83,46 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "认罪在美当中国间谍的民运人士唐元隽遭叛缓刑三年、不必入狱",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261113-%E8%AE%A4%E7%BD%AA%E5%9C%A8%E7%BE%8E%E5%BD%93%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E7%9A%84%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB%E5%94%90%E5%85%83%E9%9A%BD%E9%81%AD%E5%8F%9B%E7%BC%93%E5%88%91%E4%B8%89%E5%B9%B4-%E4%B8%8D%E5%BF%85%E5%85%A5%E7%8B%B1",
+        "published_at": "2026-11-13T09:33:36+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "FBI反情报调查仍在进行 美司法部长指尚未就黄乐间谍指控得出定论",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261113-fbi%E5%8F%8D%E6%83%85%E6%8A%A5%E8%B0%83%E6%9F%A5%E4%BB%8D%E5%9C%A8%E8%BF%9B%E8%A1%8C-%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF%E6%8C%87%E5%B0%9A%E6%9C%AA%E5%B0%B1%E9%BB%84%E4%B9%90%E9%97%B4%E8%B0%8D%E6%8C%87%E6%8E%A7%E5%BE%97%E5%87%BA%E5%AE%9A%E8%AE%BA",
+        "published_at": "2026-11-13T09:11:00+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "香港法院为宏福苑火灾灾民索偿设关卡 须先协商和调解 诉讼权利受损否?",
+        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261113-%E9%A6%99%E6%B8%AF%E6%B3%95%E9%99%A2%E4%B8%BA%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BE%E7%81%BE%E6%B0%91%E7%B4%A2%E5%81%BF%E8%AE%BE%E5%85%B3%E5%8D%A1-%E9%A1%BB%E5%85%88%E5%8D%8F%E5%95%86%E5%92%8C%E8%B0%83%E8%A7%A3-%E8%AF%89%E8%AE%BC%E6%9D%83%E5%88%A9%E5%8F%97%E6%8D%9F%E5%90%A6",
+        "published_at": "2026-11-13T08:19:57+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普感觉习近平对黎智英怀敌意 料难争取释放",
+        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261113-%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E8%A7%89%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%80%80%E6%95%8C%E6%84%8F-%E6%96%99%E9%9A%BE%E4%BA%89%E5%8F%96%E9%87%8A%E6%94%BE",
+        "published_at": "2026-11-13T08:17:09+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "加沙：以军袭击汗尤尼斯纳赛尔医院，6人死亡",
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261112-%E5%8A%A0%E6%B2%99-%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%E6%B1%97%E5%B0%A4%E5%B0%BC%E6%96%AF%E7%BA%B3%E8%B5%9B%E5%B0%94%E5%8C%BB%E9%99%A2%EF%BC%8C6%E4%BA%BA%E6%AD%BB%E4%BA%A1",
@@ -124,366 +223,466 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   },
   "DW中文": {
-    "items": [],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "items": [
+      {
+        "title": "黄仁勋辞职后，美国司法部长称“从没说过Alice Huang是中国间谍”",
+        "link": "https://www.dw.com/zh/黄仁勋辞职后，美国司法部长称-从没说过alice-huang是中国间谍/a-79938408?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-13T10:21:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "京东收购Ceconomy 欲打造欧洲领先平台",
+        "link": "https://www.dw.com/zh/京东收购ceconomy-欲打造欧洲领先平台/a-79933405?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-13T07:33:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "美调查黄乐涉走私美超微产品 另传与华为有关联",
-        "link": "https://www.cna.com.tw/news/aopl/202611130055.aspx",
-        "published_at": "2026-11-13T02:43:44+00:00",
+        "title": "涉间谍中国男子离境 捷克检方批警方未通知影响追诉",
+        "link": "https://www.cna.com.tw/news/aopl/202611130257.aspx",
+        "published_at": "2026-11-13T10:21:07+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "黄仁勋卸任掀市场震荡 辉达选择权交易者押中长期反弹",
-        "link": "https://www.cna.com.tw/news/aopl/202611130047.aspx",
-        "published_at": "2026-11-13T02:06:26+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "忧移民车队北上 川普威胁对墨西哥关税加倍",
-        "link": "https://www.cna.com.tw/news/aopl/202611130046.aspx",
-        "published_at": "2026-11-13T02:04:24+00:00",
+        "title": "美拟扩大AI晶片出口管制 泰国总理：投资不受影响",
+        "link": "https://www.cna.com.tw/news/aopl/202611130222.aspx",
+        "published_at": "2026-11-13T09:19:52+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋同意赴众院说明涉中间谍疑云 出席日期协商中",
-        "link": "https://www.cna.com.tw/news/aopl/202611130042.aspx",
-        "published_at": "2026-11-13T01:53:15+00:00",
+        "title": "BBC：美国会议员要求黄仁勋12/3赴参议院作证",
+        "link": "https://www.cna.com.tw/news/aopl/202611130220.aspx",
+        "published_at": "2026-11-13T09:15:48+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "巴拉圭前总统官邸遭搜查 Ueno银行倒闭案扩大侦办",
-        "link": "https://www.cna.com.tw/news/aopl/202611130041.aspx",
-        "published_at": "2026-11-13T01:52:13+00:00",
+        "title": "伊朗称又1船在荷莫兹海峡触雷爆炸 载运液化天然气",
+        "link": "https://www.cna.com.tw/news/aopl/202611130216.aspx",
+        "published_at": "2026-11-13T09:08:37+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "普丁同意欧洲参与乌克兰和谈 泽伦斯基表示乐见",
-        "link": "https://www.cna.com.tw/news/aopl/202611130040.aspx",
-        "published_at": "2026-11-13T01:52:11+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "黄仁勋卷婚外情风暴辞辉达执行长 川普：令人难过",
-        "link": "https://www.cna.com.tw/news/aopl/202611130038.aspx",
-        "published_at": "2026-11-13T01:21:06+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "纽约3层楼建筑倒塌酿8死含2童 市府扩查百处工地",
-        "link": "https://www.cna.com.tw/news/aopl/202611130037.aspx",
-        "published_at": "2026-11-13T01:17:04+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "7届F1世界冠军探视加萨边界 吁开放援助物资入境",
-        "link": "https://www.cna.com.tw/news/aopl/202611130032.aspx",
-        "published_at": "2026-11-13T00:59:53+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "黄仁勋陷外遇风波请辞 川普叹：令人非常难过",
-        "link": "https://www.cna.com.tw/news/aopl/202611130031.aspx",
-        "published_at": "2026-11-13T00:50:51+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "立陶宛青年团体挺台发起抗议 反对政府更改台湾代表处名称",
-        "link": "https://www.cna.com.tw/news/aipl/202611130030.aspx",
-        "published_at": "2026-11-13T00:48:48+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "义大利3778校再收恐吓信 盗用台菲网域朝跨国混合战调查",
-        "link": "https://www.cna.com.tw/news/aopl/202611130028.aspx",
-        "published_at": "2026-11-13T00:27:44+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "巴西人口急速老化 长照与经济成最大挑战",
-        "link": "https://www.cna.com.tw/news/aopl/202611130027.aspx",
-        "published_at": "2026-11-13T00:26:42+00:00",
+        "title": "辉达财务长克瑞斯临危受命暂代执行长 曾质疑黄仁勋投资策略",
+        "link": "https://www.cna.com.tw/news/aopl/202611130211.aspx",
+        "published_at": "2026-11-13T08:56:26+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "矽谷业界评估美中对抗升级 企业恐难有模糊空间",
-        "link": "https://www.cna.com.tw/news/aopl/202611130025.aspx",
-        "published_at": "2026-11-13T00:06:37+00:00",
+        "title": "日媒：高市早苗下周出席APEC峰会 寻求与普丁会谈",
+        "link": "https://www.cna.com.tw/news/aopl/202611130199.aspx",
+        "published_at": "2026-11-13T08:33:00+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "黄仁勋去职 美国会续追辉达晶片流向、白宫是否知情",
-        "link": "https://www.cna.com.tw/news/aopl/202611130024.aspx",
-        "published_at": "2026-11-12T23:59:35+00:00",
+        "title": "因应AI资安威胁增加 泰国成立跨国小组加强防护",
+        "link": "https://www.cna.com.tw/news/aopl/202611130197.aspx",
+        "published_at": "2026-11-13T08:30:56+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "宾士宣布暂停投资德国工厂 劳资谈判僵局恐致关厂",
-        "link": "https://www.cna.com.tw/news/afe/202611130023.aspx",
-        "published_at": "2026-11-12T23:58:33+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "金融",
-        "cached": false
-      },
-      {
-        "title": "中国外交官员访立陶宛 立国外委会吁勿牺牲对台合作",
-        "link": "https://www.cna.com.tw/news/aopl/202611130022.aspx",
-        "published_at": "2026-11-12T23:34:30+00:00",
+        "title": "黄仁勋婚外情连环爆请辞 与川普互动大事记",
+        "link": "https://www.cna.com.tw/news/aopl/202611130167.aspx",
+        "published_at": "2026-11-13T07:17:50+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "西班牙住房危机大罢工 引爆大选前朝野与劳资激辩",
-        "link": "https://www.cna.com.tw/news/aopl/202611130021.aspx",
-        "published_at": "2026-11-12T23:26:28+00:00",
+        "title": "SpaceX砸740亿美元 德州亚利桑那州建AI超级电脑园区",
+        "link": "https://www.cna.com.tw/news/aopl/202611130164.aspx",
+        "published_at": "2026-11-13T07:06:43+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "黄仁勋如推销员全球经营政商人脉 美媒：离任后辉达面临考验",
-        "link": "https://www.cna.com.tw/news/aopl/202611130020.aspx",
-        "published_at": "2026-11-12T23:16:26+00:00",
+        "title": "辉达风波涉国安 美商务部长卢特尼克同意赴参院作证",
+        "link": "https://www.cna.com.tw/news/aopl/202611130157.aspx",
+        "published_at": "2026-11-13T06:46:28+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "黄仁勋卷间谍风波 传白宫讨论撤换商务部长卢特尼克",
-        "link": "https://www.cna.com.tw/news/aopl/202611130017.aspx",
-        "published_at": "2026-11-12T22:25:16+00:00",
+        "title": "FBI：北韩骇客利用视讯影像 窃逾4亿美元加密货币",
+        "link": "https://www.cna.com.tw/news/aopl/202611130152.aspx",
+        "published_at": "2026-11-13T06:34:18+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "马来西亚查晶片流向 澄清未认定Megaspeed无违规",
+        "link": "https://www.cna.com.tw/news/aopl/202611130129.aspx",
+        "published_at": "2026-11-13T05:20:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋爆婚外情请辞 马斯克留言认同创办人难取代",
+        "link": "https://www.cna.com.tw/news/aopl/202611130128.aspx",
+        "published_at": "2026-11-13T05:20:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋外遇风波延烧 马来西亚调查Megaspeed子公司",
+        "link": "https://www.cna.com.tw/news/aopl/202611130127.aspx",
+        "published_at": "2026-11-13T05:19:23+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "新加坡查AI伺服器诈欺案 起诉1男2公司涉洗钱",
+        "link": "https://www.cna.com.tw/news/aopl/202611130126.aspx",
+        "published_at": "2026-11-13T05:16:21+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美参院民主党领袖换人呼声起 范霍伦率先公开挑战舒默",
+        "link": "https://www.cna.com.tw/news/aopl/202611130119.aspx",
+        "published_at": "2026-11-13T04:46:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国国会拟收紧AI晶片对中出口 中国取得辉达晶片难度增",
+        "link": "https://www.cna.com.tw/news/aopl/202611130115.aspx",
+        "published_at": "2026-11-13T04:33:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普称中国深恨黎智英 获释前景不乐观",
+        "link": "https://www.cna.com.tw/news/aopl/202611130108.aspx",
+        "published_at": "2026-11-13T04:19:39+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋去职 日本政府关注AI产业及半导体供应链冲击",
+        "link": "https://www.cna.com.tw/news/aopl/202611130105.aspx",
+        "published_at": "2026-11-13T04:11:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "秘鲁天主教性侵丑闻延烧 教宗良十四世亲会受害者",
+        "link": "https://www.cna.com.tw/news/aopl/202611130100.aspx",
+        "published_at": "2026-11-13T03:55:21+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   },
   "中央社财经": {
     "items": [
       {
-        "title": "黄仁勋去职风波未扩大 台股强弹新台币震荡翻扬",
-        "link": "https://www.cna.com.tw/news/afe/202611130048.aspx",
-        "published_at": "2026-11-13T02:06:28+00:00",
+        "title": "华纸售观音厂予元太科技 处分利益估13.3亿元",
+        "link": "https://www.cna.com.tw/news/afe/202611130236.aspx",
+        "published_at": "2026-11-13T09:55:22+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋卸任掀市场震荡 辉达选择权交易者押中长期反弹",
-        "link": "https://www.cna.com.tw/news/aopl/202611130047.aspx",
-        "published_at": "2026-11-13T02:06:26+00:00",
+        "title": "浩鼎联手诺华签ADC平台全球授权 签约金3000万美元入袋",
+        "link": "https://www.cna.com.tw/news/afe/202611130234.aspx",
+        "published_at": "2026-11-13T09:45:18+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋辞职震撼AI晶片版图 投顾：台厂供应链仍无可取代",
-        "link": "https://www.cna.com.tw/news/afe/202611130043.aspx",
-        "published_at": "2026-11-13T01:54:17+00:00",
+        "title": "周年庆出国潮点火 5大银行10月合计刷卡金额3758亿",
+        "link": "https://www.cna.com.tw/news/afe/202611130231.aspx",
+        "published_at": "2026-11-13T09:43:12+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋辞辉达执行长 联发科等ASIC族群齐登涨停",
-        "link": "https://www.cna.com.tw/news/afe/202611130039.aspx",
-        "published_at": "2026-11-13T01:48:09+00:00",
+        "title": "三阳前3季每股赚4.37元 续聚焦机车汽车核心事业",
+        "link": "https://www.cna.com.tw/news/afe/202611130226.aspx",
+        "published_at": "2026-11-13T09:30:01+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋去职利空出尽 台股劲扬逾1200点突破44300点",
-        "link": "https://www.cna.com.tw/news/afe/202611130036.aspx",
-        "published_at": "2026-11-13T01:15:01+00:00",
+        "title": "台积电前3季获美德日中政府补助1675亿元 创新高",
+        "link": "https://www.cna.com.tw/news/afe/202611130225.aspx",
+        "published_at": "2026-11-13T09:23:58+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "散户大举逢低买进辉达 开盘暴跌14%后跌幅收敛",
-        "link": "https://www.cna.com.tw/news/afe/202611130035.aspx",
-        "published_at": "2026-11-13T01:06:59+00:00",
+        "title": "BBC：美国会议员要求黄仁勋12/3赴参议院作证",
+        "link": "https://www.cna.com.tw/news/aopl/202611130220.aspx",
+        "published_at": "2026-11-13T09:15:48+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "新台币开盘升1.9分 为32.87元",
-        "link": "https://www.cna.com.tw/news/afe/202611130034.aspx",
-        "published_at": "2026-11-13T01:04:57+00:00",
+        "title": "黄仁勋请辞引发辉达动荡 美媒：台积电、超微与博通有望受惠",
+        "link": "https://www.cna.com.tw/news/afe/202611130217.aspx",
+        "published_at": "2026-11-13T09:09:39+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "台股开盘涨627.88点",
-        "link": "https://www.cna.com.tw/news/afe/202611130033.aspx",
-        "published_at": "2026-11-13T01:03:55+00:00",
+        "title": "临危受命暂代执行长 辉达财务长克瑞斯曾质疑黄仁勋投资策略",
+        "link": "https://www.cna.com.tw/news/aopl/202611130211.aspx",
+        "published_at": "2026-11-13T08:56:26+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋去职台指期夜盘未见颓势 法人：台股可望回稳",
-        "link": "https://www.cna.com.tw/news/afe/202611130029.aspx",
-        "published_at": "2026-11-13T00:33:46+00:00",
+        "title": "黄仁勋风波冲击市场 亚股多收黑",
+        "link": "https://www.cna.com.tw/news/afe/202611130205.aspx",
+        "published_at": "2026-11-13T08:43:13+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "矽谷业界评估美中对抗升级 企业恐难有模糊空间",
-        "link": "https://www.cna.com.tw/news/aopl/202611130025.aspx",
-        "published_at": "2026-11-13T00:06:37+00:00",
+        "title": "黄仁勋辞CEO 台骅：空运影响有限、台韩日利多不变",
+        "link": "https://www.cna.com.tw/news/afe/202611130203.aspx",
+        "published_at": "2026-11-13T08:42:09+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋如推销员全球经营政商人脉 美媒：离任后辉达面临考验",
-        "link": "https://www.cna.com.tw/news/aopl/202611130020.aspx",
-        "published_at": "2026-11-12T23:16:26+00:00",
+        "title": "外资买超288亿 抢进ETF和金融股",
+        "link": "https://www.cna.com.tw/news/afe/202611130200.aspx",
+        "published_at": "2026-11-13T08:39:02+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋去职辉达跌4.34% 美超微受波及大跌11.30%",
-        "link": "https://www.cna.com.tw/news/afe/202611130019.aspx",
-        "published_at": "2026-11-12T23:09:23+00:00",
+        "title": "电电公会推波兰TEEMA园区产业链 逾50家台厂参展",
+        "link": "https://www.cna.com.tw/news/afe/202611130193.aspx",
+        "published_at": "2026-11-13T08:13:47+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋请辞后 辉达新任领导层致员工备忘录全文",
-        "link": "https://www.cna.com.tw/news/aopl/202611130016.aspx",
-        "published_at": "2026-11-12T21:57:13+00:00",
+        "title": "新台币升5.1分 收32.838元",
+        "link": "https://www.cna.com.tw/news/afe/202611130191.aspx",
+        "published_at": "2026-11-13T08:05:42+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "辉达下挫抵销能源股涨势 美股收低",
-        "link": "https://www.cna.com.tw/news/afe/202611130015.aspx",
-        "published_at": "2026-11-12T21:42:11+00:00",
+        "title": "央行明年缴库逾2200亿 外资持有台股占比大增恐影响上缴数",
+        "link": "https://www.cna.com.tw/news/afe/202611130189.aspx",
+        "published_at": "2026-11-13T08:01:38+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "沙乌地持续遇袭荷莫兹海峡受阻 国际油价大涨",
-        "link": "https://www.cna.com.tw/news/afe/202611130013.aspx",
-        "published_at": "2026-11-12T21:13:06+00:00",
+        "title": "推动智慧物流与资材循环 商业署：促进资讯即时共享",
+        "link": "https://www.cna.com.tw/news/afe/202611130186.aspx",
+        "published_at": "2026-11-13T07:55:31+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "企业财报等利多加持 欧股收高",
-        "link": "https://www.cna.com.tw/news/afe/202611130005.aspx",
-        "published_at": "2026-11-12T17:29:45+00:00",
+        "title": "日月光砸千亿元投资进驻南科 扩先进封装产能",
+        "link": "https://www.cna.com.tw/news/afe/202611130183.aspx",
+        "published_at": "2026-11-13T07:50:25+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋辞辉达执行长 川普喊话：库克应接任",
-        "link": "https://www.cna.com.tw/news/aopl/202611130003.aspx",
-        "published_at": "2026-11-12T16:44:40+00:00",
+        "title": "黄仁勋辞职撼动科技圈 施振荣：台湾核心能力无可取代",
+        "link": "https://www.cna.com.tw/news/afe/202611130182.aspx",
+        "published_at": "2026-11-13T07:48:23+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "辉达财务长克瑞斯任临时执行长 矢言推进AI领导者工作",
-        "link": "https://www.cna.com.tw/news/aopl/202611130002.aspx",
-        "published_at": "2026-11-12T16:39:38+00:00",
+        "title": "日月光扩Ainos化学智慧AI系统 推先进封装制造感测应用",
+        "link": "https://www.cna.com.tw/news/afe/202611130180.aspx",
+        "published_at": "2026-11-13T07:44:19+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "矽力估2027年营收增近30% 资料中心和车用驱动",
+        "link": "https://www.cna.com.tw/news/afe/202611130175.aspx",
+        "published_at": "2026-11-13T07:30:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "亚湾AI实证成果发表 携手微软、Google加速技术落地",
+        "link": "https://www.cna.com.tw/news/afe/202611130169.aspx",
+        "published_at": "2026-11-13T07:20:54+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       }
     ],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   },
   "中央社科技": {
     "items": [
+      {
+        "title": "AI太聪明抢老师饭碗？专家：让教师回归教育初心",
+        "link": "https://www.cna.com.tw/news/ait/202611130243.aspx",
+        "published_at": "2026-11-13T10:06:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "因应AI资安威胁增加 泰国成立跨国小组加强防护",
+        "link": "https://www.cna.com.tw/news/aopl/202611130197.aspx",
+        "published_at": "2026-11-13T08:30:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "微软365服务全球当机 亚太企业及政府机关受影响",
+        "link": "https://www.cna.com.tw/news/ait/202611130190.aspx",
+        "published_at": "2026-11-13T08:04:40+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "SpaceX将试射星舰 首度挑战发射塔回收上段太空船",
+        "link": "https://www.cna.com.tw/news/ait/202611130174.aspx",
+        "published_at": "2026-11-13T07:30:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "传记作者揭黄仁勋双面人设 私下如暴君痛骂高层1小时",
+        "link": "https://www.cna.com.tw/news/ait/202611130120.aspx",
+        "published_at": "2026-11-13T04:49:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "微软365全球当机抢修中 官方：代管邮件服务异常将尽快恢复",
+        "link": "https://www.cna.com.tw/news/ait/202611130092.aspx",
+        "published_at": "2026-11-13T03:44:04+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "微软365全球大当机波及日本政府 网友喊「干脆放假」",
+        "link": "https://www.cna.com.tw/news/ait/202611130089.aspx",
+        "published_at": "2026-11-13T03:35:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
       {
         "title": "「辉达之道」作者谈黄仁勋接班人 看好哈斯、巴克延续成功故事",
         "link": "https://www.cna.com.tw/news/ait/202611130018.aspx",
@@ -512,18 +711,101 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   },
   "中央社健康": {
-    "items": [],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "items": [
+      {
+        "title": "台东学生错打疫苗 疾管署：至少未落实三读五对等3大疏失",
+        "link": "https://www.cna.com.tw/news/ahel/202611130241.aspx",
+        "published_at": "2026-11-13T10:05:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      },
+      {
+        "title": "北医大办数位健康峰会 产官学谈AI医疗临床应用",
+        "link": "https://www.cna.com.tw/news/ahel/202611130132.aspx",
+        "published_at": "2026-11-13T05:27:34+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      },
+      {
+        "title": "误打莫德纳疫苗 台东3学生有倦怠感无发烧",
+        "link": "https://www.cna.com.tw/news/ahel/202611130097.aspx",
+        "published_at": "2026-11-13T03:48:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      },
+      {
+        "title": "健康台湾深耕计划第2阶段 陈志鸿指362案过关展现3大跃进",
+        "link": "https://www.cna.com.tw/news/ahel/202611130088.aspx",
+        "published_at": "2026-11-13T03:34:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-13T03:37:00.556446+00:00"
+    "items": [
+      {
+        "title": "九合一前夕：台湾几乎年年选举，会引起“投票疲劳”吗？",
+        "link": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/simp",
+        "published_at": "2026-11-13T02:39:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋辞职余波：中国舆论场上的“间谍”迷因、选举猜想与股价 ...",
+        "link": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/simp",
+        "published_at": "2026-11-13T01:39:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "BBC调查揭英国“全球人才签证”造假产业：中介助移民冒充艺术家及 ...",
+        "link": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/simp",
+        "published_at": "2026-11-13T00:27:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋辞任：人工智能远见者，如何栽在自己的错误决定上",
+        "link": "https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/simp",
+        "published_at": "2026-11-12T16:00:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "微软系统全球瘫痪：Outlook、Teams、Copilot受影响",
+        "link": "https://www.bbc.com/zhongwen/articles/crvg2d7v05yno/simp",
+        "published_at": "2026-11-12T16:00:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-13T11:30:26.803873+00:00"
   }
 }
