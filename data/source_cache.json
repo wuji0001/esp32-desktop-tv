@@ -2,6 +2,15 @@
   "BBC中文": {
     "items": [
       {
+        "title": "黄仁勋被召出席参议院听证 商务部长卢特尼克受波及同须作证",
+        "link": "https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T10:32:00+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "泽连斯基：美国提出乌克兰让出顿巴斯以换取加入北约",
         "link": "https://www.bbc.com/zhongwen/articles/cqgm3vnx3zx3o/trad?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-15T07:30:56+00:00",
@@ -38,10 +47,91 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "美国会四项法案有望通过 以收紧AI芯片出口及远程访问监管",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261115-%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%9B%9B%E9%A1%B9%E6%B3%95%E6%A1%88%E6%9C%89%E6%9C%9B%E9%80%9A%E8%BF%87-%E4%BB%A5%E6%94%B6%E7%B4%A7ai%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E5%8F%8A%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E7%9B%91%E7%AE%A1",
+        "published_at": "2026-11-15T14:42:23+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "Megaspeed据报曾安排将价值近120亿美元英伟达芯片运往中国企业",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261115-megaspeed%E6%8D%AE%E6%8A%A5%E6%9B%BE%E5%AE%89%E6%8E%92%E5%B0%86%E4%BB%B7%E5%80%BC%E8%BF%91120%E4%BA%BF%E7%BE%8E%E5%85%83%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E8%BF%90%E5%BE%80%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A",
+        "published_at": "2026-11-15T13:26:06+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "也门政府军从曼德海峡附近区域撤出 胡塞武装获取控制权",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261115-%E4%B9%9F%E9%97%A8%E6%94%BF%E5%BA%9C%E5%86%9B%E4%BB%8E%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E5%8C%BA%E5%9F%9F%E6%92%A4%E5%87%BA-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%8E%B7%E5%8F%96%E6%8E%A7%E5%88%B6%E6%9D%83",
+        "published_at": "2026-11-15T12:07:32+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "菲外长称《南海行为准则》完成达80%剩下留给新加坡 指东盟十国与中国对局势看法不同",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261115-%E8%8F%B2%E5%A4%96%E9%95%BF%E7%A7%B0-%E5%8D%97%E6%B5%B7%E8%A1%8C%E4%B8%BA%E5%87%86%E5%88%99-%E5%AE%8C%E6%88%90%E8%BE%BE80-%E5%89%A9%E4%B8%8B%E7%95%99%E7%BB%99%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%8C%87%E4%B8%9C%E7%9B%9F%E5%8D%81%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%B1%80%E5%8A%BF%E7%9C%8B%E6%B3%95%E4%B8%8D%E5%90%8C",
+        "published_at": "2026-11-15T11:43:20+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴林称拦截摧毁多次伊朗空中袭击 9月以来首次执行此类拦截任务",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261115-%E5%B7%B4%E6%9E%97%E6%8C%87%E6%8B%A6%E6%88%AA%E6%91%A7%E6%AF%81%E5%A4%9A%E6%AC%A1%E4%BC%8A%E6%9C%97%E7%A9%BA%E4%B8%AD%E8%A2%AD%E5%87%BB-9%E6%9C%88%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E6%89%A7%E8%A1%8C%E6%AD%A4%E7%B1%BB%E6%8B%A6%E6%88%AA%E4%BB%BB%E5%8A%A1",
+        "published_at": "2026-11-15T10:39:55+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "高市首相将在菲律宾倡议创立“亚洲版国际能源署”",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261115-%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E5%B0%86%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%80%A1%E8%AE%AE%E5%88%9B%E7%AB%8B-%E4%BA%9A%E6%B4%B2%E7%89%88%E5%9B%BD%E9%99%85%E8%83%BD%E6%BA%90%E7%BD%B2",
+        "published_at": "2026-11-15T10:23:08+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "新美高官会谈同意就共同关心问题，包括Megaspeed案保持沟通",
+        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261115-%E6%96%B0%E7%BE%8E%E9%AB%98%E5%AE%98%E4%BC%9A%E8%B0%88%E5%90%8C%E6%84%8F%E5%B0%B1%E5%85%B1%E5%90%8C%E5%85%B3%E5%BF%83%E9%97%AE%E9%A2%98%EF%BC%8C%E5%8C%85%E6%8B%ACmegaspeed%E6%A1%88%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+        "published_at": "2026-11-15T10:09:07+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "从禁飞、禁售到禁持：自周日起，北京全面禁止居民持有无人机",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261115-%E4%BB%8E%E7%A6%81%E9%A3%9E-%E7%A6%81%E5%94%AE%E5%88%B0%E7%A6%81%E6%8C%81-%E8%87%AA%E5%91%A8%E6%97%A5%E8%B5%B7%EF%BC%8C%E5%8C%97%E4%BA%AC%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%B1%85%E6%B0%91%E6%8C%81%E6%9C%89%E6%97%A0%E4%BA%BA%E6%9C%BA",
+        "published_at": "2026-11-15T09:19:36+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "俄罗斯获准回归国际冰球大赛，加拿大拒不执行，俄威胁索赔",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261115-%E4%BF%84%E7%BD%97%E6%96%AF%E8%8E%B7%E5%87%86%E5%9B%9E%E5%BD%92%E5%9B%BD%E9%99%85%E5%86%B0%E7%90%83%E5%A4%A7%E8%B5%9B%EF%BC%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E4%B8%8D%E6%89%A7%E8%A1%8C%EF%BC%8C%E4%BF%84%E5%A8%81%E8%83%81%E7%B4%A2%E8%B5%94",
+        "published_at": "2026-11-15T08:25:08+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "柏林的《日报》：黄仁勋事件可能会损害北京的利益",
         "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E6%8A%A5-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8D%9F%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A",
@@ -169,14 +259,231 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   },
   "DW中文": {
-    "items": [],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "items": [
+      {
+        "title": "德国举行全“国民哀悼日”纪念活动",
+        "link": "https://www.dw.com/zh/德国举行全-国民哀悼日-纪念活动/a-79952240?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-15T12:40:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美俄宣布“习特普”峰会将在深圳举行 北京处境微妙",
+        "link": "https://www.dw.com/zh/美俄宣布-习特普-峰会将在深圳举行-北京处境微妙/a-79952049?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-15T12:14:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "墙外文摘：黄仁勋事件、英伟达芯片、美国出口管制与中国影响力",
+        "link": "https://www.dw.com/zh/墙外文摘：黄仁勋事件、英伟达芯片、美国出口管制与中国影响力/a-79951500?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-15T09:48:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "德国劳动局长警告：AI将在15年内吞噬80万个就业岗位",
+        "link": "https://www.dw.com/zh/德国劳动局长警告：ai将在15年内吞噬80万个就业岗位/a-79928366?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-15T09:00:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "外来移民如何融入德国社会",
+        "link": "https://www.dw.com/zh/外来移民如何融入德国社会/a-79942066?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-15T08:34:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "美援1.5亿元助秘鲁规划港口建设 与中资控制钱凯港竞争",
+        "link": "https://www.cna.com.tw/news/aopl/202611150194.aspx",
+        "published_at": "2026-11-15T13:22:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国公务体系调薪增逾360亿元支出 未能阻止大罢工",
+        "link": "https://www.cna.com.tw/news/aopl/202611150193.aspx",
+        "published_at": "2026-11-15T13:10:13+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "「不良一族寻爱记2」网红彩朱被捕 涉无照经营酒店式酒吧",
+        "link": "https://www.cna.com.tw/news/aopl/202611150191.aspx",
+        "published_at": "2026-11-15T13:00:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "埃及首款本地组装电动车正式投产 充电设施不足待改善",
+        "link": "https://www.cna.com.tw/news/aopl/202611150188.aspx",
+        "published_at": "2026-11-15T12:53:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "菲律宾未能完成南海准则谈判 交棒新加坡续推进",
+        "link": "https://www.cna.com.tw/news/aopl/202611150182.aspx",
+        "published_at": "2026-11-15T12:05:46+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国柴油平均价格跌破每加仑6美元 创2个月来新低",
+        "link": "https://www.cna.com.tw/news/aopl/202611150177.aspx",
+        "published_at": "2026-11-15T11:16:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "共同社民调：逾6成日本民众认为消费税减税效果有限",
+        "link": "https://www.cna.com.tw/news/aopl/202611150164.aspx",
+        "published_at": "2026-11-15T09:59:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "印巴2025年冲突后 巴基斯坦代表首度获邀赴印度",
+        "link": "https://www.cna.com.tw/news/aopl/202611150163.aspx",
+        "published_at": "2026-11-15T09:58:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "Megaspeed：黄乐已于去年8月离职 现未担任任何职务",
+        "link": "https://www.cna.com.tw/news/aopl/202611150158.aspx",
+        "published_at": "2026-11-15T09:47:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "路透社公布黄仁勋与黄乐旧照 2024年台北电脑展亲密互动",
+        "link": "https://www.cna.com.tw/news/aopl/202611150156.aspx",
+        "published_at": "2026-11-15T09:32:46+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "台湾ACC史瓦帝尼15年院庆 展现数位教育智慧医疗成果",
+        "link": "https://www.cna.com.tw/news/aopl/202611150149.aspx",
+        "published_at": "2026-11-15T09:13:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      },
+      {
+        "title": "伊朗西部巴士翻覆 酿12死16伤",
+        "link": "https://www.cna.com.tw/news/aopl/202611150144.aspx",
+        "published_at": "2026-11-15T09:09:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美军F-15EX战机抵冲绳 首度常驻于美国之外",
+        "link": "https://www.cna.com.tw/news/aopl/202611150132.aspx",
+        "published_at": "2026-11-15T08:46:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普为翻新高球场要暂关华府市区公园 遭法官阻止",
+        "link": "https://www.cna.com.tw/news/aopl/202611150131.aspx",
+        "published_at": "2026-11-15T08:40:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法语国家高峰会登场 民主刚果扬言退出添阴霾",
+        "link": "https://www.cna.com.tw/news/aopl/202611150129.aspx",
+        "published_at": "2026-11-15T08:37:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "哥伦比亚巴士翻覆至少6死11伤 疑似驾驶睡著酿祸",
+        "link": "https://www.cna.com.tw/news/aopl/202611150123.aspx",
+        "published_at": "2026-11-15T08:19:34+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美日才同意美军犯罪防范措施 冲绳再传美军酒后涉公然猥亵",
+        "link": "https://www.cna.com.tw/news/aopl/202611150122.aspx",
+        "published_at": "2026-11-15T08:18:32+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "教宗南美行程进入尾声 将赴安地斯山区及亚马逊雨林",
+        "link": "https://www.cna.com.tw/news/aopl/202611150116.aspx",
+        "published_at": "2026-11-15T07:53:19+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美伊利诺州乙醇厂发现爆裂物 数千人疏散度过13号星期五惊魂夜",
+        "link": "https://www.cna.com.tw/news/aopl/202611150115.aspx",
+        "published_at": "2026-11-15T07:52:17+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "台菲联手打击网路诈骗 菲律宾移民局再逮4台男",
         "link": "https://www.cna.com.tw/news/aopl/202611150106.aspx",
@@ -185,183 +492,66 @@
         "via": "中央社",
         "category": "全球",
         "cached": false
-      },
-      {
-        "title": "可望接掌美众院民主党团主席 刘云平：全力支持台湾自我防卫",
-        "link": "https://www.cna.com.tw/news/aopl/202611150105.aspx",
-        "published_at": "2026-11-15T07:22:55+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "瓜地马拉两省宣布紧急状态 国会议员遭枪击身亡后加强维安",
-        "link": "https://www.cna.com.tw/news/aopl/202611150099.aspx",
-        "published_at": "2026-11-15T06:53:41+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "高市早苗拟提成立亚洲版国际能源总署 日本收费替东南亚储石油",
-        "link": "https://www.cna.com.tw/news/aopl/202611150098.aspx",
-        "published_at": "2026-11-15T06:50:39+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "反制中国南海扩张 菲律宾与澳洲签署新国防协议",
-        "link": "https://www.cna.com.tw/news/aopl/202611150097.aspx",
-        "published_at": "2026-11-15T06:47:37+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "沙乌地联军拦截2枚飞弹 东部击落3架无人机",
-        "link": "https://www.cna.com.tw/news/aopl/202611150095.aspx",
-        "published_at": "2026-11-15T06:35:32+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "巴林防空警报大作 伊朗革命卫队称攻击美军雷达系统",
-        "link": "https://www.cna.com.tw/news/aopl/202611150094.aspx",
-        "published_at": "2026-11-15T06:34:30+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "亚洲女性国会议员论坛 聚焦参政与实质决策权",
-        "link": "https://www.cna.com.tw/news/aopl/202611150087.aspx",
-        "published_at": "2026-11-15T06:07:14+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "菲澳签署国防合作安排 菲防长铁欧多洛：强化南海吓阻能力",
-        "link": "https://www.cna.com.tw/news/aopl/202611150086.aspx",
-        "published_at": "2026-11-15T05:57:12+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "COP31各国争论升温目标 1.5度防线面临挑战",
-        "link": "https://www.cna.com.tw/news/aopl/202611150080.aspx",
-        "published_at": "2026-11-15T05:41:59+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "捍卫国际秩序受肯定 加拿大总理获颁「民主奖章」",
-        "link": "https://www.cna.com.tw/news/aopl/202611150079.aspx",
-        "published_at": "2026-11-15T05:39:57+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "南韩税务师国考榜首坦承利用AI作弊 警方展开调查",
-        "link": "https://www.cna.com.tw/news/aopl/202611150077.aspx",
-        "published_at": "2026-11-15T05:25:52+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "韩国个资外泄事件拉警报 大学、公营机构也遭骇",
-        "link": "https://www.cna.com.tw/news/aopl/202611150074.aspx",
-        "published_at": "2026-11-15T05:20:46+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "日媒：美国驻军费用拟倍增 日本感到为难",
-        "link": "https://www.cna.com.tw/news/aopl/202611150070.aspx",
-        "published_at": "2026-11-15T05:07:35+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美提议乌克兰割地换加入北约 泽伦斯基：若有完整保障会交付公投",
-        "link": "https://www.cna.com.tw/news/aopl/202611150066.aspx",
-        "published_at": "2026-11-15T04:51:26+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "东协峰会登场聚焦南海等议题 川普17日将抵马尼拉",
-        "link": "https://www.cna.com.tw/news/aopl/202611150060.aspx",
-        "published_at": "2026-11-15T04:34:13+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "凯特王妃抗癌后最大海外访问 偕威廉王子访印度颁环保奖",
-        "link": "https://www.cna.com.tw/news/aopl/202611150058.aspx",
-        "published_at": "2026-11-15T04:31:09+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "以色列总理尼坦雅胡再吁组团结政府 对手艾森科特斥政治伎俩",
-        "link": "https://www.cna.com.tw/news/aopl/202611150050.aspx",
-        "published_at": "2026-11-15T03:43:51+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美中俄峰会在即 日媒：高市拟先与川普对话",
-        "link": "https://www.cna.com.tw/news/aopl/202611150049.aspx",
-        "published_at": "2026-11-15T03:40:48+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美航空总署指承包商路由器酿航班停摆 预估15日恢复正常",
-        "link": "https://www.cna.com.tw/news/aopl/202611150036.aspx",
-        "published_at": "2026-11-15T03:23:21+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
       }
     ],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "埃及首款本地组装电动车正式投产 充电设施不足待改善",
+        "link": "https://www.cna.com.tw/news/aopl/202611150188.aspx",
+        "published_at": "2026-11-15T12:53:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "银行业股市未实现利益9371亿创新高 债券未实现损失扩大",
+        "link": "https://www.cna.com.tw/news/afe/202611150180.aspx",
+        "published_at": "2026-11-15T11:42:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美国柴油平均价格跌破每加仑6美元 创2个月来新低",
+        "link": "https://www.cna.com.tw/news/aopl/202611150177.aspx",
+        "published_at": "2026-11-15T11:16:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "首届新光认真杯匹克球赛参与踊跃 明年扩大举办规模",
+        "link": "https://www.cna.com.tw/news/ahel/202611150173.aspx",
+        "published_at": "2026-11-15T10:49:26+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "用户帐单金额传暴增 中华电：将重发正确简讯内容",
+        "link": "https://www.cna.com.tw/news/ahel/202611150126.aspx",
+        "published_at": "2026-11-15T08:26:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "蔡明兴获颁台大名誉博士 分享3大人生感悟勉励学子",
+        "link": "https://www.cna.com.tw/news/afe/202611150093.aspx",
+        "published_at": "2026-11-15T06:30:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "台塑化：16日起汽柴油价格维持不变",
         "link": "https://www.cna.com.tw/news/ahel/202611150083.aspx",
@@ -417,10 +607,19 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   },
   "中央社科技": {
     "items": [
+      {
+        "title": "黄仁勋风波后美恐紧缩晶片出口 中国官媒忧冲击尖端算力",
+        "link": "https://www.cna.com.tw/news/acn/202611150102.aspx",
+        "published_at": "2026-11-15T07:14:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
       {
         "title": "美台高科技论坛矽谷登场 辉达副总裁强调台湾为关键供应链",
         "link": "https://www.cna.com.tw/news/ait/202611150091.aspx",
@@ -449,7 +648,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   },
   "中央社健康": {
     "items": [
@@ -463,14 +662,23 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   },
   "Bing中文国际": {
     "items": [
+      {
+        "title": "白宫确认特朗普、习近平和普京将在深圳APEC期间举行历史性三方会晤",
+        "link": "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/simp",
+        "published_at": "2026-11-14T22:04:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "泽连斯基：美国提出乌克兰让出顿巴斯以换取加入北约",
         "link": "https://www.bbc.com/zhongwen/articles/cqgm3vnx3zx3o/simp",
@@ -479,17 +687,8 @@
         "via": "Bing News",
         "category": "全球",
         "cached": false
-      },
-      {
-        "title": "白宫确认特朗普、习近平和普京将在深圳APEC期间举行历史性三方会晤",
-        "link": "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/simp",
-        "published_at": "2026-11-14T16:00:00+00:00",
-        "source": "BBC",
-        "via": "Bing News",
-        "category": "全球",
-        "cached": false
       }
     ],
-    "last_success": "2026-11-15T07:58:39.429047+00:00"
+    "last_success": "2026-11-15T15:36:07.845151+00:00"
   }
 }
