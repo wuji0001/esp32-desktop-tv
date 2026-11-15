@@ -1,10 +1,19 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "柏林的《日报》：黄仁勋事件可能会损害北京的利益",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E6%8A%A5-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8D%9F%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A",
+        "published_at": "2026-11-14T22:10:13+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "特习会在即，美农民关注农产品贸易和关税问题",
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261114-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%9C%A8%E5%8D%B3%EF%BC%8C%E7%BE%8E%E5%86%9C%E6%B0%91%E5%85%B3%E6%B3%A8%E5%86%9C%E4%BA%A7%E5%93%81%E8%B4%B8%E6%98%93%E5%92%8C%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98",
@@ -123,14 +132,68 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "民主党期中选举大胜 党内对川普与经济路线分歧",
+        "link": "https://www.cna.com.tw/news/aopl/202611150014.aspx",
+        "published_at": "2026-11-15T00:28:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "巴西今年首见M痘死亡病例 暂不列为疫情爆发",
+        "link": "https://www.cna.com.tw/news/aopl/202611150012.aspx",
+        "published_at": "2026-11-15T00:22:26+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "台湾当代录像艺术西班牙LABoral开展 呈现多元文化地景",
+        "link": "https://www.cna.com.tw/news/acul/202611150011.aspx",
+        "published_at": "2026-11-15T00:11:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美官员说明航班停飞记者会 现场麦克风连环出包",
+        "link": "https://www.cna.com.tw/news/aopl/202611150010.aspx",
+        "published_at": "2026-11-14T23:51:21+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "比利时列日10月示威343人被捕 逾半数未成年",
+        "link": "https://www.cna.com.tw/news/aopl/202611150009.aspx",
+        "published_at": "2026-11-14T23:27:19+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国麻疹酿多死、疫情数十年来最严重 清零地位撤销",
+        "link": "https://www.cna.com.tw/news/aopl/202611150007.aspx",
+        "published_at": "2026-11-14T21:59:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "马克宏批限缩援助乌克兰形同认输 恐酿新战争",
         "link": "https://www.cna.com.tw/news/aopl/202611150006.aspx",
@@ -141,7 +204,7 @@
         "cached": false
       },
       {
-        "title": "全美航班暂停起飞疑因设备问题或人为失误 15日恢复正常航班",
+        "title": "全美国航班15日恢复正常 暂停起飞事件疑设备问题或人为失误",
         "link": "https://www.cna.com.tw/news/aopl/202611150005.aspx",
         "published_at": "2026-11-14T19:54:04+00:00",
         "source": "中央社",
@@ -150,7 +213,7 @@
         "cached": false
       },
       {
-        "title": "辉达两大股东吁审慎评估领导人选 黄仁勋回任列入考量",
+        "title": "辉达两大股东吁审慎评估领导人选 将「黄仁勋回任」列入考量",
         "link": "https://www.cna.com.tw/news/aopl/202611150004.aspx",
         "published_at": "2026-11-14T19:30:02+00:00",
         "source": "中央社",
@@ -168,14 +231,23 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   },
   "中央社财经": {
     "items": [],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   },
   "中央社科技": {
     "items": [
+      {
+        "title": "SpaceX首度完成太空船捕捉回收 星舰返回发射台[影]",
+        "link": "https://www.cna.com.tw/news/ait/202611150008.aspx",
+        "published_at": "2026-11-14T22:47:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
       {
         "title": "辉达两大股东吁审慎评估领导人选 黄仁勋回任列入考量",
         "link": "https://www.cna.com.tw/news/aopl/202611150004.aspx",
@@ -186,18 +258,18 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-14T21:34:32.838191+00:00"
+    "last_success": "2026-11-15T01:17:16.077757+00:00"
   }
 }
