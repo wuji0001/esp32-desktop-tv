@@ -2,9 +2,45 @@
   "BBC中文": {
     "items": [
       {
+        "title": "英国女子遭丈夫下药，13年间被陌生男子轮流性侵",
+        "link": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T09:24:25+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "缅甸种族灭绝裁决影响深远的历史意义",
+        "link": "https://www.bbc.com/zhongwen/articles/c5n4eylmmg8po/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T08:53:00+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "Anthropic 破纪录IPO能否阻止AI泡沫破裂？",
+        "link": "https://www.bbc.com/zhongwen/articles/cw7v2zlle4v4o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T07:52:14+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "科技",
+        "cached": false
+      },
+      {
         "title": "从仓颉换成汉语拼音：电脑输入法会影响下一代学习中文吗？",
         "link": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T00:33:32+00:00",
+        "published_at": "2026-11-20T06:12:18+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中俄美三方峰会「场面大于实质成果」",
+        "link": "https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T05:46:09+00:00",
         "source": "BBC",
         "via": "BBC",
         "category": "全球",
@@ -20,10 +56,82 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "美国议员建议禁止认证中国制造飞机，限制对中国航天业及其法国合作伙伴的投资",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261120-%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%91%98%E5%BB%BA%E8%AE%AE%E7%A6%81%E6%AD%A2%E8%AE%A4%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E9%A3%9E%E6%9C%BA%EF%BC%8C%E9%99%90%E5%88%B6%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%B8%9A%E5%8F%8A%E5%85%B6%E6%B3%95%E5%9B%BD%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E7%9A%84%E6%8A%95%E8%B5%84",
+        "published_at": "2026-11-20T09:58:50+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "APEC峰会结束后，中国敦促日本纠正涉台错误言论，在历史问题上调整自身“态度”",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261120-apec%E5%B3%B0%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%95%A6%E4%BF%83%E6%97%A5%E6%9C%AC%E7%BA%A0%E6%AD%A3%E6%B6%89%E5%8F%B0%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%EF%BC%8C%E5%9C%A8%E5%8E%86%E5%8F%B2%E9%97%AE%E9%A2%98%E4%B8%8A%E8%B0%83%E6%95%B4%E8%87%AA%E8%BA%AB-%E6%80%81%E5%BA%A6",
+        "published_at": "2026-11-20T09:37:05+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普离开时，白宫罕见收缴“空军一号”上记者手机",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261120-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E6%97%B6%EF%BC%8C%E7%99%BD%E5%AE%AB%E7%BD%95%E8%A7%81%E6%94%B6%E7%BC%B4-%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7-%E4%B8%8A%E8%AE%B0%E8%80%85%E6%89%8B%E6%9C%BA",
+        "published_at": "2026-11-20T09:24:01+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国加州检察官对英伟达及其对华芯片销售展开调查",
+        "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261120-%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E6%A3%80%E5%AF%9F%E5%AE%98%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%8A%E5%85%B6%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5",
+        "published_at": "2026-11-20T09:14:38+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "澳总理称与习近平的会谈“富有建设性”，将妥善处理双方分歧",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261120-%E6%BE%B3%E6%80%BB%E7%90%86%E7%A7%B0%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BC%9A%E8%B0%88-%E5%AF%8C%E6%9C%89%E5%BB%BA%E8%AE%BE%E6%80%A7-%EF%BC%8C%E5%B0%86%E5%A6%A5%E5%96%84%E5%A4%84%E7%90%86%E5%8F%8C%E6%96%B9%E5%88%86%E6%AD%A7",
+        "published_at": "2026-11-20T08:55:50+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "苹果公司因计划性淘汰产品和阻止iPhone维修在巴黎受审",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261120-%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%9B%A0%E8%AE%A1%E5%88%92%E6%80%A7%E6%B7%98%E6%B1%B0%E4%BA%A7%E5%93%81%E5%92%8C%E9%98%BB%E6%AD%A2iphone%E7%BB%B4%E4%BF%AE%E5%B0%86%E5%9C%A8%E5%B7%B4%E9%BB%8E%E5%8F%97%E5%AE%A1",
+        "published_at": "2026-11-20T06:20:23+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "习近平以APEC力捧深圳 香港称配合 评论指香港沦深圳发展「提款机」",
+        "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261120-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BB%A5apec%E5%8A%9B%E6%8D%A7%E6%B7%B1%E5%9C%B3-%E9%A6%99%E6%B8%AF%E7%A7%B0%E9%85%8D%E5%90%88-%E8%AF%84%E8%AE%BA%E6%8C%87%E9%A6%99%E6%B8%AF%E6%B2%A6%E6%B7%B1%E5%9C%B3%E5%8F%91%E5%B1%95-%E6%8F%90%E6%AC%BE%E6%9C%BA",
+        "published_at": "2026-11-20T06:18:40+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "习特深圳会晤未见提及黎智英 会前黎智英获美颁民主奖 其子续吁为父争自由",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261120-%E4%B9%A0%E7%89%B9%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%E6%9C%AA%E8%A7%81%E6%8F%90%E5%8F%8A%E9%BB%8E%E6%99%BA%E8%8B%B1-%E4%BC%9A%E5%89%8D%E9%BB%8E%E6%99%BA%E8%8B%B1%E8%8E%B7%E7%BE%8E%E9%A2%81%E6%B0%91%E4%B8%BB%E5%A5%96-%E5%85%B6%E5%AD%90%E7%BB%AD%E5%90%81%E4%B8%BA%E7%88%B6%E4%BA%89%E8%87%AA%E7%94%B1",
+        "published_at": "2026-11-20T06:12:50+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "习近平 特朗普 普京 谁是最大的赢家",
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-%E4%B9%A0%E8%BF%91%E5%B9%B3-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC-%E8%B0%81%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B5%A2%E5%AE%B6",
@@ -115,294 +223,412 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   },
   "DW中文": {
-    "items": [],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "items": [
+      {
+        "title": "黄仁勋卷国安风波 如何影响美对中出口管制？",
+        "link": "https://www.dw.com/zh/黃仁勳捲國安風波-如何影響美對中出口管制？/a-79998608?maca=chi-rss-chi-all-1127-rdf",
+        "published_at": "2026-11-20T05:27:00+00:00",
+        "source": "DW",
+        "via": "DW",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "台欧关系持续升温 欧洲议会议员与台交流频遭中国施压",
-        "link": "https://www.cna.com.tw/news/aipl/202611200023.aspx",
-        "published_at": "2026-11-20T00:16:26+00:00",
+        "title": "大马盼解决难民问题 拟将1万洛兴雅人安置到土耳其",
+        "link": "https://www.cna.com.tw/news/aopl/202611200263.aspx",
+        "published_at": "2026-11-20T09:46:09+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "韦德齐5度当选捷克参议长 布拉格副市长接任市长",
-        "link": "https://www.cna.com.tw/news/aopl/202611200022.aspx",
-        "published_at": "2026-11-19T23:53:23+00:00",
+        "title": "龙潭爱乐管弦乐团印尼演出 多元曲目传递台湾文化",
+        "link": "https://www.cna.com.tw/news/acul/202611200243.aspx",
+        "published_at": "2026-11-20T09:20:24+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美媒：台积电暂停中国16奈米以下订单 替代辉达晶片研发受阻",
-        "link": "https://www.cna.com.tw/news/aopl/202611200021.aspx",
-        "published_at": "2026-11-19T23:51:21+00:00",
+        "title": "彭博记者提问黄仁勋问题 遭中国禁止采访美中俄领袖峰会",
+        "link": "https://www.cna.com.tw/news/aopl/202611200242.aspx",
+        "published_at": "2026-11-20T09:19:22+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "瑞士技职展聚焦AI冲击 职人分享不可取代专业价值",
-        "link": "https://www.cna.com.tw/news/aopl/202611200020.aspx",
-        "published_at": "2026-11-19T23:34:18+00:00",
+        "title": "黄仁勋婚外情风波涉间谍指控 美国亚裔女性受冲击",
+        "link": "https://www.cna.com.tw/news/aopl/202611200225.aspx",
+        "published_at": "2026-11-20T09:07:46+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "促性别平权 德国海德堡开放女性公共泳池裸上身游泳",
-        "link": "https://www.cna.com.tw/news/aopl/202611200019.aspx",
-        "published_at": "2026-11-19T23:29:16+00:00",
+        "title": "走过东德独裁年代 德国会专使深化台德转型正义合作【专访】",
+        "link": "https://www.cna.com.tw/news/aopl/202611200223.aspx",
+        "published_at": "2026-11-20T09:01:42+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "美媒：美中俄峰会未取得重大突破 川普普丁习近平各有盘算",
-        "link": "https://www.cna.com.tw/news/aopl/202611200018.aspx",
-        "published_at": "2026-11-19T23:25:14+00:00",
+        "title": "韩国通报10年来首起霍乱病例 患者过去2个月未出国",
+        "link": "https://www.cna.com.tw/news/aopl/202611200221.aspx",
+        "published_at": "2026-11-20T09:00:37+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "专家分析川习会：美中关系更加困难 台湾议题未有共识",
-        "link": "https://www.cna.com.tw/news/aopl/202611200017.aspx",
-        "published_at": "2026-11-19T23:24:12+00:00",
+        "title": "涉用军机运毒逾96公斤 马来西亚逮5军官等11人",
+        "link": "https://www.cna.com.tw/news/aopl/202611200212.aspx",
+        "published_at": "2026-11-20T08:42:18+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "中国市场扭曲危及产业就业 欧议员联名促欧盟积极应对",
-        "link": "https://www.cna.com.tw/news/aopl/202611200016.aspx",
-        "published_at": "2026-11-19T23:14:09+00:00",
+        "title": "沈昭良摄影展东京登场 舞台车文化展现台湾独特风景",
+        "link": "https://www.cna.com.tw/news/acul/202611200207.aspx",
+        "published_at": "2026-11-20T08:28:07+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "川普称普丁是「朋友」 乌克兰盟友吁勿重演雅尔达式瓜分",
-        "link": "https://www.cna.com.tw/news/aopl/202611200015.aspx",
-        "published_at": "2026-11-19T23:02:07+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "AI晶片出口中国引国安争议 美众院揭近88万颗核准数据",
-        "link": "https://www.cna.com.tw/news/aopl/202611200014.aspx",
-        "published_at": "2026-11-19T22:56:05+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "最新财务申报曝光 川普9月买进逾870万辉达股票",
-        "link": "https://www.cna.com.tw/news/aopl/202611200013.aspx",
-        "published_at": "2026-11-19T21:58:59+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美特使会欧洲盟友 称俄不排斥乌克兰获得类北约安全保障",
-        "link": "https://www.cna.com.tw/news/aopl/202611200010.aspx",
-        "published_at": "2026-11-19T20:47:52+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美中俄峰会同日基辅遇袭 荷兰、奥地利使馆受损",
-        "link": "https://www.cna.com.tw/news/aopl/202611200009.aspx",
-        "published_at": "2026-11-19T20:07:49+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "超微股价重挫8% 中国供应链疑虑冲击",
-        "link": "https://www.cna.com.tw/news/aopl/202611200008.aspx",
-        "published_at": "2026-11-19T19:57:46+00:00",
+        "title": "东协电网计划受瞩 新加坡盼吸引投资促区域经济成长",
+        "link": "https://www.cna.com.tw/news/aopl/202611200200.aspx",
+        "published_at": "2026-11-20T08:16:52+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "川普结束中国行返美 20日在白宫召开记者会",
-        "link": "https://www.cna.com.tw/news/aopl/202611200007.aspx",
-        "published_at": "2026-11-19T19:05:43+00:00",
+        "title": "基辅3座大桥遭俄袭击酿3死15伤 开战以来最大规模",
+        "link": "https://www.cna.com.tw/news/aopl/202611200184.aspx",
+        "published_at": "2026-11-20T07:50:18+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "叶门叛军袭击沙乌地阿拉伯首都 市内最高楼受损",
-        "link": "https://www.cna.com.tw/news/aopl/202611200006.aspx",
-        "published_at": "2026-11-19T18:12:40+00:00",
+        "title": "路透：美议员吁限制对中航太投资 不应认证中国制客机",
+        "link": "https://www.cna.com.tw/news/aopl/202611200177.aspx",
+        "published_at": "2026-11-20T07:43:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "韩国AI作弊争议 李在明：改革考试制度严惩违规",
+        "link": "https://www.cna.com.tw/news/aopl/202611200159.aspx",
+        "published_at": "2026-11-20T07:15:24+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "称伊朗研究生化武器 川普：看元旦后美伊局势如何发展",
-        "link": "https://www.cna.com.tw/news/aopl/202611200003.aspx",
-        "published_at": "2026-11-19T17:45:33+00:00",
+        "title": "中国接待高市早苗惹议 日政府：不评论他国礼宾安排",
+        "link": "https://www.cna.com.tw/news/aopl/202611200149.aspx",
+        "published_at": "2026-11-20T06:57:02+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄循财会见习近平 重申新加坡支持台海和平发展",
+        "link": "https://www.cna.com.tw/news/aopl/202611200145.aspx",
+        "published_at": "2026-11-20T06:48:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "印尼总统普拉伯沃会习近平 商讨经济投资与南海合作",
+        "link": "https://www.cna.com.tw/news/aopl/202611200144.aspx",
+        "published_at": "2026-11-20T06:47:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美参院通过能源许可改革法案 资料中心须自付电网升级",
+        "link": "https://www.cna.com.tw/news/aopl/202611200140.aspx",
+        "published_at": "2026-11-20T06:35:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "习近平晤艾班尼斯 赞中澳关系全面转圜盼扩大AI合作",
+        "link": "https://www.cna.com.tw/news/aopl/202611200124.aspx",
+        "published_at": "2026-11-20T05:54:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "辉达共同创办人员工大会哽咽 批黄仁勋「背叛公司核心价值」",
+        "link": "https://www.cna.com.tw/news/aopl/202611200115.aspx",
+        "published_at": "2026-11-20T05:26:49+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "马来西亚研议改善投资保障协定 须兼顾国家利益与外交政策",
+        "link": "https://www.cna.com.tw/news/aopl/202611200110.aspx",
+        "published_at": "2026-11-20T05:02:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "联合国气候谈判进入关键时刻 草案未提化石燃料引分歧",
+        "link": "https://www.cna.com.tw/news/aopl/202611200104.aspx",
+        "published_at": "2026-11-20T04:44:22+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   },
   "中央社财经": {
     "items": [
       {
-        "title": "调查：62%民众投资债券ETF 逾半为长期投资、领取配息",
-        "link": "https://www.cna.com.tw/news/afe/202611200036.aspx",
-        "published_at": "2026-11-20T01:19:54+00:00",
+        "title": "AI前景疑虑罩顶族群重挫 法人：筹码沉淀是止跌关键",
+        "link": "https://www.cna.com.tw/news/afe/202611200249.aspx",
+        "published_at": "2026-11-20T09:28:37+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "AI题材信心溃散 台股大跌逾1600点失守37000点大关",
-        "link": "https://www.cna.com.tw/news/afe/202611200034.aspx",
-        "published_at": "2026-11-20T01:15:50+00:00",
+        "title": "台股重挫 证交所：短期市场波动不改产业基本面",
+        "link": "https://www.cna.com.tw/news/afe/202611200247.aspx",
+        "published_at": "2026-11-20T09:24:32+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "新台币开盘贬1.8分 为32.96元",
-        "link": "https://www.cna.com.tw/news/afe/202611200032.aspx",
-        "published_at": "2026-11-20T01:08:46+00:00",
+        "title": "研调：11月下旬需求弱成本仍高 面板价格持平",
+        "link": "https://www.cna.com.tw/news/afe/202611200231.aspx",
+        "published_at": "2026-11-20T09:13:59+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "受美股晶片股下跌拖累 日经指数早盘跌逾3%",
-        "link": "https://www.cna.com.tw/news/afe/202611200031.aspx",
-        "published_at": "2026-11-20T01:07:43+00:00",
+        "title": "中华电：没放弃AWS低轨卫星合作 盼协调28GHz频谱",
+        "link": "https://www.cna.com.tw/news/afe/202611200226.aspx",
+        "published_at": "2026-11-20T09:10:48+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "台股开盘跌780.76点",
-        "link": "https://www.cna.com.tw/news/afe/202611200030.aspx",
-        "published_at": "2026-11-20T01:02:41+00:00",
+        "title": "外资卖超94亿元连5卖 续砍ETF敲进联电、群创",
+        "link": "https://www.cna.com.tw/news/afe/202611200224.aspx",
+        "published_at": "2026-11-20T09:05:44+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "黄仁勋涉中国间谍疑云 加州检察长向辉达发传票",
-        "link": "https://www.cna.com.tw/news/aopl/202611200029.aspx",
-        "published_at": "2026-11-20T00:55:39+00:00",
+        "title": "台股单周下跌7641点史上之最 本土法人加入停损行列",
+        "link": "https://www.cna.com.tw/news/afe/202611200217.aspx",
+        "published_at": "2026-11-20T08:54:29+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "AI利空频传 法人：台股跌破年线整理时间恐拉长",
-        "link": "https://www.cna.com.tw/news/afe/202611200025.aspx",
-        "published_at": "2026-11-20T00:20:30+00:00",
+        "title": "10月青安3.0累计拨贷384亿元 育儿宅占比逾2成",
+        "link": "https://www.cna.com.tw/news/afe/202611200211.aspx",
+        "published_at": "2026-11-20T08:41:16+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "路透：台积电暂停中国16奈米以下订单 替代辉达晶片研发受阻",
-        "link": "https://www.cna.com.tw/news/aopl/202611200021.aspx",
-        "published_at": "2026-11-19T23:51:21+00:00",
+        "title": "和泰车：今年车市估43万辆 观察AI产业震荡",
+        "link": "https://www.cna.com.tw/news/afe/202611200209.aspx",
+        "published_at": "2026-11-20T08:35:11+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "美股收挫 Anthropic涨逾17%未能带动大盘",
-        "link": "https://www.cna.com.tw/news/afe/202611200012.aspx",
-        "published_at": "2026-11-19T21:42:57+00:00",
+        "title": "台股暴跌6.23% 4档2倍杠杆ETF跌幅13%起跳",
+        "link": "https://www.cna.com.tw/news/afe/202611200204.aspx",
+        "published_at": "2026-11-20T08:23:00+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "油轮运输受阻抵销供应过剩疑虑 国际油价持平",
-        "link": "https://www.cna.com.tw/news/afe/202611200011.aspx",
-        "published_at": "2026-11-19T21:07:54+00:00",
+        "title": "数发部：强化资安自主能量 今年累计培训逾3900名资安人才",
+        "link": "https://www.cna.com.tw/news/afe/202611200203.aspx",
+        "published_at": "2026-11-20T08:21:58+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "中国供应链疑虑冲击超微 股价重挫8%",
-        "link": "https://www.cna.com.tw/news/aopl/202611200008.aspx",
-        "published_at": "2026-11-19T19:57:46+00:00",
+        "title": "10月外销订单1238亿美元续创高 年增78.3%连21红",
+        "link": "https://www.cna.com.tw/news/afe/202611200201.aspx",
+        "published_at": "2026-11-20T08:20:54+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "Anthropic挂牌掀AI热潮 欧股仍收低",
-        "link": "https://www.cna.com.tw/news/afe/202611200005.aspx",
-        "published_at": "2026-11-19T18:08:38+00:00",
+        "title": "东协电网计划受瞩 新加坡盼吸引投资促区域经济成长",
+        "link": "https://www.cna.com.tw/news/aopl/202611200200.aspx",
+        "published_at": "2026-11-20T08:16:52+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       },
       {
-        "title": "Anthropic上市首日开盘涨34% 市值突破2兆美元",
-        "link": "https://www.cna.com.tw/news/afe/202611200004.aspx",
-        "published_at": "2026-11-19T17:47:36+00:00",
+        "title": "新台币升0.6分 收32.936元",
+        "link": "https://www.cna.com.tw/news/afe/202611200192.aspx",
+        "published_at": "2026-11-20T08:03:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "国巨跌破300元关卡创波段新低 自7/1高点回跌逾75%",
+        "link": "https://www.cna.com.tw/news/afe/202611200191.aspx",
+        "published_at": "2026-11-20T07:58:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "中工携信纮科推台塑大楼都更 机电案49亿元",
+        "link": "https://www.cna.com.tw/news/afe/202611200185.aspx",
+        "published_at": "2026-11-20T07:52:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "投资台湾三大方案累计破3兆 福懋科砸逾111亿扩封测产能",
+        "link": "https://www.cna.com.tw/news/afe/202611200180.aspx",
+        "published_at": "2026-11-20T07:45:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "日股暴跌逾3000点 Anthropic上市难救行情",
+        "link": "https://www.cna.com.tw/news/afe/202611200171.aspx",
+        "published_at": "2026-11-20T07:28:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "科技股卖压未止 日韩股收低日经狂泻3000点",
+        "link": "https://www.cna.com.tw/news/afe/202611200165.aspx",
+        "published_at": "2026-11-20T07:19:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "三大法人卖超台股522.46亿元",
+        "link": "https://www.cna.com.tw/news/afe/202611200157.aspx",
+        "published_at": "2026-11-20T07:13:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台积电创逾7个月新低价散户抢进 盘中零股交易冲241亿",
+        "link": "https://www.cna.com.tw/news/afe/202611200142.aspx",
+        "published_at": "2026-11-20T06:36:47+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "金融",
         "cached": false
       }
     ],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   },
   "中央社科技": {
     "items": [
+      {
+        "title": "AI热潮冲击企业气候承诺 Meta重新评估2030净零目标",
+        "link": "https://www.cna.com.tw/news/ait/202611200062.aspx",
+        "published_at": "2026-11-20T03:06:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "Anthropic上市首日先盛后衰 AI热潮能否延续备受关注",
+        "link": "https://www.cna.com.tw/news/ait/202611200054.aspx",
+        "published_at": "2026-11-20T02:24:34+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
       {
         "title": "阿里巴巴遭股东告诈欺 涉隐瞒与辉达间谍案关系",
         "link": "https://www.cna.com.tw/news/ait/202611200037.aspx",
@@ -422,18 +648,47 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   },
   "中央社健康": {
-    "items": [],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "items": [
+      {
+        "title": "台东马偕扩建 陈莹助取得用地吴秀华将争取医疗设备",
+        "link": "https://www.cna.com.tw/news/ahel/202611200218.aspx",
+        "published_at": "2026-11-20T08:55:31+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-20T02:19:51.031788+00:00"
+    "items": [
+      {
+        "title": "英国女子遭丈夫下药，13年间被陌生男子轮流性侵",
+        "link": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/simp",
+        "published_at": "2026-11-20T01:24:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "Anthropic 破纪录IPO能否阻止AI泡沫破裂？",
+        "link": "https://www.bbc.com/zhongwen/articles/cw7v2zlle4v4o/simp",
+        "published_at": "2026-11-19T16:00:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-20T10:13:33.699250+00:00"
   }
 }
