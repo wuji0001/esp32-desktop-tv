@@ -11,18 +11,208 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   },
   "RFI中文": {
-    "items": [],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "items": [
+      {
+        "title": "巴西总统卢拉探访94岁的原住民领袖拉奥尼，宣布将把其祖居地确立为原住民保护区",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261120-%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E5%8D%A2%E6%8B%89%E6%8E%A2%E8%AE%BF94%E5%B2%81%E7%9A%84%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A2%86%E8%A2%96%E6%8B%89%E5%A5%A5%E5%B0%BC%EF%BC%8C%E5%AE%A3%E5%B8%83%E5%B0%86%E6%8A%8A%E5%85%B6%E7%A5%96%E5%B1%85%E5%9C%B0%E7%A1%AE%E7%AB%8B%E4%B8%BA%E5%8E%9F%E4%BD%8F%E6%B0%91%E4%BF%9D%E6%8A%A4%E5%8C%BA",
+        "published_at": "2026-11-20T23:25:33+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "脱欧公投十年 英国可能重返欧盟吗？",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261120-%E8%84%B1%E6%AC%A7%E5%85%AC%E6%8A%95%E5%8D%81%E5%B9%B4-%E8%8B%B1%E5%9B%BD%E5%8F%AF%E8%83%BD%E9%87%8D%E8%BF%94%E6%AC%A7%E7%9B%9F%E5%90%97",
+        "published_at": "2026-11-20T22:31:40+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "丹麦指责俄罗斯企图暗杀一名乌克兰说唱歌手",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261120-%E4%B8%B9%E9%BA%A6%E6%8C%87%E8%B4%A3%E4%BF%84%E7%BD%97%E6%96%AF%E4%BC%81%E5%9B%BE%E6%9A%97%E6%9D%80%E4%B8%80%E5%90%8D%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AF%B4%E5%94%B1%E6%AD%8C%E6%89%8B",
+        "published_at": "2026-11-20T21:44:39+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美民主党议员批特朗普遭习近平普京利用 指美中俄峰会毫无成果",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261120-%E7%BE%8E%E6%B0%91%E4%B8%BB%E5%85%9A%E8%AE%AE%E5%91%98%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%99%AE%E4%BA%AC%E5%88%A9%E7%94%A8-%E6%8C%87%E7%BE%8E%E4%B8%AD%E4%BF%84%E5%B3%B0%E4%BC%9A%E6%AF%AB%E6%97%A0%E6%88%90%E6%9E%9C",
+        "published_at": "2026-11-20T21:39:47+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧洲各地爆发了抗议活动 ，高喊： “为我们的未来而战，而不是为他们的战争而战”",
+        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261120-%E6%AC%A7%E6%B4%B2%E5%90%84%E5%9C%B0%E7%88%86%E5%8F%91%E4%BA%86%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8-%EF%BC%8C%E9%AB%98%E5%96%8A-%E4%B8%BA%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5%E8%80%8C%E6%88%98%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BB%96%E4%BB%AC%E7%9A%84%E6%88%98%E4%BA%89%E8%80%8C%E6%88%98",
+        "published_at": "2026-11-20T21:18:25+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "如果有“充分参与权”，欧盟国家领导人愿意去莫斯科参加乌克兰问题会谈",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261120-%E5%A6%82%E6%9E%9C%E6%9C%89-%E5%85%85%E5%88%86%E5%8F%82%E4%B8%8E%E6%9D%83-%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%84%BF%E6%84%8F%E5%8E%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%82%E5%8A%A0%E4%B9%8C%E5%85%8B%E5%85%B0%E9%97%AE%E9%A2%98%E4%BC%9A%E8%B0%88",
+        "published_at": "2026-11-20T20:51:34+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "王毅：COP31最重要的是达成共识",
+        "link": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20261120-cop31-%E7%8E%8B%E6%AF%85-%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
+        "published_at": "2026-11-20T20:22:40+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "特朗普没有和习近平讨论黄仁勋的事",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261120-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B2%A1%E6%9C%89%E5%92%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%A8%E8%AE%BA%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E4%BA%8B",
+        "published_at": "2026-11-20T19:15:49+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "COP31 : 各国就协议草案分歧重大 会议延期一天",
+        "link": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20261120-cop31-%E5%90%84%E5%9B%BD%E5%B0%B1%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E5%88%86%E6%AD%A7%E9%87%8D%E5%A4%A7-%E4%BC%9A%E8%AE%AE%E5%BB%B6%E6%9C%9F%E4%B8%80%E5%A4%A9",
+        "published_at": "2026-11-20T18:53:28+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "爱沙尼亚执行关闭边境至少半年 俄国警告将采取政治外交反制",
+        "link": "https://www.cna.com.tw/news/aopl/202611210022.aspx",
+        "published_at": "2026-11-20T23:20:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "义大利核准特斯拉辅助驾驶系统 媒体戏称最严苛试炼场",
+        "link": "https://www.cna.com.tw/news/aopl/202611210021.aspx",
+        "published_at": "2026-11-20T23:14:35+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国提供菲律宾防务协助 川普：菲同意向美采购农产品及能源",
+        "link": "https://www.cna.com.tw/news/aopl/202611210019.aspx",
+        "published_at": "2026-11-20T22:40:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普捍卫与习近平普丁关系 称美国因此安全无虞",
+        "link": "https://www.cna.com.tw/news/aopl/202611210014.aspx",
+        "published_at": "2026-11-20T21:54:16+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "控俄涉暗杀乌克兰歌手未遂 丹麦：将驱逐俄国防武官、研议签证禁令",
+        "link": "https://www.cna.com.tw/news/aopl/202611210013.aspx",
+        "published_at": "2026-11-20T21:49:14+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋同意赴美国国会公开作证 中国间谍疑云成焦点",
+        "link": "https://www.cna.com.tw/news/aopl/202611210012.aspx",
+        "published_at": "2026-11-20T20:57:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普吁辉达让黄仁勋回锅 称习近平也赞他是人才",
+        "link": "https://www.cna.com.tw/news/aopl/202611210011.aspx",
+        "published_at": "2026-11-20T20:46:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "路透：辉达再陷法律风暴 SEC调查会计作业",
+        "link": "https://www.cna.com.tw/news/aopl/202611210010.aspx",
+        "published_at": "2026-11-20T19:53:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "AI热潮降温拖累风险资产 比特币跌破6万美元",
+        "link": "https://www.cna.com.tw/news/aopl/202611210009.aspx",
+        "published_at": "2026-11-20T19:36:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普：美国只想卖中国较旧款晶片 正洽谈全面协议",
+        "link": "https://www.cna.com.tw/news/aopl/202611210008.aspx",
+        "published_at": "2026-11-20T19:12:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普：普丁盼透过外交途径 结束俄乌战争",
+        "link": "https://www.cna.com.tw/news/aopl/202611210007.aspx",
+        "published_at": "2026-11-20T18:49:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美中争夺AI霸权仍达共识 川习同意重大军事决策须有人类把关",
+        "link": "https://www.cna.com.tw/news/aopl/202611210006.aspx",
+        "published_at": "2026-11-20T18:22:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "川普习近平会谈 美财长：未提及黄仁勋",
         "link": "https://www.cna.com.tw/news/aopl/202611210004.aspx",
@@ -33,10 +223,46 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "油价涨 周线连3黑",
+        "link": "https://www.cna.com.tw/news/afe/202611210018.aspx",
+        "published_at": "2026-11-20T22:27:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "AI股卖压持续涌出 美股收黑、那指重挫逾5%",
+        "link": "https://www.cna.com.tw/news/afe/202611210015.aspx",
+        "published_at": "2026-11-20T22:08:19+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "路透：辉达再陷法律风暴 SEC调查会计作业",
+        "link": "https://www.cna.com.tw/news/aopl/202611210010.aspx",
+        "published_at": "2026-11-20T19:53:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "AI热潮降温拖累风险资产 比特币跌破6万美元",
+        "link": "https://www.cna.com.tw/news/aopl/202611210009.aspx",
+        "published_at": "2026-11-20T19:36:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "Anthropic上市难消疑虑 欧股受挫",
         "link": "https://www.cna.com.tw/news/afe/202611210003.aspx",
@@ -47,22 +273,22 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-20T18:38:25.814626+00:00"
+    "last_success": "2026-11-21T00:17:33.857717+00:00"
   }
 }
