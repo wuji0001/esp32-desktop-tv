@@ -11,7 +11,7 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   },
   "RFI中文": {
     "items": [
@@ -97,14 +97,167 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "卢比欧与范斯陪同出席白宫记者会 川普玩试镜秀测试潜在接班人",
+        "link": "https://www.cna.com.tw/news/aopl/202611210112.aspx",
+        "published_at": "2026-11-21T06:44:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "缅甸遭认定种族灭绝 称国际法院裁决未反映实况",
+        "link": "https://www.cna.com.tw/news/aopl/202611210093.aspx",
+        "published_at": "2026-11-21T05:32:16+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普结束亚洲行返美 白宫记者会畅谈伊朗、内政与接班人",
+        "link": "https://www.cna.com.tw/news/aopl/202611210086.aspx",
+        "published_at": "2026-11-21T05:10:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "韩国总统视察蔚山SK资料中心 强调AI基础建设重要性",
+        "link": "https://www.cna.com.tw/news/aopl/202611210083.aspx",
+        "published_at": "2026-11-21T05:00:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普称普丁「朋友」后 泽伦斯基批普丁是「凶手」",
+        "link": "https://www.cna.com.tw/news/aopl/202611210081.aspx",
+        "published_at": "2026-11-21T04:55:48+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "范斯拒答是否会下令攻打伊朗 回避川普表态要求",
+        "link": "https://www.cna.com.tw/news/aopl/202611210077.aspx",
+        "published_at": "2026-11-21T04:27:39+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "金融时报：伊朗战事恐拖至明年 中央司令部吃不消",
+        "link": "https://www.cna.com.tw/news/aopl/202611210064.aspx",
+        "published_at": "2026-11-21T03:42:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "桃机转机客北美占4成 观光署推转机旅游主题网站",
+        "link": "https://www.cna.com.tw/news/ahel/202611210056.aspx",
+        "published_at": "2026-11-21T03:19:54+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "华盛顿邮报：五角大厦密令限制美加防务合作 加剧双边紧张关系",
+        "link": "https://www.cna.com.tw/news/aopl/202611210051.aspx",
+        "published_at": "2026-11-21T03:01:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普：中国正大举扩充核武 10年内恐追上美国",
+        "link": "https://www.cna.com.tw/news/aopl/202611210040.aspx",
+        "published_at": "2026-11-21T01:29:17+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "匈牙利撤回反对 乌克兰、摩尔多瓦入欧盟谈判可望推进",
+        "link": "https://www.cna.com.tw/news/aopl/202611210039.aspx",
+        "published_at": "2026-11-21T01:29:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "瑞士营造业前景看好 技职博览会扩大招募学徒",
+        "link": "https://www.cna.com.tw/news/aopl/202611210036.aspx",
+        "published_at": "2026-11-21T01:16:09+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "秘鲁中部地震规模6.8 首都利马居民逃出家门",
+        "link": "https://www.cna.com.tw/news/aopl/202611210035.aspx",
+        "published_at": "2026-11-21T01:13:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧洲军演之际俄飞弹落波兰 总理控挑衅北约批侵犯领空",
+        "link": "https://www.cna.com.tw/news/aopl/202611210033.aspx",
+        "published_at": "2026-11-21T00:52:02+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "芬兰创业盛会Slush「押注欧洲」 聚焦AI与硬体创新",
+        "link": "https://www.cna.com.tw/news/aopl/202611210030.aspx",
+        "published_at": "2026-11-21T00:42:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "燃油价格飙升、空域受限 印度航空2026财年亏损逾781亿元",
+        "link": "https://www.cna.com.tw/news/aopl/202611210025.aspx",
+        "published_at": "2026-11-21T00:26:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "不许美企至他国建资料中心 川普扬言祭重税防堵",
+        "link": "https://www.cna.com.tw/news/aopl/202611210024.aspx",
+        "published_at": "2026-11-20T23:37:42+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "爱沙尼亚执行关闭边境至少半年 俄国警告将采取政治外交反制",
         "link": "https://www.cna.com.tw/news/aopl/202611210022.aspx",
@@ -131,102 +284,93 @@
         "via": "中央社",
         "category": "全球",
         "cached": false
-      },
-      {
-        "title": "川普捍卫与习近平普丁关系 称美国因此安全无虞",
-        "link": "https://www.cna.com.tw/news/aopl/202611210014.aspx",
-        "published_at": "2026-11-20T21:54:16+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "控俄涉暗杀乌克兰歌手未遂 丹麦：将驱逐俄国防武官、研议签证禁令",
-        "link": "https://www.cna.com.tw/news/aopl/202611210013.aspx",
-        "published_at": "2026-11-20T21:49:14+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "黄仁勋同意赴美国国会公开作证 中国间谍疑云成焦点",
-        "link": "https://www.cna.com.tw/news/aopl/202611210012.aspx",
-        "published_at": "2026-11-20T20:57:11+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "川普吁辉达让黄仁勋回锅 称习近平也赞他是人才",
-        "link": "https://www.cna.com.tw/news/aopl/202611210011.aspx",
-        "published_at": "2026-11-20T20:46:09+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "路透：辉达再陷法律风暴 SEC调查会计作业",
-        "link": "https://www.cna.com.tw/news/aopl/202611210010.aspx",
-        "published_at": "2026-11-20T19:53:05+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "AI热潮降温拖累风险资产 比特币跌破6万美元",
-        "link": "https://www.cna.com.tw/news/aopl/202611210009.aspx",
-        "published_at": "2026-11-20T19:36:03+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "川普：美国只想卖中国较旧款晶片 正洽谈全面协议",
-        "link": "https://www.cna.com.tw/news/aopl/202611210008.aspx",
-        "published_at": "2026-11-20T19:12:00+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "川普：普丁盼透过外交途径 结束俄乌战争",
-        "link": "https://www.cna.com.tw/news/aopl/202611210007.aspx",
-        "published_at": "2026-11-20T18:49:58+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "美中争夺AI霸权仍达共识 川习同意重大军事决策须有人类把关",
-        "link": "https://www.cna.com.tw/news/aopl/202611210006.aspx",
-        "published_at": "2026-11-20T18:22:55+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
-      },
-      {
-        "title": "川普习近平会谈 美财长：未提及黄仁勋",
-        "link": "https://www.cna.com.tw/news/aopl/202611210004.aspx",
-        "published_at": "2026-11-20T17:30:50+00:00",
-        "source": "中央社",
-        "via": "中央社",
-        "category": "全球",
-        "cached": false
       }
     ],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "NGINX释重大安全更新 资安署吁尽速升级防范入侵",
+        "link": "https://www.cna.com.tw/news/ait/202611210071.aspx",
+        "published_at": "2026-11-21T03:51:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "那斯达克重挫5.3%逼近熊市 美股AI震荡重点一次看",
+        "link": "https://www.cna.com.tw/news/afe/202611210053.aspx",
+        "published_at": "2026-11-21T03:08:47+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "AI股卖压扩散美股重挫 标普500与道琼陷入修正",
+        "link": "https://www.cna.com.tw/news/afe/202611210047.aspx",
+        "published_at": "2026-11-21T02:33:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "智慧制造研发计划促投资逾154亿 经部助攻高阶工具机自主化",
+        "link": "https://www.cna.com.tw/news/afe/202611210042.aspx",
+        "published_at": "2026-11-21T01:54:22+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "沙拉油每月需求2.41万吨 经部协调增产进口、媒合供货补缺口",
+        "link": "https://www.cna.com.tw/news/afe/202611210038.aspx",
+        "published_at": "2026-11-21T01:27:13+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "雷虎科技董事长陈冠如：无人机非艺术品 消耗战须具大量生产能力【专访】",
+        "link": "https://www.cna.com.tw/news/afe/202611210032.aspx",
+        "published_at": "2026-11-21T00:50:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "Anthropic上市难挽跌势 AI股单周市值蒸发逾4兆美元",
+        "link": "https://www.cna.com.tw/news/afe/202611210031.aspx",
+        "published_at": "2026-11-21T00:47:58+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "燃油价格飙升、空域受限 印度航空2026财年亏损逾781亿元",
+        "link": "https://www.cna.com.tw/news/aopl/202611210025.aspx",
+        "published_at": "2026-11-21T00:26:45+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "辉达重挫14%连7周收黑 创金融危机后最长纪录",
+        "link": "https://www.cna.com.tw/news/afe/202611210020.aspx",
+        "published_at": "2026-11-20T22:46:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "油价涨 周线连3黑",
         "link": "https://www.cna.com.tw/news/afe/202611210018.aspx",
@@ -273,22 +417,51 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   },
   "中央社科技": {
-    "items": [],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "items": [
+      {
+        "title": "NGINX释重大安全更新 资安署吁尽速升级防范入侵",
+        "link": "https://www.cna.com.tw/news/ait/202611210071.aspx",
+        "published_at": "2026-11-21T03:51:25+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "芬兰创业盛会Slush「押注欧洲」 聚焦AI与硬体创新",
+        "link": "https://www.cna.com.tw/news/aopl/202611210030.aspx",
+        "published_at": "2026-11-21T00:42:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   },
   "中央社健康": {
-    "items": [],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "items": [
+      {
+        "title": "止痛药每月服用近百颗 医：药物过度使用头痛",
+        "link": "https://www.cna.com.tw/news/ahel/202611210098.aspx",
+        "published_at": "2026-11-21T05:42:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "医疗",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-21T00:17:33.857717+00:00"
+    "last_success": "2026-11-21T07:28:29.939889+00:00"
   }
 }
