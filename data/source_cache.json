@@ -1,38 +1,85 @@
 {
   "BBC中文": {
     "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   },
   "RFI中文": {
-    "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "items": [
+      {
+        "title": "美国普林斯顿中国博士生机场遭ICE拘留 国土安全部称逾期居留",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261122-%E7%BE%8E%E5%9B%BD%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%9C%BA%E5%9C%BA%E9%81%ADice%E6%8B%98%E7%95%99-%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E7%A7%B0%E9%80%BE%E6%9C%9F%E5%B1%85%E7%95%99",
+        "published_at": "2026-11-22T21:42:27+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   },
   "中央社国际": {
-    "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "items": [
+      {
+        "title": "黄仁勋回归？美财长：他已是外部人士 等待辉达说明",
+        "link": "https://www.cna.com.tw/news/aopl/202611230008.aspx",
+        "published_at": "2026-11-22T21:03:42+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "3枚俄罗斯飞弹坠落境内波兰谴责挑衅 北约将开会商讨",
+        "link": "https://www.cna.com.tw/news/aopl/202611230007.aspx",
+        "published_at": "2026-11-22T19:57:38+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "达美航空自动化系统故障 感恩节前夕全美上千航班延误",
+        "link": "https://www.cna.com.tw/news/aopl/202611230006.aspx",
+        "published_at": "2026-11-22T19:17:36+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普：若舒默出任参院多数党领袖 合作将有困难",
+        "link": "https://www.cna.com.tw/news/aopl/202611230005.aspx",
+        "published_at": "2026-11-22T17:09:31+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   },
   "中央社财经": {
     "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-22T16:11:37.446055+00:00"
+    "last_success": "2026-11-22T21:45:56.883326+00:00"
   }
 }
