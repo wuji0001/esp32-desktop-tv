@@ -1,7 +1,44 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "items": [
+      {
+        "title": "凯特王妃在BBC纪录片《疗愈》中谈癌症如何改变了她",
+        "link": "https://www.bbc.com/zhongwen/articles/crn4kj25vqlyo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T07:39:24+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "医疗",
+        "cached": false
+      },
+      {
+        "title": "以毒攻毒？道路安全研究人员找 《GTA》帮忙",
+        "link": "https://www.bbc.com/zhongwen/articles/c8p3vdpxwk5xo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T06:19:03+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利",
+        "link": "https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T03:46:29+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "地球迎来新的「迷你月亮」——它并不孤单",
+        "link": "https://www.bbc.com/zhongwen/articles/cqy7rg0yyxxko/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T01:30:51+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   },
   "RFI中文": {
     "items": [
@@ -87,55 +124,271 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   },
   "中央社国际": {
     "items": [
       {
-        "title": "乌无人机袭俄货轮引发火灾 俄直升机疑侵入芬兰领空",
-        "link": "https://www.cna.com.tw/news/aopl/202611220006.aspx",
-        "published_at": "2026-11-21T22:03:41+00:00",
+        "title": "南韩教育部长因AI作弊风波请辞 考前称没把握防弊挨批",
+        "link": "https://www.cna.com.tw/news/aopl/202611220100.aspx",
+        "published_at": "2026-11-22T07:14:14+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "巴林称民用工业设施遭伊朗袭击起火 暂未传伤亡",
-        "link": "https://www.cna.com.tw/news/aopl/202611220005.aspx",
-        "published_at": "2026-11-21T21:15:38+00:00",
+        "title": "以色列政局破冰 艾森科特邀尼坦雅胡政党谈组阁",
+        "link": "https://www.cna.com.tw/news/aopl/202611220097.aspx",
+        "published_at": "2026-11-22T07:02:08+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "加拿大防长：美加军事合作依旧密切 未见关系生变",
-        "link": "https://www.cna.com.tw/news/aopl/202611220004.aspx",
-        "published_at": "2026-11-21T20:50:36+00:00",
+        "title": "巴林工业设施遭伊朗攻击起火 革命卫队称袭美军据点",
+        "link": "https://www.cna.com.tw/news/aopl/202611220090.aspx",
+        "published_at": "2026-11-22T06:25:52+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       },
       {
-        "title": "墨西哥逮捕FBI十大通缉毒枭 当地爆枪战与暴力事件",
-        "link": "https://www.cna.com.tw/news/aopl/202611220002.aspx",
-        "published_at": "2026-11-21T17:35:28+00:00",
+        "title": "美移民局突袭西雅图机场逮人 华盛顿州长痛批失控",
+        "link": "https://www.cna.com.tw/news/aopl/202611220089.aspx",
+        "published_at": "2026-11-22T06:16:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "冲绳首里城正殿浴火重生 修理4年后风华再现",
+        "link": "https://www.cna.com.tw/news/aopl/202611220074.aspx",
+        "published_at": "2026-11-22T05:03:15+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "印尼糖果工厂遇祝融3死4伤 36人下落不明",
+        "link": "https://www.cna.com.tw/news/aopl/202611220072.aspx",
+        "published_at": "2026-11-22T04:58:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴西南部城镇遭致命风暴重创 酿4死162伤数千屋毁",
+        "link": "https://www.cna.com.tw/news/aopl/202611220068.aspx",
+        "published_at": "2026-11-22T04:42:01+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "墨西哥逮捕FBI十大通缉毒枭 行动酿11死",
+        "link": "https://www.cna.com.tw/news/aopl/202611220065.aspx",
+        "published_at": "2026-11-22T04:33:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "法国民众连续第6个周末示威 抗议物价飙涨与公共服务问题",
+        "link": "https://www.cna.com.tw/news/aopl/202611220058.aspx",
+        "published_at": "2026-11-22T04:18:40+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "日本文科大臣争议延烧 自民党暗示可能换人",
+        "link": "https://www.cna.com.tw/news/aopl/202611220054.aspx",
+        "published_at": "2026-11-22T03:51:31+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴西前总统波索纳洛 急性腹部阻塞住进加护病房",
+        "link": "https://www.cna.com.tw/news/aopl/202611220050.aspx",
+        "published_at": "2026-11-22T03:19:22+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "波兰控俄罗斯侵犯领空 北约承诺捍卫波兰每寸领土",
+        "link": "https://www.cna.com.tw/news/aopl/202611220038.aspx",
+        "published_at": "2026-11-22T02:58:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "COP31气候峰会接近达成最终协议 主席国发布新方案",
+        "link": "https://www.cna.com.tw/news/aopl/202611220036.aspx",
+        "published_at": "2026-11-22T02:57:52+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "印度假酒案酿16死 至少600人住院",
+        "link": "https://www.cna.com.tw/news/aopl/202611220035.aspx",
+        "published_at": "2026-11-22T02:49:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美国会预算处忧AUKUS弱化美潜舰规模 澳防长驳斥",
+        "link": "https://www.cna.com.tw/news/aopl/202611220027.aspx",
+        "published_at": "2026-11-22T01:57:32+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "AI挑战160年数学难题 研究员称找到黎曼猜想证明",
+        "link": "https://www.cna.com.tw/news/aopl/202611220022.aspx",
+        "published_at": "2026-11-22T01:44:21+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "比特币跌至2年低点后反弹 涨逾8%回升至近6万美元",
+        "link": "https://www.cna.com.tw/news/aopl/202611220017.aspx",
+        "published_at": "2026-11-22T01:06:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "北美台商齐聚田纳西州 新任州长当选人：台美往来更紧密",
+        "link": "https://www.cna.com.tw/news/aopl/202611220016.aspx",
+        "published_at": "2026-11-22T00:59:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "英耐力泳将荷莫兹海峡长泳 吁重启航道清理战火污染",
+        "link": "https://www.cna.com.tw/news/aopl/202611220013.aspx",
+        "published_at": "2026-11-22T00:18:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "瑞士青年反战游行 专家忧鼓吹暴力团体渗透",
+        "link": "https://www.cna.com.tw/news/aopl/202611220012.aspx",
+        "published_at": "2026-11-22T00:13:58+00:00",
         "source": "中央社",
         "via": "中央社",
         "category": "全球",
         "cached": false
       }
     ],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "台塑化：23日起汽柴油价格维持不变",
+        "link": "https://www.cna.com.tw/news/ahel/202611220086.aspx",
+        "published_at": "2026-11-22T05:48:43+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美台股狂泻金管会禁空令升级 法人：台股23日力抗卖压",
+        "link": "https://www.cna.com.tw/news/afe/202611220085.aspx",
+        "published_at": "2026-11-22T05:44:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "骇客猛攻金融业 国银今年探测攻击逾2000万次、AI上阵协防",
+        "link": "https://www.cna.com.tw/news/afe/202611220031.aspx",
+        "published_at": "2026-11-22T02:13:41+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "AI攻击新时代推升资安需求 业者案量多到婉拒客户、教战防骇自保",
+        "link": "https://www.cna.com.tw/news/afe/202611220029.aspx",
+        "published_at": "2026-11-22T02:10:37+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "黄仁勋去职美严控AI产业 重大事件和供应链看法一次看",
+        "link": "https://www.cna.com.tw/news/afe/202611220026.aspx",
+        "published_at": "2026-11-22T01:54:30+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "后黄仁勋时代辉达结盟供应链 AI订单无虞主导地位稳固",
+        "link": "https://www.cna.com.tw/news/afe/202611220025.aspx",
+        "published_at": "2026-11-22T01:54:28+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "比特币跌至2年低点后反弹 涨逾8%回升至近6万美元",
+        "link": "https://www.cna.com.tw/news/aopl/202611220017.aspx",
+        "published_at": "2026-11-22T01:06:10+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "北美台商齐聚田纳西州 新任州长当选人：台美往来更紧密",
+        "link": "https://www.cna.com.tw/news/aopl/202611220016.aspx",
+        "published_at": "2026-11-22T00:59:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "亚马逊抗衡辉达 传砸2470亿收购AI新锐Decart",
         "link": "https://www.cna.com.tw/news/afe/202611220015.aspx",
@@ -146,22 +399,22 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   },
   "Bing中文国际": {
     "items": [],
-    "last_success": "2026-11-22T01:10:15.331110+00:00"
+    "last_success": "2026-11-22T07:59:46.575871+00:00"
   }
 }
