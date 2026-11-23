@@ -1,10 +1,92 @@
 {
   "BBC中文": {
-    "items": [],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "items": [
+      {
+        "title": "Anthropic公司或许已解决重大数学难题：黎曼猜想",
+        "link": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-23T00:10:59+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "你的孩子会说谎吗？这或许并非坏事",
+        "link": "https://www.bbc.com/zhongwen/articles/crvg2lyq7dxvo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-23T00:10:13+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "说唱歌手出身尼泊尔新总理首访印度：如何平衡对华关系",
+        "link": "https://www.bbc.com/zhongwen/articles/c64gn9jl5lveo/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-23T00:09:54+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "第31届联合国气候大会以失败告终 : 欧盟说深感失望，法国说新协议草案是倒退",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261122-%E7%AC%AC31%E5%B1%8A%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E5%A4%A7%E4%BC%9A%E4%BB%A5%E5%A4%B1%E8%B4%A5%E5%91%8A%E7%BB%88-%E6%AC%A7%E7%9B%9F%E8%AF%B4%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B%EF%BC%8C%E6%B3%95%E5%9B%BD%E8%AF%B4%E6%96%B0%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E6%98%AF%E5%80%92%E9%80%80",
+        "published_at": "2026-11-22T22:51:28+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "班加西港的俄罗斯船只疑似遭到无人机袭击，引发爆炸",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261122-%E7%8F%AD%E5%8A%A0%E8%A5%BF%E6%B8%AF%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E8%88%B9%E5%8F%AA%E7%96%91%E4%BC%BC%E9%81%AD%E5%88%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%EF%BC%8C%E5%BC%95%E5%8F%91%E7%88%86%E7%82%B8",
+        "published_at": "2026-11-22T22:50:06+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "俄罗斯对基辅州多地发动袭击，造成至少6人死亡",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261122-%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E5%9F%BA%E8%BE%85%E5%B7%9E%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB%EF%BC%8C%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%916%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+        "published_at": "2026-11-22T22:45:46+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "巴林周日报告：伊朗在前一天对巴林境内“一处民用工业设施”发动的袭击",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261122-%E5%B7%B4%E6%9E%97%E5%91%A8%E6%97%A5%E6%8A%A5%E5%91%8A-%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%89%8D%E4%B8%80%E5%A4%A9%E5%AF%B9%E5%B7%B4%E6%9E%97%E5%A2%83%E5%86%85-%E4%B8%80%E5%A4%84%E6%B0%91%E7%94%A8%E5%B7%A5%E4%B8%9A%E8%AE%BE%E6%96%BD-%E5%8F%91%E5%8A%A8%E7%9A%84%E8%A2%AD%E5%87%BB",
+        "published_at": "2026-11-22T22:41:23+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "欧国联八强 法国队将再遭强敌西班牙队拦路 德甲联赛 樊振东先输后赢",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261122-%E6%AC%A7%E5%9B%BD%E8%81%94%E5%85%AB%E5%BC%BA-%E6%B3%95%E5%9B%BD%E9%98%9F%E5%B0%86%E5%86%8D%E9%81%AD%E5%BC%BA%E6%95%8C%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E6%8B%A6%E8%B7%AF-%E5%BE%B7%E7%94%B2%E8%81%94%E8%B5%9B-%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%88%E8%BE%93%E5%90%8E%E8%B5%A2",
+        "published_at": "2026-11-22T21:57:26+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "中国前国家安全部部长陈文清赴德参加德中安全对话引发关注",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261122-%E4%B8%AD%E5%9B%BD%E5%89%8D%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%83%A8%E9%83%A8%E9%95%BF%E9%99%88%E6%96%87%E6%B8%85%E8%B5%B4%E5%BE%B7%E5%8F%82%E5%8A%A0%E5%BE%B7%E4%B8%AD%E5%AE%89%E5%85%A8%E5%AF%B9%E8%AF%9D%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8",
+        "published_at": "2026-11-22T21:49:29+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "美国普林斯顿中国博士生机场遭ICE拘留 国土安全部称逾期居留",
         "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261122-%E7%BE%8E%E5%9B%BD%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%9C%BA%E5%9C%BA%E9%81%ADice%E6%8B%98%E7%95%99-%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E7%A7%B0%E9%80%BE%E6%9C%9F%E5%B1%85%E7%95%99",
@@ -15,14 +97,95 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "算力需求仍强劲 AI伺服器供应商签约后喊涨达45%",
+        "link": "https://www.cna.com.tw/news/aopl/202611230029.aspx",
+        "published_at": "2026-11-23T01:24:33+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "COP31气候峰会破局 全球气候外交机制面临改革压力",
+        "link": "https://www.cna.com.tw/news/aopl/202611230026.aspx",
+        "published_at": "2026-11-23T01:15:27+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "俄舰停泊利比亚遇袭沉没 传遭无人艇夜间突袭",
+        "link": "https://www.cna.com.tw/news/aopl/202611230020.aspx",
+        "published_at": "2026-11-23T00:54:13+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "川普斥伊朗外交谈判「全是废话」 扬言新年后再出击",
+        "link": "https://www.cna.com.tw/news/aopl/202611230016.aspx",
+        "published_at": "2026-11-23T00:36:05+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美前国安顾问：辉达看似规避晶片管制 难说有法律风险",
+        "link": "https://www.cna.com.tw/news/aopl/202611230014.aspx",
+        "published_at": "2026-11-22T23:57:00+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "苏林APEC进场曲惹议 越南网友批北京暗讽随波逐流酸算计",
+        "link": "https://www.cna.com.tw/news/aopl/202611230013.aspx",
+        "published_at": "2026-11-22T23:38:57+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "义媒：Anthropic执行长购南义庄园 拟长住投资",
+        "link": "https://www.cna.com.tw/news/aopl/202611230012.aspx",
+        "published_at": "2026-11-22T23:22:55+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "欧盟预算草案砍国防经费近3成 德总理吁安全优先",
+        "link": "https://www.cna.com.tw/news/aopl/202611230011.aspx",
+        "published_at": "2026-11-22T23:11:53+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "土耳其数千人上街示威 抗议亲反对派媒体遭到关闭",
+        "link": "https://www.cna.com.tw/news/aopl/202611230010.aspx",
+        "published_at": "2026-11-22T22:29:47+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "黄仁勋回归？美财长：他已是外部人士 等待辉达说明",
         "link": "https://www.cna.com.tw/news/aopl/202611230008.aspx",
@@ -60,26 +223,101 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   },
   "中央社财经": {
-    "items": [],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "items": [
+      {
+        "title": "韩股开盘挫跌约3% AI晶片股涨势遇逆风",
+        "link": "https://www.cna.com.tw/news/afe/202611230025.aspx",
+        "published_at": "2026-11-23T01:13:24+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "新台币开盘贬1.4分 为32.95元",
+        "link": "https://www.cna.com.tw/news/afe/202611230024.aspx",
+        "published_at": "2026-11-23T01:07:22+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "台股开盘跌133.81点",
+        "link": "https://www.cna.com.tw/news/afe/202611230023.aspx",
+        "published_at": "2026-11-23T01:03:20+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "美股费半重挫10% 投顾：关注禁空令与国安基金护盘",
+        "link": "https://www.cna.com.tw/news/afe/202611230015.aspx",
+        "published_at": "2026-11-23T00:15:02+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   },
   "中央社科技": {
-    "items": [],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "items": [
+      {
+        "title": "美情报总监示警 系统汰旧换新恐酿更多科技当机",
+        "link": "https://www.cna.com.tw/news/ait/202611230019.aspx",
+        "published_at": "2026-11-23T00:41:11+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      },
+      {
+        "title": "OpenAI科学家建议以困惑度为指标 订定AI发展业界门槛",
+        "link": "https://www.cna.com.tw/news/ait/202611230017.aspx",
+        "published_at": "2026-11-23T00:37:07+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "科技",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-22T21:45:56.883326+00:00"
+    "items": [
+      {
+        "title": "说唱歌手出身尼泊尔新总理首访印度：如何平衡对华关系",
+        "link": "https://www.bbc.com/zhongwen/articles/c64gn9jl5lveo/simp",
+        "published_at": "2026-11-22T16:00:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "你的孩子会说谎吗？这或许并非坏事",
+        "link": "https://www.bbc.com/zhongwen/articles/crvg2lyq7dxvo/simp",
+        "published_at": "2026-11-22T16:00:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-23T01:59:59.876013+00:00"
   }
 }
