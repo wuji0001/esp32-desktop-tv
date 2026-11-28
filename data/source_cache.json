@@ -2,6 +2,15 @@
   "BBC中文": {
     "items": [
       {
+        "title": "台湾「九合一」选举开始投票 核电政策公投同步举行",
+        "link": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-28T00:00:00+00:00",
+        "source": "BBC",
+        "via": "BBC",
+        "category": "全球",
+        "cached": false
+      },
+      {
         "title": "台湾「九合一」选举：六都市长候选人简介",
         "link": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-27T16:04:01+00:00",
@@ -11,10 +20,46 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   },
   "RFI中文": {
     "items": [
+      {
+        "title": "中国美食将进入联合国教科文组织非物质文化遗产名录",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261127-%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E5%B0%86%E8%BF%9B%E5%85%A5%E8%81%94%E5%90%88%E5%9B%BD%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87%E9%9D%9E%E7%89%A9%E8%B4%A8%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E5%90%8D%E5%BD%95",
+        "published_at": "2026-11-27T23:34:22+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "接班人问题是死结？",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261127-%E6%8E%A5%E7%8F%AD%E4%BA%BA%E9%97%AE%E9%A2%98%E6%98%AF%E6%AD%BB%E7%BB%93",
+        "published_at": "2026-11-27T22:32:50+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "美农民忧特朗普关税措施将使出口受阻及成本上升",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261127-%E7%BE%8E%E5%86%9C%E6%B0%91%E5%BF%A7%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%E5%B0%86%E4%BD%BF%E5%87%BA%E5%8F%A3%E5%8F%97%E9%98%BB%E5%8F%8A%E6%88%90%E6%9C%AC%E4%B8%8A%E5%8D%87",
+        "published_at": "2026-11-27T22:02:40+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "法国陷入经济衰退",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261127-%E6%B3%95%E5%9B%BD%E9%99%B7%E5%85%A5%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80",
+        "published_at": "2026-11-27T21:54:11+00:00",
+        "source": "RFI",
+        "via": "RFI",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "美国空军核心云平台遭黑客入侵 敏感数据或受影响",
         "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261127-%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E6%A0%B8%E5%BF%83%E4%BA%91%E5%B9%B3%E5%8F%B0%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%95%8F%E6%84%9F%E6%95%B0%E6%8D%AE%E6%88%96%E5%8F%97%E5%BD%B1%E5%93%8D",
@@ -79,14 +124,32 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   },
   "DW中文": {
     "items": [],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   },
   "中央社国际": {
     "items": [
+      {
+        "title": "美军击瘫试图驶离伊朗商船 德黑兰誓言突破美国封锁",
+        "link": "https://www.cna.com.tw/news/aopl/202611280013.aspx",
+        "published_at": "2026-11-28T01:28:06+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
+      {
+        "title": "乌克兰雷射防空武器首传战果 击落俄罗斯喷射无人机",
+        "link": "https://www.cna.com.tw/news/aopl/202611280008.aspx",
+        "published_at": "2026-11-27T22:25:50+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "全球",
+        "cached": false
+      },
       {
         "title": "感恩节风暴袭美东造成数十万户停电 航班延误、游行改期",
         "link": "https://www.cna.com.tw/news/aopl/202611280005.aspx",
@@ -106,10 +169,37 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   },
   "中央社财经": {
     "items": [
+      {
+        "title": "OpenAI反告苹果 控窃商业机密",
+        "link": "https://www.cna.com.tw/news/afe/202611280014.aspx",
+        "published_at": "2026-11-28T01:31:08+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "法国预算赤字难减 标普下调主权信评展望至负面",
+        "link": "https://www.cna.com.tw/news/afe/202611280012.aspx",
+        "published_at": "2026-11-28T00:54:03+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
+      {
+        "title": "万家福网购系统遭攻击 未发现信用卡等金融资料外泄",
+        "link": "https://www.cna.com.tw/news/ahel/202611280009.aspx",
+        "published_at": "2026-11-27T23:57:56+00:00",
+        "source": "中央社",
+        "via": "中央社",
+        "category": "金融",
+        "cached": false
+      },
       {
         "title": "市场交投清淡 油价震荡收低",
         "link": "https://www.cna.com.tw/news/afe/202611280007.aspx",
@@ -138,22 +228,32 @@
         "cached": false
       }
     ],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   },
   "中央社科技": {
     "items": [],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   },
   "中央社健康": {
     "items": [],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   },
   "联合国健康": {
     "items": [],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   },
   "Bing中文国际": {
-    "items": [],
-    "last_success": "2026-11-27T21:29:24.299203+00:00"
+    "items": [
+      {
+        "title": "直播 , 台湾“九合一”选举开始投票 核电政策公投同步举行",
+        "link": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/simp",
+        "published_at": "2026-11-27T16:45:00+00:00",
+        "source": "BBC",
+        "via": "Bing News",
+        "category": "全球",
+        "cached": false
+      }
+    ],
+    "last_success": "2026-11-28T03:29:07.754184+00:00"
   }
 }
